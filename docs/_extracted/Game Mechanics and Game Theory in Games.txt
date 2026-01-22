@@ -1,0 +1,967 @@
+TITLE: Game Mechanics and Game Theory in Games.pdf
+PAGES: 17
+
+--- Page 1 ---
+Game Mechanics and Game Theory in Games
+Game Mechanics: Definition and Overview
+Game mechanics are the rules or methods that define how a game operates and how players interact
+with it . In both tabletop and video games, mechanics govern what actions players can take and how
+the game responds. They are the fundamental building blocks of gameplay – for example, the L-shaped
+move of the knight in chess is a mechanic (a  ludeme, or unit of play) that constrains that piece’s
+movement. The combination and interplay of various mechanics determine a game’s complexity
+and player experience. Notably, mechanics are distinct from a game’s theme or story: two games might
+share similar mechanics but feel different due to thematic context (consider the  property trading in
+Monopoly vs. resource trading in a farming game). Mechanics are also distinct from gameplay itself
+– gameplay emerges when players engage with mechanics. 
+Categories of Game Mechanics: Game designers and scholars often categorize mechanics to better
+analyze and classify games. For instance, Engelstein and Shalev’s taxonomy (in  Building Blocks of
+Tabletop  Game  Design)  divides  mechanics  into  groups  like  game  structure (turn  order ,  actions),
+economics (resource management, auctions),  uncertainty (randomness elements),  conflict (combat,
+area control), progression (engine-building, technology trees), and so on. Broadly, mechanics can
+be about how turns are structured, how players move or act, how resources are handled, how random
+chance is introduced, how players interact or conflict, and how victory is determined. In video games,
+one can also speak of core interaction mechanics (e.g. jumping, shooting, dialog choices) and how they
+combine into systems. Below, we explore a wide range of game mechanics, organized by type, with
+definitions and examples from both board games and video games.
+Examples and Types of Game Mechanics
+The universe of game mechanics is vast. What follows is a  comprehensive list of common game
+mechanics, along with brief definitions and real-game examples (🎮 for video games,  for board/
+tabletop games). This list illustrates the diversity of mechanics found in games:
+Turn-Taking (Sequential Play): Games often progress in turns, where players act one after
+another in a fixed order. This structure gives time for strategy between moves. Example: In
+Chess ( ), White moves then Black moves, and in  Civilization (🎮) each player completes all
+their actions before the next player’s turn. Some games use a game turn where all players act
+(or choose actions) within the same round. Turn-based play corresponds to what game theory
+calls a sequential game, where players can observe earlier actions before responding.
+Simultaneous Action Selection: All players choose actions secretly and reveal them at once,
+rather than waiting turns. This mechanic adds tension and requires predicting opponents’
+choices. Example:Rock-Paper-Scissors ( ) is classic simultaneous play, and Diplomacy ( ) has all
+players write down orders that execute simultaneously. In Race for the Galaxy ( ), each round
+players secretly pick roles and reveal together. In game theory terms, this aligns with a
+normal-form  (simultaneous)  game,  often  analyzed  for  Nash  equilibria  in  pure  or  mixed
+strategies.
+1
+1
+2
+3
+4
+4
+• 
+5
+5
+6
+• 
+7
+7
+1
+
+--- Page 2 ---
+Action Points: Players are given a budget of points per turn to spend on actions. Each
+possible action (move a unit, draw a card, etc.) costs a certain number of points, forcing players
+to prioritize.  Example: In  Pandemic ( ), each player has 4 actions per turn to move or treat
+diseases . In many tactical RPG video games (🎮), characters might have action points to
+allocate to moving or attacking in a turn.
+Action or Role Selection: A set of available actions or roles exists, but players may only choose a
+subset (often one) each round. Often once one player chooses an action, others cannot (this
+overlaps with action blocking). Example:Puerto Rico ( ) features role selection – if one player
+takes the “Builder” role this round, others must choose different roles. In  Terraforming
+Mars ( 🎮), players secretly pick two actions on their turn out of many options. This mechanic
+ensures players specialize and not all do the same thing every round.
+Worker Placement: A popular subset of action selection where players place tokens (“workers”)
+on limited slots to perform actions. Once a slot is taken, others usually cannot use that
+action, introducing blocking. Example:Caylus and Agricola ( ) pioneered worker placement: if
+someone places a worker on the “Build Fence” space, no one else can build fences this round
+. Even some strategy video games mimic this by assigning units to tasks (e.g. assigning
+peons to gather resources in  Warcraft/StarCraft 🎮 has been likened to a worker placement
+mechanic ). This mechanic emphasizes planning and turn order advantage.
+Resource Management: Players collect and expend resources (coins, materials, mana, etc.) and
+must optimize their use. Rules govern how resources are gained, traded, or converted, and
+skillful management often correlates with success.  Example:Settlers of Catan ( ) revolves
+around gathering wood, brick, etc., and trading them to build settlements. Real-time strategy
+video games like  StarCraft (🎮) also hinge on gathering minerals & gas and spending them
+efficiently. Resource valuation is dynamic – players must judge which resources are scarce or
+critical at each stage.
+Economics and Trading: Many games allow trading of resources or goods between players or
+with  a  bank.  This  social-economic  mechanic  encourages  bargaining  and  deals.  Example:
+Catan ( ) famously encourages “I’ll give you two sheep for one wood” style trades among players
+. In  EVE Online (🎮), players engage in a massive virtual economy, trading minerals and
+goods in a marketplace. Auction mechanics (see below) are another economic sub-type.
+Auction/Bidding: Players bid against each other , typically with in-game money or resources, to
+gain something (an item, turn order , a card). Auctions can be open-outcry (sequential bids) or
+sealed (hidden bids).  Example: In  Power Grid ( ), players bid money to buy power plants each
+round. In Modern Art ( ), various types of auctions (open, once-around, blind) are actually the
+core of gameplay. Auction mechanics come in many forms (first-price where winner pays their
+bid, or second-price where winner pays the second-highest bid, etc.), and each has strategic
+nuances . For instance, in a first-price sealed auction, optimal play involves  bid shading –
+bidding less than your true value – whereas a second-price auction encourages bidding your
+honest value since you pay only the second-highest price.
+Set Collection: Players collect sets of items (cards, tokens) usually for points or to trigger effects
+.  The  value  often  increases  with  larger  sets.  Example: In  Ticket  to  Ride ( ),  collecting
+matching colored train cards lets you claim routes, and collecting destination tickets fulfills set
+objectives . In Pokémon games (🎮), collecting sets of gym badges unlocks progress. Engine
+Building, a related concept, means using collected components to build a  synergy or combo
+• 8
+9
+• 
+10
+10
+• 
+11
+12
+13
+14
+• 
+15
+16
+16
+• 
+17
+18
+• 
+19
+19
+20
+20
+• 
+21
+21
+2
+
+--- Page 3 ---
+system that grows stronger over time. For example, Dominion ( 🎮) is a deck-building
+game (a form of engine builder) where the cards you add to your deck create feedback loops
+generating more money or actions as the game progresses.
+Dice  Rolling  /  Randomization: Using  randomness  to  determine  outcomes  introduces
+uncertainty . Dice are the classic randomizer: roll to move or to resolve combat. Card
+draws, spinners, or digital RNG serve similar roles. Example:Monopoly ( ) uses dice rolls to move
+around the board.  XCOM: Enemy Unknown (🎮) rolls virtual dice behind the scenes for hit
+chances  in  combat.  Randomness  can  add  excitement  and  variability;  different  random
+mechanisms produce different probability distributions (e.g. one six-sided die is a uniform 1–6,
+two dice produce a bell curve 2–12). Many games also feature  Procedural generation for
+randomness in level layouts or events.
+Chance vs. Risk Management: Related to dice, some games explicitly include press-your-luck
+mechanics: players can choose to take on more risk for a chance at greater reward. Example:
+In  The  Quacks  of  Quedlinburg ( ),  players  draw  ingredients  from  a  bag  to  brew  potions,
+pressing their luck not to draw a “bomb” ingredient that busts their potion. Video slot machines
+or roguelike games (🎮) similarly tempt players to risk losing progress for potential big gains. A
+good design balances the danger of risk against the reward, forcing probabilistic decision-making
+.
+Hidden Information and Deduction: Some mechanics involve information asymmetry – not all
+players have the same information. This includes fog of war in war games, hidden traitor roles,
+or secret card hands. Example:Clue (Cluedo) ( ) has secret murder cards that players deduce via
+clues.  Poker ( ) gives each player private cards; the uncertainty of others’ hands is integral.
+Social deduction games like  Werewolf/Secret Hitler ( ) give some players hidden identities
+(e.g. traitors) that others must deduce by behavior. In  Among Us (🎮), a few players are
+secretly imposters. These mechanics leverage deception and deduction skills.
+Bluffing  and  Deception: Often  tied  to  hidden  information,  bluffing  is  the  mechanic  of
+misleading  other  players  about  your  intentions  or  holdings.  Example:Poker ( )  again  is
+quintessential – betting in poker often involves bluffing with a weak hand to convince opponents
+you’re strong. In  Sheriff of Nottingham ( ), players bluff about the goods in their bag to
+avoid penalties. Bluffing requires incomplete information; it shines in games where players must
+make decisions without knowing everything. Successful bluffing means reading opponents and
+manipulating their beliefs.
+Memory Mechanics: Some games test the players’ memory. For example, matching games
+where cards are face-down and you must remember positions (like the classic children’s game
+Memory ( )) . Memory elements can also be part of larger games (e.g. remembering who
+played what card in Bridge or which areas were shown to be safe in Minesweeper (🎮)).
+Spatial Mechanics (Movement & Placement): Many board games use boards with areas or
+grids; rules for  movement govern how pieces travel these spaces.  Example: In  Chess ( ),
+each piece type has specific movement mechanics (knight’s L-shape, bishop’s diagonal, etc.). In
+Sorry! or Snakes and Ladders ( ), movement is along a track by dice roll. Some games use area
+movement on irregular regions (e.g.  Risk ( ) moves armies country to country). Video games
+extend movement mechanics into continuous space and physics – e.g. the jumping mechanic in
+Super Mario Bros. (🎮) or portal-creating in Portal (🎮) are spatial mechanics. Tile Placement is
+22 23
+22
+• 
+24 25
+26
+24
+• 
+27
+27
+• 
+28
+• 
+29
+29
+• 
+30
+• 
+31
+3
+
+--- Page 4 ---
+another  spatial  mechanic:  players  place  tiles  to  form  a  board  or  pattern (e.g.
+Carcassonne ( ) where drawing and laying tiles creates the map).
+Combat and Capture: Conflict-oriented games often have mechanics for combat or capturing
+pieces . Example: In Chess ( ), “capture” is moving onto an opponent’s piece to remove it.
+War games like Risk or Axis & Allies ( ) have combat resolved by dice. Many video games have
+combat systems (turn-based RPG battles, real-time shooting, etc.) which are essentially game
+mechanics defining how enemies are defeated. Elimination is a related mechanic: players may
+be eliminated from the game when they lose all pieces or health (e.g. players can be knocked out
+in  Risk or  Fortnite (🎮),  leaving  a  last-man-standing  victory  condition).  Capture/eliminate
+mechanics make a game more zero-sum and conflict-heavy.
+“Take That” Mechanics: A colloquial term for moves that directly harm another player’s position
+. These are often cards or actions you play  on opponents to set them back.  Example: In
+Munchkin ( ), you can play curse cards on opponents to hinder their progress – the fun comes
+from  lobbing  screw-over  moves  at  each  other.  Many  competitive  video  games  have
+analogous actions (throwing a shell at another driver in Mario Kart (🎮) is a “take that” move). 
+Hand Management: In card games, this refers to how players manage the cards in their hand –
+which to play, hold, or discard to optimize outcomes. Example: In Bohnanza ( ), the order of
+cards in hand is fixed, and you must cleverly play/trade to get good sets, exemplifying hand
+management. In many  collectible card games like  Magic: The Gathering ( 🎮), deciding
+when to play or keep certain cards is crucial, balancing short-term needs vs. future potential.
+Drafting: Players pick items (cards, tiles, etc.) from a common pool in turn, often passing the
+remainder to others. Drafting ensures everyone gets some choice from a limited set, and
+denial of picks to others is part of the strategy. Example:7 Wonders ( ) uses card drafting each
+age: you choose a card to play and pass the rest to your neighbor . In video game context,
+drafting appears in modes like drafting champions in  League of Legends (🎮) where players
+take turns picking unique characters for a match.
+Deck/Pool Building: Starting with a simple deck of cards or pool of tokens, players acquire new
+components to improve their set during play. This is  deck-building if it’s cards.  Example:
+Dominion ( ) invented the deck-building genre: each player begins with a basic deck and buys
+better cards to shuffle in, creating an evolving personal deck that hopefully yields stronger
+combos over time. In video games, Slay the Spire (🎮) adapts this mechanic as you build a
+deck of attacks/powers through a run.  Bag-building (drawing tokens from a bag) is a variant
+seen in games like Orléans ( ).
+Puzzle and Pattern Mechanics: Some games revolve around creating or recognizing patterns.
+Pattern building might reward arranging pieces in certain configurations. Example:Azul ( )
+scores points for creating specific color patterns in a mosaic.  Tetris (🎮) is essentially a
+pattern-placement game under time pressure. Deduction puzzles (solving a mystery with clues)
+or logic puzzles in games also count as mechanics when embedded in a larger game (as solving
+them is required to progress).
+Role-Playing and Narrative Choices: In many games (especially RPGs), a mechanic is giving
+players choices to develop their character or influence a story. Example:Dungeons & Dragons ( )
+has alignment mechanics (character morality) that can govern which abilities you can use.
+Video RPGs like  Mass Effect (🎮) use dialogue choice systems (Paragon/Renegade) that affect
+32 33
+• 
+34 35
+• 
+36
+36
+• 
+37
+37
+• 
+38
+• 
+39
+39
+• 
+40
+40
+• 
+41
+4
+
+--- Page 5 ---
+story  and  outcomes  –  these  are  mechanics  guiding  narrative  branching.  The  storytelling
+mechanic can even be the focus (as in Rory’s Story Cubes ( ) or interactive fiction games).
+Cooperative Mechanics: Not all games are competitive; co-op games have players versus the
+game system. Mechanics here often involve communication limits, shared resources, and win/
+lose conditions where either all players win together or lose together . Example:Pandemic ( ) is
+fully cooperative – players must coordinate their different roles’ abilities to cure diseases before
+time runs out. Left 4 Dead (🎮) is a co-op shooter where players must work together to survive
+zombie  hordes.  These  games  use  mechanics  like  trading  information,  voting  on  decisions,  or
+combining powers to encourage teamwork.
+Hidden Traitor / One-vs-Many: A special subcategory of co-op is the hidden traitor mechanic –
+one (or a few) player is secretly against the rest. Example:Battlestar Galactica board game ( )
+has some players secretly Cylons working to sabotage the humans.  Among Us (🎮) similarly
+assigns a few impostors among crewmates. The mechanics here blend cooperation (for the loyal
+players) with deduction and betrayal. A  one-vs-many game like  Fury of Dracula ( ) has one
+player openly against all others, sometimes using hidden movement or separate rules for the
+one (the Dracula player moves secretly, the hunters cooperate to find him).
+Voting and Negotiation: Some games incorporate voting on outcomes or heavy negotiation
+among players. Example: In Diplomacy ( ), negotiation is essentially free-form and unenforced –
+players make deals and alliances (often broken later) to coordinate their moves, which is a
+negotiation mechanic at its purest.  Twilight Imperium ( ) includes a political phase where
+players vote on laws that change the game’s rules; voting power can depend on resources or
+influence  collected.  Negotiation  and  voting  mechanics  introduce  coalition-building and
+persuasion into gameplay – often the social skills of players become as important as the formal
+game rules.
+Time Pressure (Real-Time Play): Not all games proceed in discrete turns; some use real-time
+action or timed turns. Real-time board games require players to act simultaneously under time
+constraints. Example:Space Alert ( ) gives players 10 minutes to coordinate a defense plan
+in real time with a soundtrack timer . Video games commonly are real-time; a notable mechanic is
+a  timer or time limit (e.g. you have 2 minutes to finish a level, or a shrinking circle in  battle
+royale games forcing timely action). A chess clock or sand timer can enforce time limits in turn-
+based games. Time-based mechanics test players’ quick decision-making and add intensity.
+• 
+• 
+42
+• 
+43
+• 
+44
+45
+5
+
+--- Page 6 ---
+A turn-based game in action: A chess board with a chess clock. Each player must manage their allotted time
+while taking turns – a classic example of sequential turn-taking and time-keeping as game mechanics.
+Victory and Loss Conditions: Every game defines how to win (and sometimes how one can lose)
+. Victory conditions could be reaching a certain score, being the last survivor , completing a
+quest, etc. . Some games even have multiple victory conditions or intermediate goals. 
+Example: In Chess, the victory condition is checkmating the opponent’s king; in Settlers of
+Catan, it’s achieving 10 victory points (via building, largest army, etc.). Some video games have 
+alternate endings depending on which victory condition is met (e.g. multiple win paths in 
+Civilization – military conquest, science, culture, etc.). Loss conditions (like player elimination or
+collective loss if a doom track fills up) shape the tension – e.g. if the virus outbreak meter hits
+maximum in Pandemic, all players lose. Many modern games include catch-up mechanics
+that prevent early leaders from running away with victory: for instance, in Mario Kart (🎮) the
+items system gives better power-ups to players further behind, and in Catan the robber piece
+specifically hinders the leading player. These mechanics are designed for balance, ensuring
+all players feel they have a chance until the end.
+The list above is not exhaustive, but it covers a broad array of known game mechanics and terms – from
+core structural mechanics (turns, actions) to  interaction mechanics (trading, combat, bluffing) to
+resource and progression mechanics (engine-building, set collection) and beyond. Game designers
+mix  and  match  these  to  create  unique  gameplay  experiences.  It’s  worth  noting  that  not  everyone
+agrees on terminology or what counts as a “mechanic” (for example, some consider dexterity or physical
+skill elements as mechanics, like flicking in  Carrom or Jenga-style balance challenges). Nonetheless,
+having a shared vocabulary of mechanics allows us to analyze and compare games more precisely.
+Game Theory: Principles and Major Models
+If game mechanics are the rules of the game, game theory is the science of strategic decision-making in
+games (and in real life scenarios abstracted as games). Game theory is an academic field that studies
+situations  where  multiple  decision-makers  (called  players)  each  have  different  possible  actions
+(strategies) and the outcome for each player depends on the choices of all. In other words, it’s the
+study of strategic interaction – how rational players make choices, anticipating others’ choices, to
+maximize their own benefit. Game theory originated in mathematics and economics, but its name
+46
+• 
+47
+47
+48
+49
+50
+51
+51
+6
+
+--- Page 7 ---
+reflects that early examples were drawn from parlour games and thought experiments, and indeed its
+terminology sounds like gaming: we speak of “players,” “moves,” “payoffs,” and “wins” or losses.
+Basic Concepts: In game theory, any strategic situation can be modeled as a game defined by a set of
+players, each player’s possible strategies, and a payoff function that assigns an outcome or utility to
+each  combination  of  strategies.  A  core  assumption  (especially  in  classical,  non-cooperative  game
+theory) is that players are  rational and seek to maximize their own payoff (utility). Importantly, the
+payoff  can  be  anything  the  decision-maker  values  –  profit,  points,  survival  probability,  etc.  –  not
+necessarily something as simple as money, but game theory often uses numerical payoffs for modeling
+convenience.  The  key  feature  is  interdependence:  each  player’s  best  choice  often  depends  on  what
+others do.
+Some key distinctions in game theory models include:
+Cooperative  vs.  Non-Cooperative  Games: In  non-cooperative game  theory,  binding
+agreements  between  players  are  not  possible;  each  player  acts  independently  in  their  own
+interest. The focus is on predicting individual strategy choices and equilibrium outcomes (e.g.
+pricing  competition  between  firms,  or  two  players  in  poker  each  trying  to  maximize  their
+winnings). Cooperative game theory, by contrast, allows players to form binding commitments
+or coalitions and focuses on group outcomes and how to fairly allocate payoffs (e.g. dividing
+profits among business partners who can make enforceable contracts). In the context of board/
+video games, “cooperative game” usually refers to players vs. environment scenarios, which can
+sometimes be mapped to a cooperative game theory problem (all players share identical payoff,
+so coalition is trivial). Non-cooperative game theory is more often applied to analyze competitive
+games and player behavior .
+Zero-Sum vs. Non-Zero-Sum Games: A zero-sum (more generally, constant-sum) game is one in
+which one player’s gain is exactly another’s loss, so the total payoff sums to zero (or some
+constant) for any outcome. These are purely competitive situations – one winner , one loser ,
+no possibility of mutual gain. Chess, for instance, is essentially zero-sum: a win for White is a loss
+for Black. Many economic or social situations are non-zero-sum, where cooperation can create
+win-win outcomes (or bad choices can be lose-lose). Non-zero-sum games allow the total payoff
+to vary; players might all benefit from cooperation or all suffer from conflict. Example:Monopoly
+can  be  seen  as  almost  zero-sum  –  when  one  player  profits,  ultimately  others  are  closer  to
+bankruptcy (the game ends with one winner , others losing everything). In fact, the designer of
+Monopoly’s precursor intended it as a lesson about how one player’s gain (landlord charging
+rent) is others’ loss. In game theory, zero-sum games have special properties: the interests of
+players  are  completely  opposed,  and  they  are  solved  by  minimax strategies.  Non-zero-sum
+games include possibilities for both competition and cooperation.
+Simultaneous vs. Sequential Games: As touched on earlier , this distinction is about the timing
+of  moves  and  information.  In  a  simultaneous  game,  players  choose  their  actions  without
+knowing  what  others  choose  (formally  represented  in  normal-form  payoff  matrices).  In  a
+sequential game, players take turns or there is a defined order of play, and later players may
+see earlier players’ moves before deciding (modeled in extensive form, like a game tree). 
+Rock-Paper-Scissors is simultaneous; Chess is sequential. The solution methods differ: sequential
+games  can  often  be  solved  by  backward  induction (looking  ahead  to  future  moves  and
+reasoning backwards – finding a subgame-perfect equilibrium), whereas simultaneous games
+require finding mutual best responses (Nash equilibria) without timing to differentiate moves.
+• 
+• 
+52
+53
+• 
+6
+7
+
+--- Page 8 ---
+Perfect  vs.  Imperfect  Information: A  game  has  perfect  information if  all  players  know
+everything that has happened previously  and there are no hidden elements when making a
+decision. Chess, again, is perfect information – the entire game state (pieces on the board) is
+known to both players at all times, and nothing is hidden or random during decision-making (no
+cards or simultaneous secrets). Imperfect information means something is unknown: perhaps
+moves occur simultaneously (not knowing the other’s current move), or there are hidden cards,
+or unobservable actions. Most card games (Bridge, Poker) are games of imperfect/incomplete
+information because players have private information (their hand, or unknown card draws). In
+video games, fog of war (not seeing the opponent’s units) creates imperfect information. Game
+theory  calls  games  with  hidden  information  Bayesian  games or  games  of  incomplete
+information, where players have beliefs about unknowns and might use probability and signals
+in their strategy.
+One-shot  vs.  Repeated  Games: A  one-shot  game is  played  only  once  –  players  choose
+strategies a single time. A repeated game involves playing the same stage game multiple times
+in sequence, possibly with strategies contingent on past play. Repetition can enable cooperation
+or  punishment  strategies  that  aren’t  possible  in  one-shot  scenarios.  For  example,  a  single
+Prisoner’s  Dilemma  (one-shot)  encourages  defection,  but  if  two  players  repeatedly  face  a
+Prisoner’s  Dilemma,  they  might  sustain  cooperation  by  using  strategies  like  “tit-for-
+tat” (reciprocating the other’s last move) because future consequences can deter short-term
+selfishness . Many board games are one-shot by design (you play a match once and score
+it), but some have repeated rounds that mimic this effect. Video games often have iterative
+encounters or levels that can be seen as repeated strategic interactions (or players learn and
+adjust across multiple matches in online games, effectively a repeated context).
+Nash Equilibrium and Solution Concepts: One of the most fundamental ideas in game theory is the
+Nash equilibrium – named after John Nash. A Nash equilibrium is a strategy profile (one strategy for
+each player) such that no player can unilaterally change their strategy and get a higher payoff. In
+other words, at equilibrium, each player’s strategy is a best response to the others’ strategies; no one
+has regrets or incentive to deviate given what others are doing. Nash’s great insight was that every
+finite game (with a finite number of strategies) has at least one equilibrium if we allow mixed strategies
+(players randomizing between moves). Equilibrium doesn’t necessarily mean a good or fair outcome
+– it just means a stable one where expectations are met and no single player benefits from straying. For
+example, if both players in Prisoner’s Dilemma choose to defect, that constitutes a Nash equilibrium
+(neither  can  do  better  by  unilaterally  cooperating)  even  though  it’s  worse  for  both  than  mutual
+cooperation.
+Other solution concepts include dominant strategies (a strategy that is best for a player regardless of
+what others do) and Pareto optimality (an outcome where no player can be made better off without
+making someone else worse off, often used to judge the efficiency of outcomes, not a prediction of play
+but a normative benchmark). There’s also  subgame-perfect equilibrium (a refinement of Nash for
+sequential games, requiring the strategy to induce a Nash equilibrium in every subgame – essentially
+ruling out non-credible threats in sequential play), Bayesian Nash equilibrium (equilibrium concept for
+games with incomplete information, where players maximize expected payoff given their beliefs), and
+so on. For the scope of this discussion, Nash equilibrium is the key concept linking game theory to how
+strategic games are played, since players often seek a stable strategy combination (even if informally).
+• 
+• 
+54 55
+56
+56
+57
+8
+
+--- Page 9 ---
+Major Models & Examples in Game Theory: Game theory often uses simple illustrative games to
+model larger ideas. Some classic examples:
+The Prisoner’s Dilemma: Perhaps the most famous game-theoretic model, this is a non-zero-
+sum, non-cooperative game that demonstrates why two completely rational players might not
+cooperate,  even  if  it  appears  that  it’s  in  their  best  interest  to  do  so.  The  scenario:  two
+accomplices are arrested and interrogated separately. Each has two strategies:  Cooperate with
+their partner (stay silent) or Defect (confess and implicate the other). The payoffs are set so that:
+if both cooperate (stay silent), they get a moderate sentence (say 1 year each). If one defects
+while the other stays silent, the defector goes free (0 years) and the cooperator gets the harsh
+sentence (say 5 years). If both defect, they both get a somewhat harsh sentence (say 3 years
+each).  Defection is  a  dominant  strategy  for  each  –  no  matter  what  the  other  does,  you’re
+personally better off confessing (defecting). Unfortunately, when both follow that logic, the
+outcome (both defect getting 3 years each) is worse for both than if both had cooperated (1 year
+each) . Thus the Nash equilibrium (both defect) is Pareto inferior to the cooperative outcome.
+The Prisoner’s Dilemma has myriad real-world analogues – arms races, price wars between
+companies, tragedy of the commons, etc. – and it also pops up in games whenever players face a
+choice to help each other for a mutual benefit or to selfishly take a bigger share at the expense
+of others. In board game terms, if you’ve ever had an opportunity to either share a win or betray
+an ally for a solo win, you were in a prisoner’s dilemma-like spot. Notably, in repeated play,
+strategies  can  emerge  to  enforce  cooperation  (e.g.  tit-for-tat  as  mentioned:  if  your  partner
+defected last time, punish them by defecting this time, otherwise cooperate), showing how trust
+can be built or broken over time.
+Matching  Pennies: A  simple  two-player  zero-sum game  often  used  to  demonstrate  mixed
+strategy equilibrium. Each of two players chooses Heads or Tails for a penny; if the pennies
+match (both Heads or both Tails), player Even wins (say, wins the opponent’s penny); if they
+mismatch, player Odd wins. There is no pure strategy Nash equilibrium here – whatever
+one player chooses, the other wants to choose the opposite to win, so any fixed strategy can be
+exploited. The equilibrium is in mixed strategies: each player randomizes Heads or Tails with 50%
+probability. This way, neither player can predict the other’s move and do better by deviating.
+The expected payoff ends up 0 for both in equilibrium (a fair game). Matching pennies is
+essentially the structure behind many  hide-and-seek or  guessing competitions (e.g. a football
+(soccer) penalty kick: kicker chooses left or right, goalie dives left or right – one wants to match,
+the other to mismatch). In game design, if you create a scenario with two balanced options and
+adversarial  goals,  the  concept  of  a  mixed  strategy  equilibrium  might  manifest  as  players
+unpredictably varying their choices (think of a rock-paper-scissors dynamic in strategy games,
+where there’s no single best move but a cycle of counter-moves).
+Zero-Sum Games and Minimax: In strictly competitive games (like chess, checkers, go, many
+two-player  abstract  or  combinatorial  games),  game  theory  tells  us  players  should  aim  to
+minimize  the  maximum  possible  loss –  the  minimax  strategy.  Von  Neumann’s  minimax
+theorem states that in zero-sum games, the Nash equilibrium ensures each player’s expected
+payoff is optimized under worst-case counterplay. For deterministic perfect-information games
+like Chess, in theory game theory predicts either one player has a winning strategy or with
+optimal play it’s a draw (as many believe chess is). AI algorithms often implement minimax
+search with heuristics to approximate this optimal play. So, game theory underpins a lot of AI in
+games: for example, Deep Blue’s chess strategy or any computer opponent in a zero-sum game
+is essentially trying to approximate the game-theoretic solution.
+• 
+58
+59
+54 55
+• 
+60 61
+62
+63 64
+• 
+9
+
+--- Page 10 ---
+The Game of Chicken: A non-cooperative game illustrating brinkmanship. Two drivers speed
+toward each other; each can either  swerve or  stay straight. If one swerves and the other
+doesn’t, the one who swerved is a “chicken” (loses face) and the straight driver “wins” (gets glory).
+If both swerve, they both get a mediocre outcome (both save face somewhat). If neither swerves
+(both stay straight), they crash – the worst outcome for both, far worse than just losing face. This
+game has two Nash equilibria in pure strategies: (Swerve, Straight) and (Straight, Swerve) – each
+hopes to be the one who stays straight while the other chickens out. But there is also a mixed
+equilibrium where each player probabilistically risks staying straight to some extent. Chicken is
+famous as a metaphor for nuclear standoffs, etc., but in games, any time players are in a mutual
+harm scenario with incentive to be the more daring (but hoping the other backs off), it’s a
+chicken dynamic. Some negotiation games or simultaneous action choices in games of chicken-
+like payoff can be designed (e.g. a high-stakes variant of prisoner’s dilemma where mutual
+defection is catastrophic instead of moderately bad becomes like chicken).
+Stag Hunt: A game of coordination with a risk element. Two hunters can either hunt a stag
+together or individually hunt a rabbit. A stag is worth much more than a rabbit, but one hunter
+alone cannot catch it – it requires mutual cooperation. If one goes for stag and the other doesn’t,
+the stag-hunter gets nothing (the stag escapes) while the other gets a modest rabbit. If both
+hunt stag, they succeed and split a large reward. If both settle for rabbits, they each get a small
+sure reward. Stag Hunt has two pure equilibria: both cooperate (hunt stag) or both play it safe
+(hunt rabbit). It models trust and assurance: the best outcome is cooperation, but if you doubt
+the other’s cooperation, you might opt for the safer bet. In games or multiplayer scenarios, stag
+hunts appear when players must trust each other to pursue a high payoff strategy that will fail if
+not everyone commits (e.g. in a raid in an MMO game, everyone must attack the boss at the
+right time (stag) vs. each just doing their own thing for smaller rewards (rabbit)). It’s a positive-
+spin on PD: here mutual cooperation is not only best but also an equilibrium (unlike PD), yet fear
+can lead to a poorer equilibrium if trust isn’t achieved.
+Battle of the Sexes (Coordination Game): A classic coordination problem where two players
+want to meet but have different preferences for where. For example, one (say the wife) prefers
+the opera, the other (the husband) prefers a football game, but most of all each would rather be
+together than apart. If they end up in different places, that’s the worst outcome for both. This
+game  has  two  Nash  equilibria  (one  at  opera,  one  at  football)  and  highlights  the  need  for
+coordination or communication to choose an equilibrium – both prefer being together , but each
+equilibrium favors one person’s preference. In board games, pure coordination games are less
+common (since usually players have conflict), but the idea applies to things like agreeing on
+conventions  (for  instance,  partners  in  a  game  like  Bridge  need  to  coordinate  bidding
+conventions – it’s beneficial to match expectations).
+Auction Models: In game theory, auctions are studied as games of incomplete information.
+Each bidder has a private valuation for the item. Different auction formats (as discussed earlier)
+create different strategic landscapes. For example, in a  first-price sealed-bid auction, each
+player’s  best  bid  depends  on  their  own  value  and  their  beliefs  about  others’  values  –  the
+equilibrium strategy (under certain assumptions) is to bid some fraction of one’s value (the bid
+shading formula depends on distribution of values). In a  second-price (Vickrey) auction,
+bidding truthfully one’s value is a dominant strategy (because if you win, you pay the second-
+highest bid, so you can’t gain by misreporting). These theoretical results tie closely to how
+bidding games in board games might be approached by savvy players. A game like Modern Art
+or  QE (bidding game with hidden bids) can be analyzed with auction theory – though human
+behavior may deviate due to risk attitudes or bluffing.
+• 
+• 
+• 
+• 
+20
+20
+10
+
+--- Page 11 ---
+Game theory models often assume rational, self-interested players with common knowledge of the
+game structure. In real gaming situations, people may have incomplete rationality, emotions, or house
+rules that change things. Still, the concepts of game theory are powerful for understanding  strategic
+games. Many board game rulesets read like formal game descriptions, and players often effectively
+perform game-theoretic reasoning (e.g. "If I do this, she will likely do that, which would be bad for me,
+so perhaps I should choose this other move instead…"). Good players often seek  equilibrium-like
+strategies – ones that can’t be easily exploited by opponents.
+Connecting Game Mechanics and Game Theory
+Game mechanics create the  strategic situations that game theory seeks to analyze. There is a natural
+correspondence  between  certain  mechanics  and  classic  game-theoretic  models.  Below,  we  draw
+connections between specific game mechanics (from Section 1) and their related game theory concepts,
+illustrating how understanding one can illuminate the other:
+Game
+Mechanic
+Game Theory
+Counterpart Connection and Example
+Turn-Based
+Sequential
+Play
+Sequential
+Games &
+Backward
+Induction
+Turn-based games (like Chess or Go) are sequential: players
+move in turns, observing the current state. Game theory
+models these with extensive form games and predicts
+outcomes via backward induction (e.g. theoretically “solving”
+chess by looking ahead to end states). In practice, players
+use foresight (“if I do X, they’ll do Y…”) which mirrors
+backward induction reasoning.
+Simultaneous
+Action
+Selection
+Simultaneous
+(Normal-Form)
+Games
+When players choose actions simultaneously (e.g.
+simultaneously revealing cards or orders), it’s a normal-form
+game situation. Analysis involves finding Nash equilibria. 
+Example:Rock-Paper-Scissors is effectively a simultaneous
+zero-sum game with a mixed strategy equilibrium (each
+choice 1/3 probability). Many simultaneous selection
+mechanics (like blind bidding or secretly choosing a role) can
+be analyzed as finding best responses to opponents’ mixed
+strategies.
+Bluffing /
+Hidden
+Information
+Bayesian
+Games
+(Incomplete
+Information)
+Bluffing arises when some information is private – a hallmark
+of incomplete-information games in game theory. Players
+form beliefs and update them (Bayesian reasoning). Example:
+Poker is a Bayesian game: each player knows their cards but
+not others’. Bluffing in poker is essentially trying to alter
+opponents’ beliefs about your hand. Game-theoretically, an
+optimal bluff frequency can be computed so that your
+opponents are indifferent to calling or folding (part of a
+mixed-strategy equilibrium in poker). The concept of 
+Bayesian Nash Equilibrium formalizes optimal strategies
+when players have private information.
+6
+29
+11
+
+--- Page 12 ---
+Game
+Mechanic
+Game Theory
+Counterpart Connection and Example
+Auction/
+Bidding
+Auction
+Theory;
+Independent
+Private Value
+model
+Auctions in games mirror economic auction models. Game
+theory analyzes how bidders strategize based on their
+valuation and others’ likely valuations. For instance, in a first-
+price auction (common in many board games for turn order
+or assets), the Nash equilibrium strategy is to bid below your
+true value (bid shading) to avoid winner’s curse. In a
+second-price auction (occasionally used in game variants),
+bidding your true value is dominant. Understanding
+these models helps players bid wisely. Game designers who
+include auctions rely on auction theory results to predict
+player behavior (e.g. ensuring a fair division or preventing
+degenerate strategies).
+Negotiation &
+Trading
+Cooperative
+Game Theory /
+Bargaining
+When a game allows negotiation (trades, alliances), players
+are engaging in free-form coalition building. Non-
+cooperative game theory can model this via bargaining
+games – e.g. the Nash Bargaining Solution predicts how
+two parties might split a surplus if they can both agree. In
+games like Settlers of Catan, trading resources has a flavor
+of bargaining: if two players can mutually benefit by trade,
+they must agree on an exchange rate. Coalition formation in
+games like Diplomacy or Risk can be seen through
+cooperative game theory concepts like the core or Shapley
+value (what alliances form, and how the spoils of alliance are
+divided). While most board games don’t enforce binding
+agreements (making them technically non-cooperative
+games), in-game negotiation is an exercise in forming
+temporary cooperative strategies. Game theory teaches that
+such agreements are only stable if each party is getting at
+least as much as they would by going alone (their threat
+point), which savvy players intuitively consider .
+Hidden Roles /
+Social
+Deduction
+Games of
+Incomplete
+Information;
+Signaling
+Hidden traitor or role mechanics (e.g. Secret Hitler, 
+Werewolf) are essentially games of incomplete information.
+The “good” players are trying to infer who the traitors are
+(updating beliefs based on others’ actions – a Bayesian
+process), while traitors may engage in signaling and
+misrepresentation. Game theory’s signaling games study
+how players with private types (e.g. loyalist vs. traitor) send
+messages or take actions that might reveal (or conceal) their
+type. A traitor lying effectively in a social deduction game is
+like a Pool equilibrium in signaling: different types taking
+similar actions to obfuscate identity. These mechanics
+underscore concepts of information asymmetry and
+strategic lying, which are central in economic game theory
+models of markets with hidden information (e.g. Spence’s
+job-market signaling model).
+20
+20
+12
+
+--- Page 13 ---
+Game
+Mechanic
+Game Theory
+Counterpart Connection and Example
+Cooperative
+Gameplay
+Identical
+Payoff Games;
+Coordination
+Fully cooperative board games (like Pandemic) have players
+sharing a common payoff (either everyone wins or loses
+together). In game theoretic terms, this aligns incentives
+completely – a trivial case of a game where any strategy
+profile that maximizes the joint payoff is “best” for the group.
+The challenge is not strategic between players (since there’s
+no conflict) but rather an optimization against the game
+system. However , if we consider the “game” to be players vs.
+an imagined adversary, strategies involve coordination.
+Even in co-op games, there can be coordination puzzles
+analogous to stag hunts – e.g. “if we both focus on different
+tasks, will we fail at both?” Players must assure each other to
+commit to a joint plan (like both hunt the stag). Game
+theory’s team games or coordination games provide
+insight: communication greatly helps (hence many co-ops
+allow table talk), and mechanisms like common knowledge of
+intentions can ensure the best outcome (just as in pure
+coordination games).
+Alliances &
+Betrayal
+(Semi-Coop)
+Prisoner’s
+Dilemma &
+Repeated
+Games
+Games where players can temporarily cooperate but
+ultimately one wins (e.g. making a pact in Risk, or the 
+Prisoner’s Dilemma style choice at the end of some games
+to share victory or steal it) directly invoke game-theoretic
+dilemmas. If two players ally to take down others, once that’s
+done they face a classic endgame PD: betray for sole win or
+stay allied for a joint win (if allowed). Many social games or
+finales of reality TV shows use exactly this mechanic (notably
+the game show “Golden Balls” ends with a prisoner’s
+dilemma choice). Diplomacy ( ) is essentially a repeated
+prisoner’s dilemma: you form alliances (cooperate) but can
+backstab (defect) at any time; the shadow of future
+interaction (knowing you’ll need trust in later turns) often
+keeps alliances intact until the decisive moment. Game
+theory tells us that if a game is finitely repeated with a clear
+end, backward induction suggests betrayal at the end (as in
+final-round prisoner’s dilemma defection). But in
+practice, uncertainty about timing or reputation effects (or
+emotional motives) allow cooperation to survive. Designers
+use these insights to craft tense trust dynamics.
+65
+13
+
+--- Page 14 ---
+Game
+Mechanic
+Game Theory
+Counterpart Connection and Example
+Direct Conflict
+(Warfare,
+“Take That”)
+Zero-Sum and
+Constant-Sum
+Games
+Mechanics that involve directly attacking or hindering others
+(destroying units, stealing points) produce zero-sum-like
+interactions. If a move hurts an opponent and
+correspondingly improves your relative standing, the local
+interaction is zero-sum even within a larger non-zero-sum
+game. Game theory’s zero-sum model (utilizing minimax)
+applies to sub-conflicts: e.g. tactical battles can be thought of
+as mini zero-sum games where one player’s loss is another’s
+gain in that skirmish. Understanding zero-sum reasoning can
+improve play in combat games – e.g. in a two-player
+fighting game (🎮 like Street Fighter), it’s pure zero-sum and
+concepts like mixed strategies (randomizing moves to avoid
+predictability) or dominance (never use a strictly worse
+option) are directly relevant. In multiplayer games with “take
+that” cards, while the overall game isn’t zero-sum (a third
+party could benefit), any two-player confrontation might be
+seen as zero-sum in the short run.
+Randomness
+& Risk
+Uncertainty,
+Mixed
+Strategies,
+Risk
+Dominance
+Random mechanics in games (dice, card draws) introduce 
+exogenous uncertainty (chance). Game theory typically treats
+the rules (including chance events) as part of the game
+structure, not chosen by players – these are “moves by
+nature.” However , randomness can also be seen as a mixing
+strategy or as adding noise to outcomes. Players’ approach to
+risk in games touches on decision theory (utility under
+uncertainty). Also, games with randomness sometimes
+mimic the need for mixed strategies: e.g. in Rock-Paper-
+Scissors, players must randomize to avoid exploitation – that’s
+essentially a player introducing their own unpredictability,
+analogous to a die roll. Risk-reward mechanics (press-your-
+luck) tie to concepts of expected value and risk dominance.
+A strategy that is safer (less variance) vs. one that is riskier
+but higher reward can be analyzed by expected payoff and
+by players’ risk tolerance (in game theory, one might use
+concepts from economics like risk-neutral vs risk-averse
+utility). Players often use heuristic mini-maximization of
+expected payoff when deciding whether to take an extra risk
+in press-your-luck games.
+14
+
+--- Page 15 ---
+Game
+Mechanic
+Game Theory
+Counterpart Connection and Example
+Voting
+Mechanics
+Social Choice
+Theory &
+Voting Games
+When games incorporate voting (e.g. deciding collectively
+which rule to enact, or who gets expelled, etc.), they mirror
+political science and social choice problems. Game theory
+has models of voting games where players vote strategically
+rather than sincerely if their preferences can be advanced by
+doing so. Example: In Twilight Imperium ( ), players vote on
+laws that can benefit some and hurt others. A player
+might trade favors (“I’ll vote for your law if you support mine
+later”) or vote against their preference if it’s already lost (to
+curry favor). These behaviors correspond to coalition
+formation and logrolling in voting theory. Concepts like 
+Condorcet winners or agenda setting can be observed if a
+game allows sequential voting on proposals. In essence,
+whenever a game asks players to make a collective decision,
+strategic voting (game-theoretic thinking) can emerge – such
+as forming voting blocs or kingmaking (throwing support to
+one side in exchange for something).
+In summary, game mechanics and game theory are two sides of the same coin: mechanics define
+the structure of choices and payoffs in a game, and game theory analyzes optimal play within that
+structure.  For  players  and  designers,  understanding  the  link  can  be  very  fruitful.  A  designer
+implementing  a  bluffing  mechanic can  anticipate  behaviors  using  game  theory’s  analysis  of
+incomplete  information  games  –  for  instance,  ensuring  there’s  an  incentive  to  bluff  but  not  too
+frequently, achieving a balance analogous to an equilibrium bluffing frequency. A player facing an
+auction in a game can draw on auction theory to bid closer to optimally (avoiding the winner’s curse by
+not overbidding beyond the item’s value). When mechanics create a prisoner’s dilemma situation – e.g.
+two  players  could  cooperate  to  both  benefit,  but  each  has  temptation  to  betray  –  knowing  the
+dilemma’s logic (and the possibility of repeated play fostering trust) can guide one’s strategy (or bluff
+about being trustworthy).
+Game theory can also inform game balance. For example, if a certain strategy strictly dominates others
+(meaning it’s always better , a concept from game theory), the game mechanic offering the dominated
+choices may need tweaking, or players will have no incentive to try those other choices (making the
+game less interesting). Designers aim for no dominant strategies, instead preferring a  meta where
+choices are situational (like in RPS, each choice can be countered). The concept of Nash equilibrium is
+useful even informally – a well-balanced competitive game might allow an equilibrium where each
+player’s strategy has counter-play but also counter-counter-play, etc., leading to a dynamic but fair
+balance (often designers try to achieve something like a Nash equilibrium between character options or
+strategies, so that there’s diversity in viable playstyles). 
+Finally, it’s worth noting how real players vs. theoretical rational players can differ . Human players
+have emotions, limited foresight, and heuristics. Game theory might predict that in the final round of a
+repeated game, everyone defects (by backward induction), yet in reality players often cooperate
+longer  than  theory  predicts,  either  out  of  error  or  because  humans  have  social  preferences  (like
+retaliation or trust beyond pure payoff). Good game designs often leverage this: for instance, adding a
+bit of uncertainty about when a game ends (like a random game end trigger in some board games) can
+sustain cooperation – a known result from game theory is that if you don’t know exactly when the last
+round is, mutual cooperation can persist. This kind of cross-pollination between theory and design
+43
+65
+15
+
+--- Page 16 ---
+exemplifies the synergy between understanding game mechanics deeply and applying game theory
+insights. Each informs the other: game theory provides a lens to predict what rational players might do
+under certain mechanics, and observing players in actual games can in turn inspire new game-theoretic
+models that account for bounded rationality, psychology, and creativity.
+Conclusion: Game mechanics are the toolkit with which designers build engaging challenges, and
+game theory is the analytical framework that explains the strategic essence of those challenges. For an
+enthusiast, studying game mechanics gives a vocabulary for how games work, while studying game
+theory  provides  a  vocabulary  for  why  players  make  certain  choices.  Together ,  they  enrich  our
+understanding of games – whether it’s designing a balanced board game, playing a video game at a
+high level, or even understanding real-world strategic situations (many of which can be surprisingly
+game-like). As one author eloquently put it,  “those wood and plastic pieces [of board games] aren’t just
+rules – they’re game theory”. Every time we play a game and devise a cunning strategy or adapt to an
+opponent, we are implicitly “practicing game theory”. And conversely, every well-crafted game is,
+under the hood, an embodiment of strategic interactions that game theory seeks to characterize. By
+lifting the hood – studying both mechanics and theory – we gain a deeper appreciation for the brilliance
+of games and the logic of strategy that binds them to real life.
+Sources:
+T. Sylvester . Designing Games: A Guide to Engineering Experiences. O’Reilly Media, 2013 – on
+definitions of game mechanics. 
+S. Boller . “Learning Game Design: Game Mechanics.” Knowledge Guru, 2013 – on definitions of
+mechanics. 
+Wikipedia: “Game mechanics” – examples and taxonomy of common mechanics. 
+M. Walker . “The Giant List of Tabletop Game Mechanics.” Tabletop Bellhop, 2020 – definitions and
+examples of 60+ board game mechanics. 
+C. Notestine. “Designing with Game Theory.” UX Collective (Medium), 2021 – on how board game
+mechanics reflect game theory, with examples from Catan, Secret Hitler , Monopoly. 
+Dixit & Nalebuff. “Prisoners’ Dilemma.” The Library of Economics and Liberty – explanation of the
+prisoner’s dilemma and implications. 
+Wikipedia: “Matching pennies” – example of a zero-sum game with mixed-strategy equilibrium
+. 
+Investopedia, D. McNulty. “Game Theory and the Nash Equilibrium,” 2025 – game theory
+overview, simultaneous vs sequential play, Nash equilibrium definition. 
+Debexpert Blog, I. Korotaev. “Game Theory in Sealed-Bid Auction Bidding,” 2025 – on first-price
+vs second-price auction strategies. 
+888poker Magazine. “The Theory and Mechanics of Bluffing in Poker .” – on incomplete
+information and bluffing in poker. 
+Wikipedia: “Game theory” and Stanford Encyclopedia of Philosophy entries (background
+information on classical game theory models). 
+Game mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Game_mechanics
+Game Theory and the Nash Equilibrium
+https://www.investopedia.com/articles/financial-theory/09/game-theory-beyond-basics.asp
+66
+67
+• 
+1
+• 
+1
+• 68 69 15 11
+• 
+70 71 36
+• 
+72 51
+• 
+58 59
+• 
+57 62
+• 
+6 56
+• 
+20
+• 
+29
+• 
+1 2 3 4 5 11 13 14 15 16 19 22 23 24 25 26 27 31 32 33 34 35 41 45 46 47 48 49 68
+69
+6 56
+16
+
+--- Page 17 ---
+The Giant List of Tabletop Game
+Mechanics, Definitions and Examples for Over 60 Board Game Terms
+https://tabletopbellhop.com/gaming-advice/game-mechanics/
+Game Theory in Sealed-Bid Auction Bidding
+https://www.debexpert.com/blog/game-theory-in-sealed-bid-auction-bidding
+Designing with Game Theory | UX Collective
+https://uxdesign.cc/game-theory-board-games-7dd06e0ba28e?gi=89194ab7f7b3
+The Theory and Mechanics of Bluffing in Poker | 888Poker
+https://www.888poker .com/magazine/strategy/poker-bluff/theory-and-mechanics-bluffing-poker
+Matching pennies - Wikipedia
+https://en.wikipedia.org/wiki/Matching_pennies
+Prisoners’ Dilemma - Econlib
+https://www.econlib.org/library/Enc/PrisonersDilemma.html
+7 8 9 10 12 17 18 21 30 36 37 38 39 40 42 43 44 50 70 71
+20
+28 51 53 66 67 72
+29
+52 57 60 61 62 63 64
+54 55 58 59 65
+17
+

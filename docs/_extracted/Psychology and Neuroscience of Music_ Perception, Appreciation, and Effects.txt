@@ -1,0 +1,2072 @@
+TITLE: Psychology and Neuroscience of Music_ Perception, Appreciation, and Effects.pdf
+PAGES: 38
+
+--- Page 1 ---
+Psychology and Neuroscience of Music:
+Perception, Appreciation, and Effects
+Introduction
+Music is a universal feature of human culture, engaging our minds and emotions in profound ways.
+From a lullaby soothing an infant to a symphony moving a concert hall to tears, musical sounds have a
+unique  power  to  capture  our  attention  and  alter  our  mental  states.  Modern  neuroscience  and
+psychology are beginning to unravel why: listening to music activates a widespread network in the
+brain, lighting up auditory regions along with areas involved in memory, emotion, reward, and even
+motor control. In fact, music engages nearly every region of the brain, from primitive structures
+to the most evolved cortical areas. This broad activation underlies music’s ability to evoke intense
+pleasure, trigger memories, synchronize group behavior , and even promote brain plasticity and healing.
+Researchers  today  are  exploring  not  only  how  we  perceive  basic  musical  elements  like  notes  and
+rhythms, but also how musical  preferences develop, why we enjoy certain genres or sounds (and not
+others), and how music can coordinate complex cognitive and emotional responses in the brain. They
+are also examining music through evolutionary and cultural lenses – asking why our species evolved
+such  a  capacity  –  and  harnessing  music  in  therapeutic  contexts  from  developmental  support  to
+neurological rehabilitation.
+Music  engages  multiple  brain  networks  across  sensory,  cognitive,  motor,  and  emotional  domains.  The
+auditory system analyzes sound patterns, the motor system entrains to rhythms, and limbic (emotional)
+circuits and reward centers process musical pleasure. These widespread activations make music a
+powerful stimulus for neuroplastic change and therapeutic interventions.
+In  this  report,  we  provide  an  academic  overview  of  the  psychology  and  neuroscience  of  music
+perception  and  appreciation.  We  will  explain  how  the  human  brain  perceives  musical  notes  and
+rhythms,  detailing  the  auditory  processing  pathways  involved.  We  then  discuss  how  musical
+1
+1
+1 2
+1
+
+--- Page 2 ---
+preferences are formed and why individuals gravitate toward or away from particular sounds or genres.
+Next, we examine how the brain coordinates music perception with cognition and emotion, including
+recent neuroscientific findings about musical reward and prediction. We consider evolutionary and
+cultural  perspectives  on  why  music  exists  in  every  society.  The  report  also  explores  therapeutic
+applications  of  music  –  from  music  therapy  in  mental  health  to  music-based  rehabilitation  in
+neurological  disorders  –  and  addresses  developmental  aspects  of  music  engagement  across  the
+lifespan,  from  infancy  to  old  age.  Finally,  we  pose  and  answer  additional  insightful  questions  that
+further  illuminate  the  intricate  relationship  between  music,  brain,  and  behavior .  Throughout,  we
+reference current scientific studies and theoretical models to ensure clarity and depth appropriate for
+an academic understanding of this topic.
+Perceiving Musical Notes and Rhythms: Auditory Processing in
+the Brain
+Auditory Pathways and the Building Blocks of Music: The journey of music in the brain begins with
+basic  auditory  perception.  Sound  waves  enter  the  ear  and  vibrate  the  cochlea,  a  spiral  inner-ear
+structure  that  breaks  sound  into  frequencies  via  a  tonotopic  map –  different  frequencies  activate
+different locations along the cochlear spiral. Neurons from the cochlea transmit electrical signals
+through the auditory nerve into the brainstem. In the brainstem’s auditory nuclei (such as the superior
+olivary complex and inferior colliculus), initial processing of sound features occurs. From there,
+signals relay to the auditory thalamus (medial geniculate body) and then to the  primary auditory
+cortex (A1) in the temporal lobe. The primary auditory cortex is organized tonotopically as well, and
+it handles fundamental decoding of acoustic patterns. Crucially, by the time sound information reaches
+A1, it has been transformed: the neural representations no longer mirror the raw acoustic waveform,
+but  instead  emphasize  features  useful  for  perception,  like  segmented  sound  objects  and  auditory
+“syntax” .  This  transformation  in  A1  helps  the  brain  detect  musical  structure  –  for  example,
+segmenting notes and sequences – and integrate sound with other senses.
+Perception of Pitch (Notes and Melody): One of the most important dimensions of music is pitch –
+our perception of how high or low a note sounds. Pitch corresponds to the frequency (or repetition rate)
+of a sound wave. The auditory system is finely tuned to detect pitch: in the cochlea, hair cells respond to
+specific frequency ranges, providing a spectral analysis. But pitch perception is more complex than just
+hearing pure tones. Most musical tones (like from a voice or instrument) are  harmonic complexes –
+they  have  multiple  frequencies  (overtones)  that  are  integer  multiples  of  a  fundamental  frequency.
+Remarkably, we perceive the pitch of the fundamental frequency even if it is missing, because the brain
+infers it from the harmonic pattern (this is why a small radio can play a bass note you feel is low-pitched
+even if the radio can’t produce the lowest frequency). This inference is thought to occur in the
+brain: beyond primary auditory cortex, specific regions of auditory association cortex (for example, near
+the lateral Heschl’s gyrus in humans) are selectively responsive to the fundamental frequency of complex
+tones, and thus act as “pitch centers.” Neuroscientists have found cortical neurons that fire for a given
+pitch irrespective of the exact harmonic components, indicating an abstract neural encoding of musical
+notes .  Pitch  processing  in  the  cortex  is  hierarchical:  early  auditory  areas  respond  to  basic
+frequencies,  while  higher-order  areas  (moving  outward  from  A1)  integrate  information  to  perceive
+melodies  and  relative  pitch  patterns.  Humans  have  an  exquisite  ability  for  relative  pitch –
+recognizing  a  melody  independent  of  absolute  frequency.  Even  infants  can  recognize  a  melody
+transposed to a new key (different absolute pitches), showing that relative pitch perception develops
+very early . In the brain, relative pitch likely involves comparisons of intervals and patterns, engaging
+working memory and frontal-auditory loops.
+3
+4
+4
+5
+5
+6 7
+8
+9
+10
+2
+
+--- Page 3 ---
+When notes are strung together in time, we perceive  melody – an organized sequence of pitches.
+Melody perception engages both  anterior and posterior auditory pathways in the brain . The
+anterior  temporal  lobe  and  inferior  frontal  regions  are  thought  to  be  involved  in  processing  the
+sequential,  syntactic  aspects  of  melody  (somewhat  analogous  to  language  syntax),  while  posterior
+superior temporal regions track auditory patterns. Indeed, an important feedback loop exists between
+the  auditory  cortex  and  inferior  frontal  cortex  during  music  listening:  the  inferior  frontal  cortex
+(particularly on the right) interacts with auditory areas to integrate information over time and encode
+expectations about melodic progression. This loop allows us to hold a musical phrase in working
+memory  and  predict  “what  comes  next,”  a  crucial  aspect  of  music  cognition.  Notably,  if  a  melody
+violates  our  expectations  (say,  a  wrong-sounding  note),  brain  responses  reflect  that:  even  in  non-
+musicians,  an  out-of-key  chord  elicits  an  electrophysiological  response  (the  “music  mismatch
+negativity”) as the frontal lobes detect a deviation from the musical schema.
+Perception of Rhythm and Beat: Alongside pitch, rhythm is the other pillar of music. Rhythm is the
+temporal pattern of sounds – the arrangement of notes in time, including the beat (regular pulse) and
+meter (the grouping of beats). Fascinatingly, rhythm perception relies not only on auditory regions but
+also on the brain’s  motor system, even when one is just listening and not moving. Neuroimaging
+studies show that listening to rhythmic sequences activates motor planning areas such as the premotor
+cortex and  supplementary motor area, as well as subcortical structures like the  basal ganglia and
+cerebellum.  These  regions  are  typically  associated  with  movement  timing,  suggesting  that  our
+brains internally simulate or entrain to the beats we hear . The basal ganglia in particular have been
+implicated in beat perception – studies indicate they help predict and regularize the timing of beats,
+which may explain why patients with basal ganglia disorders (e.g. Parkinson’s disease) can struggle with
+rhythmic timing but often improve if given an external musical beat for pacing. The cerebellum, known
+for  fine  timing  and  coordination,  also  activates  during  rhythm  processing.  This  auditory-motor
+coupling  likely  underlies  the  spontaneous  urge  to  tap  our  feet  or  nod  along  with  music.  As  one
+neurologist quipped, “it’s easy to clap or tap to musical rhythms” because the motor system is inherently
+wired to lock onto repetitive beats.
+Interestingly, the brain can separately process rhythm and melody to some extent. Clinical cases of
+amusia (see  later  discussion)  show  that  some  individuals  with  brain  damage  may  lose  melody
+perception but retain rhythm perception, or vice versa. This double dissociation is evidence that
+while pitch/melody and rhythm often interact in music, they have partly distinct neural substrates. For
+rhythm, research has identified a network involving not only auditory cortices and motor areas, but also
+the  parietal cortex (for attention to timing and perhaps musical counting). Moreover , humans
+(even infants) naturally find the beat in music and entrain their movements – a behavior seen in few
+other  species,  suggesting  a  specialized  neural  synchronization  mechanism  possibly  linked  to  our
+capacity for vocal learning or social coordination.
+Timbre and Sound Texture: Another important aspect of perceiving music is timbre, the quality that
+distinguishes different instruments or voices playing the same note. While our focus is on pitch and
+rhythm, it’s worth noting that timbre perception engages auditory cortical areas that analyze complex
+spectra and subtle acoustic signatures. The brain learns to categorize timbres (e.g. the sound of a piano
+vs. a violin) based on experience, and this involves higher auditory areas in the superior temporal gyrus
+and perhaps memory regions linking sounds to object identities. Timbre can also affect our emotional
+perception  of  music  (a  melody  on  a  warm  cello  may  feel  different  than  on  a  piercing  trumpet).
+Neuroscience is still uncovering how timbral features are encoded; it’s a rich area of current research
+.
+Auditory Processing Summary: In sum, the initial perception of musical notes and rhythms is an active
+process that recruits a hierarchy of auditory brain regions, from the ear to the cortex. The auditory
+11
+12
+13 14
+15
+15
+1 16
+17
+18
+19 20
+3
+
+--- Page 4 ---
+system transforms raw sound into meaningful elements: identifying pitches, detecting intervals and
+chords (combinations of notes), parsing rhythms, and building expectations. By the time we  perceive
+music,  our  brain  has  performed  complex  analyses  –  identifying  a  melody’s  contour ,  tapping  into
+memory  to  recognize  a  familiar  tune,  and  syncing  with  the  beat  –  largely  outside  of  conscious
+awareness. These perceptual building blocks then feed into higher cognitive and emotional centers,
+allowing music to have structure and meaning. We turn next to how our experiences shape what we
+perceive as pleasing music, and why our brains develop particular musical preferences.
+Development of Musical Preferences and Taste
+Why do some people love classical violin concertos while others prefer bass-heavy hip-hop or traditional
+folk tunes? Musical taste varies widely, yet most humans develop clear preferences for certain types of
+music.  Research  suggests  that  musical  preferences  are  largely  learned  through  experience
+(enculturation), although some rudimentary predispositions exist early in life. In other words, our
+brains are not hardwired at birth to prefer one style of music over another – instead, our preferences
+evolve through exposure and cultural context.
+Early Musical Exposure and Enculturation: Infants are born with powerful auditory learning abilities.
+Even in the first year of life, the foundations of musical preference begin to form. Some studies indicate
+that infants have a  weak innate bias: for example, by 6 months old, babies already prefer  consonant
+intervals (simple, harmonious note combinations) over dissonant ones . In a classic experiment, 6-
+month-olds were allowed to control what music played by looking at a speaker; they looked longer to
+hear consonant chords as opposed to dissonant, suggesting they found consonance more pleasant.
+They even preferred a Mozart minuet in its original form over a version manipulated to have dissonant
+clashes .  This  finding  led  some  researchers  to  propose  an  innate  “preference”  for  consonance.
+However , more recent cross-cultural work complicates that story: a 2016 study of the remote Tsimane’
+people in the Amazon (with little exposure to Western music) found  no preference for consonant
+chords – Tsimane’ participants rated dissonant chords to be just as pleasing as consonant ones.
+In  contrast,  people  raised  in  Western  culture  (Bolivian  city-dwellers  and  Americans)  showed  the
+expected preference for consonance, with U.S. musicians rating dissonance as most unpleasant.
+This suggests that humans may have some raw sensitivity to the acoustic roughness of dissonance (all
+groups,  including  Tsimane’,  disliked  very  rough,  clashing  sounds),  but  the  aesthetic  preference for
+consonant harmony over dissonance is  culturally conditioned . Early exposure to the pitch
+combinations of one’s musical culture trains the brain’s auditory cortex to find those combinations
+normal or beautiful. By around 12 months of age, infants already start losing sensitivity to musical
+features not present in the music of their culture – a phenomenon known as  musical enculturation
+that mirrors how infants’ speech perception narrows to their native language. For instance, one study
+presented 12-month-old Western infants with rhythmic patterns either in a simple meter (common in
+Western music, like 4/4 time) or an asymmetrical meter (common in Balkan folk music). Researchers
+inserted slight timing “errors” into the rhythms. At 6 months old, infants noticed disruptions equally in
+both familiar and unfamiliar meters; but by 12 months, infants were far more surprised by a disruption
+in the familiar Western meter than in the foreign meter. This indicates that by one year of age,
+babies had already tuned their predictive listening to the rhythms prevalent in their environment, and
+were less sensitive to patterns they had never encountered. Thus, infancy is a critical period when
+the brain soaks up musical structures from the surrounding culture – scales, chords, rhythms – forming
+neural templates that will later influence what music “makes sense” or sounds good.
+Childhood and Formation of Musical Taste: During early and middle childhood, musical preferences
+continue to be shaped by exposure, repetition, and social context. Children tend to prefer music they
+have heard often (the mere exposure effect). Lullabies and sing-along songs heard from parents or TV
+can become lifelong nostalgic favorites. Children also internalize the emotional associations of music:
+21 22
+23
+23
+23
+24 22
+25
+24 25
+26 27
+26
+4
+
+--- Page 5 ---
+e.g.  a  playful,  upbeat  song  linked  with  a  happy  cartoon  may  evoke  positive  feelings.  As  cognitive
+abilities grow, kids start responding to music’s structure (for instance, by age 5 many children can detect
+if a wrong note is played in a familiar song, reflecting internalized musical rules). By late childhood,
+peers and media influence musical taste significantly – for example, elementary-age kids might all catch
+“pop music fever” from popular movie soundtracks or teen idols. Still, most children remain open-
+minded listeners and can enjoy a broad range of music if given the chance. Notably, learning to play
+an instrument or sing at a young age can deepen one’s appreciation for music. Early music training
+not only refines perceptual skills (like distinguishing tones) but often broadens musical exposure. A
+child who learns violin in a youth orchestra, for instance, will become familiar with classical and folk
+repertoire and may develop a taste for those styles through understanding and mastery.
+Adolescence:  Identity  and  Intense  Engagement: During  the  teenage  years,  musical  taste  often
+solidifies into a core part of one’s identity. Adolescents gravitate strongly to genres that resonate with
+their  need  for  self-expression  and  social  belonging.  It’s  common  to  see  teens  form  peer  groups
+subcultures around music (rock, punk, hip-hop, K-pop, etc.), using musical style as a badge of identity.
+Psychologically, adolescence is a time of heightened emotional sensitivity and social awareness, and
+music serves as a powerful emotional outlet. The brain’s reward system is particularly responsive to
+rewarding stimuli in adolescence, which may partly explain why the songs we loved as teenagers feel
+exceptionally significant and can continue to give intense pleasure well into old age (a phenomenon
+sometimes called the “reminiscence bump” in musical preferences). Neurologically, the hormonal and
+brain  development  changes  of  puberty  might  amplify  how  music  affects  the  teen  brain’s  limbic
+(emotional)  circuits.  Additionally,  by  adolescence  most  individuals  have  accumulated  thousands  of
+hours  of  passive  music  listening,  deeply  wiring  the  auditory  pathways  for  the  scales,  chords,  and
+rhythms of their culture. This can make foreign music seem less immediately appealing to a teen,
+whereas a familiar style can evoke strong positive feelings. Of course, some adolescents also actively
+seek novelty in music, enjoying the rebellion of disliking their parents’ old classics and embracing new or
+extreme genres. Overall, by the end of adolescence, people typically have a well-defined set of preferred
+genres/artists and an aversion to some others – a reflection of both  personal identity and cultural
+imprinting.
+Adulthood and Beyond: In adulthood, musical preferences tend to remain relatively stable, but they
+can still evolve due to new experiences or deliberate effort. Many adults stick largely with the genres
+they enjoyed in late adolescence and their twenties – which often coincide with formative life moments
+(first loves, college days, etc. with a “soundtrack” of favorite songs). The brain stores rich emotional
+memories  associated  with  music  from  these  periods,  contributing  to  enduring  fondness.  However ,
+exposure to new music continues to shape taste: an individual might gradually expand their palette by
+discovering new genres through friends, streaming algorithms, or life events (e.g. picking up jazz in
+middle age, or exploring music from a new partner’s culture). Some studies have found that openness
+to  new  music  can  decline  with  age  –  possibly  because  as  we  age,  cognitive  and  neural  plasticity
+decreases slightly and the effort or novelty of new musical structures may be less comfortable. Even so,
+many  adults  do  appreciate  a  variety  of  music,  especially  if  it  shares  elements  with  their  known
+preferences (for example, a fan of ’70s funk might enjoy newer R&B which builds on similar rhythms). By
+late adulthood and old age, musical preferences can take on even greater personal meaning. Elderly
+individuals often derive comfort and identity from the music of their youth and may become less
+tolerant of very new musical trends. Yet music remains deeply important: it is one of the last memories
+and pleasures that endure in neurodegenerative diseases like Alzheimer’s (an Alzheimer patient who no
+longer recognizes family may still remember the words to a beloved song). In general, across the
+lifespan,  familiarity is a strong predictor of musical liking – people tend to like what they know. But
+there is also an element of individual personality (some are novelty-seekers and keep hunting for new
+sounds, others prefer the known), as well as social influence (we tend to like music that our peers or
+community value, because it signifies belonging).
+5
+
+--- Page 6 ---
+Cultural  Influence  on  Musical  Taste: Culture  is  perhaps  the  most  profound  shaper  of  musical
+preference. Different cultures use different scales, tunings, rhythms, and performance practices, and we
+typically develop an ear for the music of our own culture. A scale or mode that sounds joyful and
+consonant in one culture might sound exotic or even unpleasant to a listener from another culture who
+lacks the context. For example, traditional Arabic or Indian music employs microtones (notes between
+the notes of the Western piano scale); unaccustomed Western ears may at first find these intervals “off-
+pitch,” while for a native listener they carry rich emotional meaning. Through enculturation, our brains
+form  templates of musical structure stored in auditory memory (in the superior temporal gyrus,
+among other areas) . These templates allow us to predict and follow music that fits the familiar
+patterns.  When  music  fits  our  cultural  expectations,  it  tends  to  be  easier  and  more  rewarding  to
+process;  when  it  violates  them  too  much,  it  can  be  challenging.  That  said,  humans  can  learn  to
+appreciate new musical systems with exposure. Studies show that even brief training can increase liking
+of foreign music, likely by reducing the processing difficulty. In one experiment, Western non-musicians
+listened repeatedly to Javanese gamelan music (which uses unfamiliar scales); over time, their brains
+detected  the  music’s  patterns  and  their  self-reported  enjoyment  increased.  This  demonstrates  the
+adaptability of musical preference: we like what we can cognitively organize, and with learning, we
+can enjoy a broader range of music.
+In summary, humans do not have an inborn list of “liked” and “disliked” music. Instead, musical taste is
+a complex product of early predispositions, intensive cultural exposure, social affiliation, and
+personal emotional experience. Early life sets the stage by tuning the brain’s auditory circuits to
+certain tonal and rhythmic patterns. Then throughout youth, each individual’s unique experiences –
+what music is available, which songs become associated with meaningful moments, which peer group
+they belong to – sculpt a personalized preference profile. This profile can evolve but often stabilizes in
+adulthood. Ultimately, musical preferences illustrate a key principle of brain plasticity: the brain’s reward
+response to music is not fixed, but can be trained. As we discuss next, the question of why we enjoy the
+music  we  do  (or  don’t)  ties  directly  into  how  our  brains  process  and  predict  musical  information,
+triggering pleasure or displeasure signals.
+Why Do We Like or Dislike Certain Music?
+One person’s music can be another person’s noise. What makes a sound or musical piece appealing to
+one individual but aversive to another? Research points to several factors behind musical likes and
+dislikes, including  familiarity,  predictive expectations,  emotional associations, and basic acoustic
+qualities. At the core is how our brains anticipate and respond to musical patterns. Liking a piece of
+music isn’t just a passive experience – it’s an active mental process where our brain is continuously
+predicting the next note or beat, checking those predictions, and reacting emotionally to the outcomes
+. Whether music feels pleasurable or not depends in part on that dance between expectation
+and surprise.
+The Role of Prediction and Expectation: As we listen to a song, our brain’s auditory cortex and related
+areas are constantly generating predictions about what will happen next in the music. If the
+music is very familiar (say a well-known pop chorus), our prediction is strong and likely to be correct –
+hearing the expected chord might be satisfying but not thrilling. If the music is entirely random or
+extremely unfamiliar , our brain may have no solid predictions, leading to confusion or even stress.
+Interestingly,  the  greatest  musical  pleasure  tends  to  occur  when  predictions  are  partially met  and
+partially violated – in other words, when music strikes a sweet spot of novel yet comprehensible. Overly
+simple and predictable music can be boring, while  overly chaotic, unpredictable music can be
+unpleasant or hard to follow. Studies in cognitive neuroscience support this idea: the  reward
+centers (like the striatal dopamine system) in the brain are most activated when musical events are
+surprising but not completely random. One 2021 neuroscience study showed that each time our
+28 29
+30 31
+30 31
+32
+32
+6
+
+--- Page 7 ---
+brain successfully predicts a note in a melody, or is mildly surprised by a note, a prediction error signal
+arises,  which  correlates  with  emotional  arousal.  If  the  prediction  error  is  too  large  or  too
+frequent  (music  is  too  hard  to  predict),  the  brain  doesn’t  derive  as  much  pleasure;  if  there  is  no
+prediction error at all (music is trivial or monotonous), the result is also low pleasure. The most
+enjoyable music, subjectively, tends to involve intermediate uncertainty: it plays with our expectations –
+setting  up  patterns  and  sometimes  deviating  in  creative  ways  –  so  that  we  experience  a  mix  of
+confirmation (“Ah, it went where I thought!”) and surprise (“Oh! An interesting change!”). This aligns with
+a theory from as far back as 1956 by Leonard Meyer , who proposed that musical emotions arise from
+the fulfillment or frustration of  expectations. Modern neuroimaging confirms that unpredictable
+musical  deviations  can  increase  emotional  arousal  (higher  “psychological  activation”)  while  certain
+expected resolutions can give a feeling of satisfaction.
+Familiarity and the Mere Exposure Effect: Familiarity is a powerful driver of musical liking. The more
+often we hear a song (assuming it’s not initially aversive), the more our brain fluently processes it, which
+can increase a sense of liking – a phenomenon known as the mere exposure effect. Upon first listen, a
+complex piece might overwhelm the predictive systems, but after a few listens, patterns emerge and
+the piece becomes pleasurable as our brain learns its structure. That said, over-exposure can breed
+contempt – a song can definitely be “played to death” to the point of annoyance, reflecting a habituation
+or even a sense of prediction fatigue. Still, in general, unfamiliar music is at a disadvantage: people
+have a bias to prefer what they know. This is culturally evident: when exposed primarily to one genre,
+listeners  often  find  other  genres  less  appealing  until  they  gain  some  familiarity.  It  works  both
+cognitively and emotionally – known music is easier to parse (cognitively fluent) and often carries
+known emotional content or memories, whereas unknown music demands more effort to interpret and
+lacks personal resonance.
+Cultural  Convention  and  “Sound  Palette”: Our  likes  can  also  depend  on  acoustic  features  and
+conventions.  Some  sounds  are  universally  perceived  as  jarring  (e.g.  extremely  dissonant,  rough
+combinations of frequencies can set our nerves on edge due to the beating phenomenon in the ear).
+Even infants and many animals show aversion to very rough, noisy sounds. One famous example is the
+musical score from the movie  Jaws – two notes that form an ominous dissonance; it reliably triggers
+tension  and  a  spike  in  heart  rate.  Our  autonomic  nervous  system  responds  to  such  harsh,
+discordant sounds with a mild stress response (perhaps an evolutionary alert for alarm calls or danger
+noises) . This explains why  most people find nails on a chalkboard or very dissonant chords
+unpleasant. On the other hand, consonant chords (with simple frequency ratios) tend to sound smooth
+and pleasant because they lack those rough acoustic beats; many brains find that inherently easier to
+process. Culture amplifies these tendencies by reinforcing which chords are used in pleasant music. A
+study  highlighted  earlier  showed  that  Western  listeners  strongly  prefer  consonant  intervals  (like  a
+perfect  fifth  C–G)  over  dissonant  ones  (like  the  clashing  C–F#),  whereas  individuals  from  a  culture
+unexposed to Western harmony did not show that preference. Thus, acoustic properties play a
+role, but interpretation of those properties is learned. A heavy, distorted electric guitar riff might sound
+exciting and energizing to a rock music fan, but just “noise” to someone unaccustomed – partly due to
+the timbre and dissonance in distortion, and partly due to what they associate that sound with.
+Emotional Association and Context: People often like or dislike music because of the emotions and
+memories tied to it. Our brains readily form associations between a song and the context in which we
+heard  it.  If  a  certain  song  was  playing  during  a  joyful  life  event  (perhaps  a  wedding  dance  or  a
+triumphant graduation), hearing it later can rekindle those positive emotions – leading us to  like the
+song not just for its musical qualities but for its personal meaning. Conversely, music that one heard
+during a bad breakup or a painful time might carry negative feelings, causing a dislike regardless of the
+song’s intrinsic qualities. The  medial prefrontal cortex, a brain region involved in linking music to
+personal  memories  and  assigning  value,  plays  a  role  here.  It  helps  explain  why  we  might
+33 34
+32
+35
+34
+36
+37 36
+24 22
+38 39
+7
+
+--- Page 8 ---
+treasure a fairly ordinary song that reminds us of childhood, or why lyrics that resonate with our life
+story can make us love a song despite a simple tune. In short, our musical likes are colored by our life
+experiences. This also means social factors come in: music that is favored by one’s friends or valued in
+one’s community can become more likable due to social bonding effects, whereas music associated with
+groups one dislikes might be judged more harshly (sometimes independent of its sound).
+Personality and Physiological Differences: Individuals differ in what they seek from music. Personality
+traits have been correlated with musical preferences: for instance, studies have found that openness to
+experience (a Big Five personality trait) correlates with liking more complex, unconventional music
+(such as avant-garde jazz or classical), whereas extroversion correlates with a preference for upbeat,
+danceable genres and empathy correlates with preference for mellow or emotional music. These are
+trends, not absolutes, but they hint that personal disposition guides what aspects of music one finds
+rewarding  –  complex  intellectual  stimulation  vs.  rhythmic  energy  vs.  emotional  depth.  On  a
+physiological level, some listeners are more sensitive to stimulation and may find extremely loud or
+rapid music overwhelming (disliked due to sensory overload), whereas sensation-seekers might enjoy
+the intense barrage of a heavy metal concert or a pounding EDM track. There is even research showing
+that genetic factors might influence musical enjoyment: for example, a twin study in 2022 found that
+identical twins were more similar in their self-reported emotional reactions to music than fraternal
+twins, suggesting a heritable component to how strongly music can activate the reward system.
+Another study identified specific genetic markers that could be linked to musical reward sensitivity
+(though this field is nascent). In essence, our brain’s dopamine-related reward circuitry might be more
+or less reactive to music based on innate factors, making some people naturally “high responders” to
+music (those who get chills easily, for example) and others more indifferent unless strongly trained.
+Why We Dislike Music: Just as important as liking is disliking. Dislike often arises when music violates
+expectations or preferences in an unpleasant way. For example, a person who loves smooth melody
+and  harmony  might  actively  dislike  very  dissonant,  atonal  music  because  it  provides  little  of  the
+expected resolution and may induce tension without release. Rapid, chaotic free-jazz might frustrate
+someone used to steady, simple rhythms. Another common reason for dislike is  overexposure or
+ubiquity – sometimes people turn against a popular song precisely because it’s everywhere (an effect
+tied  to  saturating  the  reward  circuits  until  the  novelty  and  pleasure  wear  off).  Dislike  can  also  be
+amplified by context and connotation: if a genre is associated with a subculture or values one rejects, one
+might report disliking the music itself (even if, heard in a vacuum, it might be palatable). On the neural
+level,  unpleasant  music  (like  a  detested  song)  has  been  shown  to  activate  brain  regions  linked  to
+negative  emotion  and  stress.  One  fMRI  study  found  that  dissonant  or  otherwise  aversive  music
+increased activation in the amygdala and paralimbic areas associated with fear and unpleasantness.
+In contrast, pleasant music reduced activity in those areas and heightened it in reward circuits.
+Thus, there is a physiological reality to “bad music” for someone – it can literally trigger stress responses
+or fail to trigger the expected reward.
+Familiarity vs. Novelty – Striking a Balance: Researchers often talk about an inverted-U relationship
+between musical complexity and liking. At zero familiarity (completely novel structure), initial liking
+might be low; as familiarity increases, liking rises, peaking when the music is understood but still fresh.
+Beyond that, too much repetition can cause liking to drop (boredom). Composers and songwriters
+intuitively exploit this: a good piece of music introduces patterns, develops them, repeats themes (to
+build familiarity) but also introduces changes, bridges, or variations (to maintain novelty and interest).
+Listeners differ on where their sweet spot lies – some prefer very catchy, repetitive tunes (far on the
+familiarity side of the U), while others love experimental music that’s barely predictable (far on the novel
+side). Why do our brains seek this balance? Because it optimizes both cognitive reward (the pleasure
+of  successfully  predicting  patterns  and  finding  structure)  and  surprise  reward (the  pleasure  of
+something new and interesting). If music gives us patterns we can latch onto (like a steady beat,
+40 41
+42
+42
+32 43
+8
+
+--- Page 9 ---
+a  recurring  chorus)  and keeps  us  on  our  toes  with  some  originality,  it  tends  to  be  perceived  as
+satisfying. This is one reason popular music often adheres to familiar song structures with a few novel
+hooks.
+Getting  Used  to  New  Sounds: There  are  countless  anecdotes  of  music  that  at  first  listen  seems
+unappealing, but later “clicks” and becomes a favorite. This often happens with innovative genres or
+complex  works.  The  first  exposure  might  leave  the  brain’s  predictive  model  scrambling  –  many
+prediction errors, little reward. But if one persists (or has motivation to fit in with friends’ taste, etc.), the
+brain begins to learn the patterns. Studies have shown that after repeated listens, the auditory cortex
+literally refines its response to previously odd-sounding scales or rhythms, and the nucleus accumbens
+(reward hub) starts firing in time with expected pleasurable moments that were initially missed.
+In one study mentioned earlier , when Western listeners learned the patterns of a radically different style
+(the Sámi yoik singing), their ability to predict the next notes improved and so did their reported liking
+. This demonstrates that understanding can lead to appreciation. Thus, sometimes “dislike” is just
+the brain saying “I don’t get this structure” – and with more exposure or knowledge, that reaction can
+change.
+Summary: We like music that rewards our brains. Music that fits our learned patterns (cultural and
+personal)  and  plays  with  those  patterns  in  pleasing  ways  will  tend  to  activate  our  reward  circuits
+(releasing dopamine, producing positive emotion), leading to enjoyment. We dislike music that
+either overwhelms or under-stimulates our predictive brains, or that carries negative associations or
+harsh sounds that set off alarm centers. Of course, likes and dislikes can be idiosyncratic – shaped by
+each individual’s neural wiring, personality, memories, and social identity. In short,  specific sounds,
+rhythms, or genres appeal to us when our brains can derive meaningful, rewarding patterns from
+them, whereas we reject those that either violate our neural expectations too strongly or simply don’t
+connect with our emotional/semantic networks. Understanding this dynamic provides a bridge to the
+next topic: how exactly music engages the brain’s cognitive and emotional systems to produce those
+feelings of reward, meaning and sometimes transcendence that music lovers often describe.
+The Brain’s Coordination of Music Perception, Cognition, and
+Emotion
+Listening  to  music  is  not  just  a  sensory  experience;  it  is  a  whole-brain  workout  that  coordinates
+perception,  cognition,  and  emotion.  One  reason  music  is  so  captivating  is  that  it  simultaneously
+engages multiple brain networks that typically serve separate functions. As the famous neuroscientist
+Daniel Levitin noted, music can tickle the cortex (cognition), the heart (emotion), and even the feet
+(motor system) all at once. In this section, we explore how the brain integrates these components: how
+we think and feel music, not just hear it.
+Multi-Modal Brain Activation: When you hear a piece of music, the primary auditory cortex (A1) begins
+the analysis of sound, as described earlier . But very quickly, activity spreads beyond auditory regions.
+Neuroimaging studies have found that  music listening activates the auditory cortex along with
+motor areas, limbic (emotional) areas, and higher-order cognitive areas in parallel . In fact,
+one fMRI study summed it up:  “music lights up nearly all of the brain”. Let’s break down some key
+players in this musical network:
+Auditory Cortex and Superior Temporal Gyrus (STG): These handle the initial perception –
+decoding pitch sequences, timbre, and rhythm. The right STG is particularly important for music;
+damage here can cause  amusia (loss of musical perception). Within the auditory cortex,
+certain patches focus on melodic patterns and others on detecting the beat or contour .
+44 45
+46 47
+48 49
+1 2
+1
+• 
+50
+9
+
+--- Page 10 ---
+Inferior Frontal Cortex (IFG): This area (especially in the right hemisphere for music) is involved
+in musical structure processing – akin to grammar for music. It helps with musical working
+memory (holding a motif in mind) and with  prediction (processing expectations of chords or
+melody) . The inferior frontal cortex effectively compares incoming musical phrases with
+templates of musical patterns we’ve stored in the STG from past experience. Activity here
+is associated with recognizing when a musical progression is unusual or modulates to a new key.
+Motor Cortex, Premotor Cortex, Basal Ganglia, and Cerebellum: These motor-related regions
+are active even if the listener remains still. They are thought to underpin rhythmic timing and
+beat anticipation, as well as the urge or actual execution of movement to music. The
+basal ganglia (especially the putamen) show strong activation to a steady beat, suggesting they
+generate  an  internal  pulse.  The  cerebellum  may  fine-tune  timing  and  contribute  to  the
+emotional  “swell”  by  coordinating  the  dynamics  (some  theories  propose  the  cerebellum’s
+predictions of rhythmic timing feed into emotional circuits, giving a sense of satisfaction when
+each  beat  arrives  as  expected).  Motor  involvement  also  connects  to  entrainment –  the
+synchronization of body and neural rhythms to musical rhythm, which can facilitate a state of
+flow  or  trance  in  music  (seen  in  dance,  marching,  chanting,  etc.,  where  group  movement
+synchronizes via music).
+Limbic System – Amygdala and Nucleus Accumbens: The amygdala is commonly known for
+processing emotions, especially threat-related or fear , but it also responds to music’s emotional
+qualities (e.g. dissonant or minor-key music that listeners interpret as sad or tense can heighten
+amygdala activation) . Interestingly, live music was shown to engage the amygdala more
+than recorded music, presumably because the emotional impact is greater. The  nucleus
+accumbens (part of the ventral striatum) is a core structure of the brain’s reward circuit. It has
+been dubbed the “pleasure center” and is implicated whenever we experience rewarding stimuli
+like tasty food, sex, or drugs. Music can hijack this ancient reward system – when you hear a
+song you love, especially a climax or a beat drop you’ve been waiting for , the nucleus accumbens
+releases dopamine, giving you a wave of pleasure. Remarkably, neurochemical studies
+have  confirmed  dopamine  release  peaks  during  the  moments  of  musical  “chills” or
+goosebumps. The nucleus accumbens seems to integrate predictions from the auditory/
+frontal  regions  with  emotional  salience:  if  the  music  meets  or  exceeds  expectations  in  a
+satisfying way, it triggers dopamine as a reward signal. This mechanism explains why
+people can experience euphoria or even addictive craving for favorite music.
+Mesolimbic Reward Pathway: Extending from the nucleus accumbens, the ventral tegmental
+area (VTA) and pathways releasing dopamine broadly in the brain are involved in the pleasure of
+music . Musical pleasure not only activates the nucleus accumbens but also the orbitofrontal
+cortex (OFC) – a region in the frontal lobe that evaluates rewards and subjective pleasure.
+Interestingly, the OFC activation pattern for music overlaps with that for other euphoria-inducing
+stimuli. One study even noted that people with obsessive-compulsive disorder (OCD), who have
+hyperactive OFC circuits, also show OFC activation when listening to music, particularly during
+moments  of  tension  and  release.  This  suggests  a  shared  circuit  for  processing
+uncertainty and resolution, whether in pathological anxiety or musical anticipation.
+Hippocampus  and  Memory  Regions: The  hippocampus,  a  medial  temporal  lobe  structure
+crucial  for  memory,  is  engaged  by  music  in  multiple  ways.  First,  music  can  evoke
+autobiographical  memories –  a  phenomenon  well  documented  in  psychology.  Hearing  a
+familiar old song often triggers vivid recollections of past events (sometimes called the “music-
+evoked remembering” effect). The hippocampus, along with the adjacent retrosplenial cortex
+and precuneus (part of the brain’s default mode network), shows activation when music induces
+• 
+28 51
+28 29
+• 
+2 15
+• 
+52 53
+52
+48 49
+42
+48 49
+• 
+42
+54 55
+• 
+10
+
+--- Page 11 ---
+nostalgia or personal reflection. Second, the hippocampus is involved when we learn musical
+pieces or when we navigate the structure of a complex composition (some analogize following a
+symphony’s movements to navigating a spatial-temporal map, a task hippocampus can support).
+In patients with Alzheimer’s disease or other dementia, musical memory is notably resilient –
+familiar  songs  can  be  recognized  and  sung  long  after  other  memories  fade,  implying  that
+musical memory traces are distributed and perhaps have alternate access routes in the brain
+(some argue the premotor cortex and cerebellum store procedural aspects of songs, while the
+emotional tag of a song might be stored with the amygdala, etc., allowing recall via multiple
+pathways).
+Prefrontal Cortex: Beyond the OFC mentioned above, the  medial prefrontal cortex (mPFC)
+and portions of the dorsolateral prefrontal cortex are active in music listening, especially when
+the music is complex or when one is analytically or attentively listening. The mPFC is thought to
+be involved in assigning value and meaning – for instance, determining why a piece moves us
+or evaluating how much we like it. It’s also implicated in  social cognition aspects of
+music; one study showed that when people believed a piece of music was human-composed
+(versus computer-composed), their mPFC and related “theory of mind” networks lit up more, as if
+trying to understand the composer’s intentions. This hints that we often engage with
+music as a kind of communication from another human mind, and our brain tries to interpret its
+expressive intent. The lateral prefrontal regions, on the other hand, might become involved if
+we’re analyzing the music or exerting attention – for instance, a musician listening for errors or a
+student trying to transcribe a melody in their head.
+Insula: The insula, an interior region of cortex, is involved in processing internal bodily states
+and empathy. In music, the anterior insula often activates during emotionally moving passages.
+It may integrate the “gut feelings” – chills, heart rate changes – with the subjective emotional
+experience. The insula is also linked to  empathy circuits, which could relate to how music
+sometimes makes us feel the emotion it expresses (happy music making us happy, sad music
+making us melancholic in a bittersweet way). Additionally, the insula has been noted when music
+evokes  feelings  of  oneness  or  absorption,  possibly  relating  to  it  integrating  autonomic
+responses.
+Integration  and  Synchronization: Music  perception-cognition-emotion  is  fundamentally  about
+integration. Consider a dramatic film score moment: the auditory cortex is parsing the rising tremolo of
+violins (perception), the frontal cortex is recognizing the pattern that this is building tension (cognition),
+memories of similar musical tension in other contexts come from the hippocampus (cognition), the
+amygdala senses something ominous in the dissonant swell (emotion), your heart races a bit (brainstem
+autonomic response via emotional arousal), and when the chord finally resolves in a triumphant major
+key, the nucleus accumbens releases dopamine (pleasure, emotion) and the motor cortex might even
+make you unconsciously breathe out or sigh in relief (motor/emotion linkage). All this happens in a
+matter  of  seconds  as  the  music  plays.  The  synchronization of  these  networks  can  sometimes  be
+measured – for example, EEG and fMRI studies show that music can drive coherent oscillations in
+different  brain  regions.  In  one  recent  study,  researchers  found  that  music-evoked  emotions
+correspond to dynamic changes in brain connectivity: transitions in a song that caused emotional
+shifts  led  to  coordinated  activity  changes  in  auditory  areas  and  regions  like  the  temporoparietal
+junction (involved in shifting attention and possibly social/emotional perspective). In another study,
+when  participants  experienced  “peak  pleasure”  (musical  chills),  functional  connectivity  between  the
+auditory cortex and the striatum increased, indicating tighter coupling between perceiving the sound
+and rewarding it. 
+56
+• 
+38 39
+57 58
+• 
+59
+60
+11
+
+--- Page 12 ---
+A helpful way to visualize this coordination is through network models. Researchers like Stefan Koelsch
+have proposed models wherein a “perception network” (auditory and cognitive areas) continuously
+interacts with an “emotion network” (limbic and autonomic areas) during music listening. One of
+Koelsch’s ideas is that music can directly tap circuits of  empathy, trust, and social cognition in the
+brain, which are typically used in human social bonding. For example, when we hear expressive
+nuances in a performer’s playing, our brain might treat it akin to hearing the prosody (emotional tone)
+in someone’s voice – engaging brain regions that help us infer others’ feelings. This ties perception to
+emotional cognition directly.
+The Emotional Palette of Music in the Brain: Music can evoke a broad spectrum of emotions – from
+joy and calm to sadness, fear , and nostalgia. How does the brain differentiate these? Studies have found
+some valence-specific patterns: happy, consonant music (e.g. fast tempo, major key) tends to activate
+the mesolimbic reward system strongly and often dampen amygdala activity (since there’s no threat),
+whereas sad music (slower , minor key) might activate memory regions and the hormone prolactin
+release that yields a bittersweet comfort, along with mild activation of the amygdala for the sorrowful
+vibe. Scary or tense music (dissonant, unpredictable) can trigger higher amygdala and physiological
+arousal (increased skin conductance, etc.), similar to mild fear , along with the auditory cortex picking up
+on rough sounds that resemble alarm calls. Notably, people often enjoy some negative emotions in
+music (like sadness) in a safe context because the cognitive brain knows there is no real threat or loss –
+it’s like experiencing emotions in a virtual reality, which some theorize activates reward via emotional
+catharsis. The orbitofrontal cortex might assign positive value to the experience of “beautiful sadness”
+from a poignant song, even as the amygdala registers it as sad. This unique mixture often happens only
+with art – our brain can find pleasure in emotional complexity.
+Coordination  in  Musicians  vs.  Non-Musicians: For  those  who  are  trained  musicians,  the  brain’s
+coordination during music perception is even more pronounced. Musicians have stronger connections
+between auditory and motor regions (from practicing an instrument), and often show activation
+in language-related areas too (since musical notation or analysis can recruit similar circuits). When
+musicians listen to music, they may engage analytic cognitive networks more (left hemisphere analytical
+regions, for instance) and have an enhanced predictive model – their brains can simulate playing along.
+This  leads  to  interesting  differences:  EEG  studies  show  that  musicians’  brains  produce  prediction
+responses to chord progressions faster and often with different neural signatures than non-musicians,
+reflecting  a  refined  internal  model  of  music.  The  corpus  callosum (connecting  hemispheres)  is
+sometimes larger in musicians, facilitating integration across brain regions. In sum, extensive training
+can  rewire  the  coordination  among  auditory,  motor ,  and  cognitive-emotional  circuits,  allowing
+musicians to perceive nuances and perhaps feel emotions in music on a more granular level (though
+non-musicians obviously feel music strongly too, just perhaps less analytically segmented).
+Table: Key Brain Regions Involved in Music and Their Functions
+Brain Region Role in Music Processing
+Primary Auditory
+Cortex (A1)
+Decodes basic sound features; tonotopic map of frequencies. Segments
+sounds and detects pitch, timbre, and timing features. Forms the
+first stage of music perception.
+Superior Temporal
+Gyrus (Auditory
+Association)
+Stores learned sound templates and musical patterns from past experience.
+Recognizes melodies and familiar harmonies by matching incoming sounds
+to memory. Involved in differentiating complex timbres and combining
+notes into chords.
+61 62
+61 62
+36
+63 64
+4 5
+28
+12
+
+--- Page 13 ---
+Brain Region Role in Music Processing
+Inferior Frontal
+Gyrus (IFG)
+Analyzes musical structure (musical “syntax”). Generates and evaluates
+predictions of musical sequences. Integrates working memory for
+melodies; detects rule violations (like out-of-key notes). Critical for
+processing harmony and rhythm patterns; especially active during
+expectation and surprise.
+Motor Cortex &
+Premotor Cortex
+Activate rhythmically with music even without movement. Plan and
+imagine movements (tapping, dancing) aligned to the beat. Premotor cortex
+helps entrain to tempo and coordinate timing of beats. In musicians, helps
+with auditory-motor integration (e.g., fingering notes).
+Basal Ganglia
+(e.g., Putamen)
+Central for beat processing and internal timing. Fires in sync with the beat,
+helping predict the next beat. Damage (Parkinson’s) impairs beat
+tracking, while rhythmic music can help compensate. Basal ganglia links
+rhythm to reward – grooving to music can engage its reward loops.
+Cerebellum
+Fine-tunes timing and expectation of rhythm. Processes tempo changes and
+rhythm complexity. Involved in the emotional impact of music via timing
+– may contribute to the “swing” or tension by slight anticipations/delays.
+Also active when feeling urge to move.
+Amygdala
+Generates emotional responses to music’s emotional cues. Reacts to
+threatening or tense musical elements (dissonance, shrillness) with arousal/
+fear signals. Also responds to strongly emotional pieces (e.g., a
+melancholic melody can evoke sadness via amygdala activity). Amygdala
+activity differentiates happy vs. sad vs. scary music.
+Nucleus
+Accumbens
+(Ventral Striatum)
+The brain’s pleasure center , releases dopamine during peak musical pleasure
+. Responsible for the euphoria and “chills” in music. Activation
+here correlates with how much a listener likes a new song. It
+integrates expectation and outcome: when music meets or violates
+expectations in gratifying ways, this region lights up.
+Hippocampus &
+Medial Temporal
+Links music to memories and context. Engages during nostalgic or
+significant music to retrieve autobiographical memories. Also involved in
+learning musical information (tunes, lyrics). Highly active when music
+therapy is used to spark memory in dementia. The hippocampus also
+contributes to the mood regulation effects of music through memory-
+emotion connections.
+Medial Prefrontal
+Cortex (mPFC)
+Assigns value and meaning to music. Active when a person deeply enjoys
+music or finds it meaningful. Involved in processing the aesthetic
+judgment – why a piece is beautiful or important to the self. Also plays a
+role in social cognition of music (imagining the artist’s intent, or feeling
+connected via a song). One of the last areas to degenerate in Alzheimer’s,
+possibly explaining why familiar music recognition persists so long.
+Orbitofrontal
+Cortex (OFC)
+Computes reward value of music in the moment – how pleasurable is this
+sound? Involved in the tension and release cycle: active during musical
+build-ups and resolution, somewhat like during resolution of anxiety.
+Interacts with amygdala and accumbens to shape the emotional
+“flavor” (e.g., bittersweet, joyful) of musical experience.
+65
+2
+15
+15
+36
+48 49 42
+45 48
+56
+38
+66
+54 55
+13
+
+--- Page 14 ---
+Brain Region Role in Music Processing
+Insula
+Integrates visceral bodily responses (e.g. chills, heart rate changes) with
+emotional experience. Active during strong emotional reactions to music,
+possibly underpinning that feeling of music “moving you” internally. Also
+linked to empathy – might be why expressive music can make us feel the
+portrayed emotion (we simulate the emotion in ourselves).
+Table: Major brain regions engaged by music and their roles in music processing, based on multiple sources
+. Music perception and enjoyment emerge from the interaction of these regions, rather than
+any one area acting alone.
+Emotion, Cognition, and the “Musical Brain State”: An intriguing finding in recent research is that
+listening to music can induce a distinct brain state that blends analytical and default-mode networks.
+When a piece of music is highly engaging emotionally, people often report a sense of  immersion or
+“flow”, losing track of time and self. Brain scans reveal that during such immersion, the normal “default
+mode network” (DMN – active during mind-wandering and internal thought) can couple with auditory
+and emotional regions, suggesting that music hijacks both our outward attention and inward stream of
+consciousness .  For  instance,  listening  to  a  sad,  slow  movement  might  deactivate  some
+executive control (judgment) regions while activating memory and self-referential networks, allowing
+one to drift into introspection with the music guiding the narrative. In contrast, a fast, complex piece
+might heighten activity in attention networks and sensory areas, focusing the mind sharply on the
+musical  structure.  Thus,  music  can  modulate  cognitive  control:  sometimes  we  analyze  it  (high
+executive engagement), other times we surrender to it (low executive, high default-mode engagement),
+often oscillating between these modes. This may partly explain music’s therapeutic and mood-altering
+capabilities, as it can shift brain network dynamics in ways similar to certain meditative or joyful states.
+In Summary: The brain orchestrates a complex symphony when we engage with music. Our auditory
+cortex extracts the notes; our cognitive circuits predict patterns and recognize structures; our motor
+system keeps the beat and may translate sound into movement; our emotional centers attach feeling,
+and  our  reward  system  gives  the  thumbs-up  (or  down)  with  dopamine.  All  these  components
+communicate  rapidly  –  the  auditory  cortex  sends  information  to  the  limbic  system  (via  subcortical
+routes) in milliseconds, and the frontal cortex feeds back predictions to auditory areas to sharpen
+perception. This constant feedback loop means music is not a one-way street of sound to emotion;
+it is interactive, with our brain actively dancing with the music’s flow. The result is that music can evoke
+tears, goosebumps, laughter , calm, or excitement by virtue of this integrated brain response. When you
+“lose yourself” in a beautiful song, that phrase is neurologically apt: multiple brain systems are so
+synchronized by the music that a kind of temporary unity occurs – a powerful, often pleasurable state
+that many describe as transcendent. Little wonder that every human society values music – it taps into
+fundamental brain systems that shape our cognition, social bonding, and emotional life.
+Evolutionary and Cultural Perspectives on Music
+Why did the ability to create and enjoy music arise in humans? This question has intrigued scientists
+from Darwin onward. Music is ubiquitous across cultures and history – archaeological evidence shows
+humans have been crafting instruments for tens of thousands of years (bone flutes dated to ~40,000
+years ago have been discovered). Yet unlike obvious adaptive behaviors (finding food, mating,
+etc.), music’s survival value is not immediately clear – you can’t eat a melody, and playing the drums
+might even attract predators! Evolutionary perspectives on music seek to explain this paradox. Several
+theories have emerged:
+2 28 48 14
+67 68
+12
+69 70
+14
+
+--- Page 15 ---
+Music  for  Social  Bonding: One  prominent  theory  posits  that  music  evolved  as  a  tool  for  social
+cohesion and communication. In prehistoric human groups, coordinating and bonding with others
+would have been critical for survival (for cooperative hunting, defense, child-rearing, etc.). Music –
+especially  group  music-making  like  singing,  drumming,  or  dancing  –  could  have  been  a  powerful
+mechanism to bind individuals together . Group music requires synchronization, mutual attention, and
+often emotional alignment. Research shows that making music together leads to increased feelings of
+trust and cohesion within the group . When people synchronize rhythms (say, by clapping or
+marching in unison), it triggers the release of  endorphins in the brain, creating a mild euphoria and
+social  warmth .  Endorphins  are  natural  opioids  that  can  promote  bonding  (similar  to  how
+laughter or group exercise can bond people via an endorphin rush). Additionally, group singing has
+been found to raise levels of oxytocin, the hormone associated with social bonding and trust.
+One study demonstrated that singing together for just 30 minutes significantly increased oxytocin in
+participants, both amateur and professional, regardless of whether they felt they sang well.
+Oxytocin likely contributes to the feeling of closeness and empathy among those singing or swaying
+together . In an evolutionary context, a group that could bond through music might have stronger
+cooperative ties and better group coordination. For example, rhythmic chanting or drumming could
+boost morale and unify intent before a hunt or battle. Even in childcare, a lullaby not only soothes the
+baby  but  also  strengthens  the  caregiver-infant  bond,  which  has  obvious  survival  value.
+Developmental researchers have noted that mothers across cultures naturally sing to infants (even in a
+special “motherese” musical voice) – suggesting an evolved impulse to use musical tone for bonding
+and communication of emotion to pre-verbal infants. Thus, the  social bonding hypothesis
+argues  that  music  evolved  because  it  made  groups  function  better  together  and  increased  social
+cohesion, which in turn improved survival and reproductive success for group members.
+Music and Sexual Selection: Another influential idea goes back to Charles Darwin, who speculated that
+music might have evolved via  sexual selection – similar to a peacock’s tail, as a courtship display of
+genetic fitness . The argument is that musical ability (singing, drumming, dancing) could signal
+desirable traits to potential mates, such as creativity, motor skills, cognitive capacity, and even physical
+stamina. There are intriguing parallels in the animal kingdom: many species use song in courtship
+(songbirds being the classic example – where typically males sing to attract females, and the complexity
+of song can reflect the fitness or learning ability of the bird). In humans, both sexes produce and enjoy
+music, which Darwin noted, so if it’s a sexual display, it’s a bit unusual in not being sex-dimorphic (unlike
+the peacock’s male-only tail). However , it could be that both male and female humans used music to
+attract  mates  or  to  impress  the  opposite  sex.  Some  anthropologists  have  observed  that  in  many
+traditional societies, musical performances (like dances, love songs, or instrumental virtuosity) often
+occur in courting contexts or at mating-relevant ages. A modern reflection is the fact that many popular
+musicians achieve elevated social status and reproductive success – the stereotype of rock stars with
+many admirers has some statistical truth. While that’s confounded by fame and status, it aligns with the
+idea that musical talent is found attractive. A study in 2022 provided experimental evidence: women
+rated male faces as more attractive and date-worthy after hearing music (especially complex, “high-
+arousal” music), suggesting that music could enhance sexual attraction as a primer. This was
+interpreted as music possibly amplifying perceived qualities or emotional context that make a person
+more appealing. The  sexual selection hypothesis is not universally accepted, but there is growing
+evidence that music engages brain circuits related to pleasure and desire in ways that could facilitate
+pair-bonding or mate choice. If musical skill had even a small mating advantage across generations
+(e.g., those who could sing well had more offspring because mates preferred them), it could drive
+evolution of musical capacities.
+Music  as  Auditory  “Cheesecake”  (Non-Adaptive  Pleasure): In  contrast  to  adaptationist  theories,
+psychologist Steven Pinker famously argued that music might be a  byproduct of evolution, not an
+adaptation in itself. He called music “auditory cheesecake” – an invention that piggybacks on other
+71 72
+73 72
+74 75
+76 75
+76 77
+76 77
+78 79
+80 81
+15
+
+--- Page 16 ---
+evolved  systems  (language,  emotional  calls,  pattern  recognition)  to  stimulate  pleasure,  much  like
+cheesecake is a modern concoction that appeals to our evolved taste for fats and sugars but didn’t itself
+guide evolution. According to this view, our brains didn’t evolve specifically for music; instead, music
+exploits pre-existing neural circuitry (for language, for example, or for recognizing and syncing to the
+rhythm of human movement) and hyper-stimulates it. The enjoyment we get from music would then be
+an incidental result of neural “tickling” of speech intonation circuits, emotional proto-calls, and reward
+pathways. While Pinker’s hypothesis sparked much debate, many researchers counter that music shows
+enough universality and early emergence in human development to suggest it wasn’t an accident.
+Babies are soothed by lullabies and will rhythmically bounce to music before they can walk – hints that
+musical response is deeply ingrained, not a pure cultural fluke.
+Musicality as a Collection of Evolved Capacities: It’s possible that what we call “music” draws on
+multiple traits each of which had evolutionary purposes. Cognitive scientist W. Tecumseh Fitch proposes
+separating “musicality” (the capacities that allow us to perceive and produce music) from “music” (the
+cultural object) . Capacities like relative pitch perception, beat synchronization, vocal imitation,
+emotional prosody (the ability to convey emotion in tones) – all these likely had adaptive roles (e.g., in
+language, coordination, emotional communication). Over time, humans combined them into the art of
+music. This means music may not have a single origin story but is an  exaptation – a beneficial co-
+opting of various systems. For instance, rhythmic synchronization might have evolved from the need to
+coordinate  group  activities  (marching,  rowing,  work  songs  to  synchronize  labor)  –  indeed,  there  is
+evidence that synchronized music can increase group efficiency and pain tolerance during collective
+effort .  Pitch  control  and  singing  might  have  roots  in  courtship  or  in  parent-infant
+communication (a mother’s crooning calms a baby and signals safety). Emotional expression through
+melody  could  derive  from  primate  calls  that  convey  mood  and  intent.  Once  these  elements  were
+present, it’s easy to see how natural selection could favor those who combined them effectively: a tribe
+with strong musical traditions might have better cohesion and morale (leading to survival advantage),
+and individuals with musical skill might have better social standing or mating opportunities.
+Cultural  Evolution  of  Music: Beyond  biological  evolution,  music  has  been  shaped  by  cultural
+evolution. Different societies experimented with sound and found what worked for group needs –
+whether it was the war drum to arouse warriors, the hymn to unite community in spiritual practice, or
+the harvest song to express gratitude. Cultural evolution can spread useful musical practices quickly
+without genetic change. For example, the use of music in ritual likely caught on because it powerfully
+alters consciousness and group feelings (we see this in virtually every religion that uses chanting or
+singing to foster communal spiritual experience). Over generations, cultures refined musical scales (like
+the development of the diatonic scale in the West, the ragas in Indian music, etc.), often maximizing
+emotional expressiveness and aesthetics within each culture’s context. Intriguingly, despite enormous
+surface differences, there are some universals in music across cultures: most music has a rhythmic
+beat (almost no tradition has completely arhythmic music – likely because a beat is fundamental to
+engaging the brain’s timing system and facilitating coordination). Similarly, the  octave (doubling of
+frequency) is recognized across cultures as a “same” note in a sense (almost all music systems have the
+concept that notes an octave apart are musically equivalent). Also,  lullabies around the world share
+features:  they  tend  to  be  slow,  quiet,  with  simple  contours  –  presumably  because  those  features
+effectively calm infants (and perhaps evolved from that function). Anthropologists have found
+that people from very different cultures can often identify a lullaby versus a dance song versus a love
+song from another culture based on universal cues (soft and soothing vs. rhythmic and energetic, etc.).
+This  implies  that  while  scales  and  harmonies  are  learned,  some  emotional  meaning  of  music  is
+universal – likely rooted in our shared human biology (e.g., a sudden loud sound will startle anyone; a
+steady lullaby-like rocking rhythm tends to soothe anyone). 
+82 83
+71 72
+76 77
+16
+
+--- Page 17 ---
+Group Survival and Signaling: Music might also have served as a coalitional signal – meaning, a way
+to advertise the strength or unity of a group. Imagine two rival early human bands: one group regularly
+engages in all-night drumming and singing rituals, synchronizing their moods and building strong
+social bonds, the other does not. When conflict arises, the musically bonded group may fight more
+cohesively or intimidate the other by their obvious unity (even their ability to sing together for hours
+could signal endurance and camaraderie). This scenario might be one reason war chants and anthems
+exist  –  they  serve  to  bond  the  in-group  and  signal  formidability.  In  peaceful  contexts,  music  at
+gatherings could signal mutual trust (everyone letting their guard down to sing/dance is a sign of social
+safety).
+Musical  and  Language  Co-evolution: Another  perspective  is  that  music  and  language  share  a
+common origin in an ancestral proto-communication system. Some theorists (e.g., Stephen Mithen with
+his “hmmmmm” theory – holistic, manipulative, multimodal, musical, and memetic communication in
+early  Homo  sapiens)  suggest  that  early  humans  communicated  with  a  blend  of  melodic  phrases,
+rhythmic grunts, and gestures – basically a musilanguage. Over time, this diverged into language (more
+semantic,  discrete  units)  and  music  (more  emotive,  repetitive  patterns).  The  fact  that  music  and
+language share neural resources (both use auditory cortex, both have syntax processing in frontal
+areas,  etc.)  supports  a  shared  substrate.  If  true,  music  might  not  have  a  direct  Darwinian
+function on its own, but it was part of the package that enabled advanced social communication, which
+definitely had survival value. Then as language took over the literal meaning aspect, music remained as
+a channel for emotional and social communication.
+Modern Observations and Evolution: Today, we can observe how fundamental music is to humans by
+its  universality  and  early  development.  Newborns  can  discriminate  rhythmic  patterns  and  prefer
+consonance; children universally engage in song and dance when given the chance. Importantly, there
+are  few  (if  any)  cultures  without  music.  Even  cultures  that  historically  banned  certain  music  (for
+example, puritanical regimes) often replaced it with other rhythmic/sonic activities (chanting religious
+texts, etc.), essentially finding a way to satisfy that musical impulse. This suggests an innate component
+– the capacity and drive for music is built-in, even if the style is culturally directed. Additionally, music
+engages the reward system deeply (as discussed previously), hinting that evolution “allowed” or even
+encouraged that coupling. It’s unlikely evolution would permit a completely wasteful trait to consistently
+and strongly tap our reward system (nature tends to reserve such wiring for things that improved
+fitness in ancestral environments). Thus, enjoying music might have been adaptive in indirect ways
+(making us engage in beneficial social or cognitive activities more often because they felt good).
+Summary of Evolutionary Views: In sum, the evolutionary story of music probably involves multiple
+factors: a bit of sexual display, a lot of social bonding, co-opting of communicative emotional signals,
+and cultural innovation. These are not mutually exclusive. For instance, a prehistoric individual who
+could  drum  hypnotically  around  the  campfire  might  both  impress  mates  (sexual  selection)  and
+strengthen group solidarity (social selection), doubling the evolutionary incentives for musical skill. Over
+thousands of generations, the human brain became especially tuned for musical input: we have precise
+pitch discrimination unlike most primates, we have rhythmic entrainment abilities that are very rare in
+the animal kingdom, and we experience genuine pleasure from patterned sound sequences. These
+traits suggest something drove their selection. 
+One  can  imagine  early  humans  in  the  dark  evenings:  language  might  convey  the  day’s  practical
+information, but music – a wordless humming or communal rhythm – soothes fears, forges identity,
+and coordinates minds towards a shared emotional state. As a 2018 review put it, “The human nature of
+music” lies in how it  connects us . Music’s cultural evolution has exploded in modern times (with
+global genres, technology for music anytime, individual vs. communal listening shifts), but our brains
+remain the product of that long journey. This is why even today,  live music in a crowd can feel
+14 84
+85
+17
+
+--- Page 18 ---
+transcendent –  it  taps  into  an  ancient  mechanism  of  unity.  Live  performance  seems  to  amplify
+emotional  brain  responses,  as  one  recent  study  showed:  live  music  elicited  stronger  amygdala
+activation and broader brain connectivity than listening to recordings, indicating a unique emotional
+entrainment between performers and audience. The researchers of that 2024 study concluded
+that “only live settings lead to a close coupling between musical performances and emotional responses in
+listeners, which is a central mechanism for music as a social entrainment process”. This finding echoes
+the evolutionary idea that  music evolved to be experienced live and collectively, reinforcing social
+bonds in real time. Even though we can now enjoy music alone on headphones, our brain’s response is
+still essentially social and interactive at its core.
+In the end, whether music is an adaptation or a “transformative technology of the mind” that humans
+invented and then it shaped us, the fact remains: music is deeply woven into the human experience.
+Culturally, it’s used in rituals, healing, storytelling, and celebration around the world – pointing to its
+functional importance in human life, not just as entertainment but as a cornerstone of communal and
+emotional life. This importance is what modern science is harnessing when using music in therapy and
+medicine, which we turn to next.
+Therapeutic Applications of Music: Healing the Mind and Brain
+Beyond entertainment, music has powerful therapeutic potential. Because music can engage emotion,
+cognition, and movement simultaneously, it offers a unique avenue to affect the brain and behavior in
+clinical contexts. Music therapy has emerged as a professional discipline, employing musical activities
+to achieve specific goals, from reducing anxiety to restoring lost speech. Here, we overview how music
+is being used in healthcare and rehabilitation, and what scientific studies say about its efficacy.
+Reducing Stress and Improving Mood: One of the most well-established effects of music is its ability
+to influence mood and physiological stress. Listening to music one finds pleasant can decrease levels of
+the stress hormone cortisol and reduce markers of anxiety. For instance, patients exposed to calming
+music before surgery show lower anxiety and even reduced postoperative pain compared to controls.
+Music with slow tempo and smooth dynamics tends to activate the parasympathetic nervous system
+(the “rest and digest” response), leading to slower heart rate and breathing, which correspond with
+relaxation. A randomized controlled trial in a palliative care setting found that cancer patients who
+listened to music reported lower pain and stress than those who rested without music. Part of this
+effect is distraction and emotional re-framing – music captures attention away from pain or worries
+and induces positive emotions or cathartic release, thereby reducing the subjective intensity of pain and
+anxiety .  Another  study  showed  that  when  volunteers  were  subjected  to  a  painful  stimulus,
+having their favorite music playing caused them to report significantly less pain; brain scans indicated
+that music was modulating response in pain-processing regions and even at the level of the spinal cord
+. Thus, music can act as a natural analgesic through brain mechanisms that likely involve release
+of endorphins (the same reason we talk about music giving a “rush”).
+Depression and Emotional Disorders: Music therapy is also used for depression and mood disorders.
+Actively making music (such as singing in a group or drumming) can elevate mood and promote social
+connection, which counters isolation and rumination common in depression. Listening to music can
+evoke memories and emotions that patients may find hard to express in words, providing a safe outlet.
+A Cochrane meta-analysis in 2021 found evidence that music-based interventions had positive effects
+on depressive symptoms in people with dementia, for example, improving mood and reducing apathy
+. Another study found that  playing a musical instrument or even rhythmic tapping can
+improve  emotional  self-regulation  –  possibly  because  it  externalizes  internal  feelings  into  sound,
+allowing a form of release and reflection. Neurologically, enjoyable music triggers dopamine and other
+52 86
+87
+88 89
+88 90
+91 92
+18
+
+--- Page 19 ---
+neurochemicals (like oxytocin, serotonin), which are often dysregulated in depression. It’s not a cure-all,
+but  music  can  boost these  positive  neurochemicals  temporarily,  akin  to  exercise.  Some  programs
+incorporate songwriting or lyric discussion as therapy, where patients write about their struggles in
+lyrics – combining emotional processing with creative empowerment.
+Cognitive Rehabilitation (Stroke, Brain Injury): Perhaps some of the most dramatic uses of music
+therapy are in neurorehabilitation – helping patients recover lost functions after brain damage. One
+famous example is melodic intonation therapy (MIT) for stroke patients with aphasia (loss of speech).
+Patients who cannot speak or form words due to left hemisphere stroke are sometimes able to sing
+words or known songs, because singing uses right hemisphere networks. Therapists use MIT to have
+patients sing simple phrases (like “How are you?”) in a melodic way, gradually increasing complexity,
+and eventually reducing the intonation to approximate natural speech. This approach leverages the
+music-language connection to create new speech pathways in the undamaged hemisphere. Studies
+have shown significant improvements in speech fluency for patients undergoing melodic intonation
+therapy compared to traditional speech therapy, highlighting the brain’s plasticity when music is the
+medium.  Brain  scans  often  show  increased  activity  in  the  right  hemisphere  and  new  connections
+forming to language areas, suggesting the music helped “reroute” communication circuits.
+For  motor  rehabilitation,  especially  in  Parkinson’s  disease  or  after  a  stroke,  rhythmic  auditory
+stimulation (RAS) is a powerful technique. Parkinson’s patients typically have a shuffling gait and
+difficulty  initiating  movements  due  to  impaired  basal  ganglia  function  (rhythm  and  timing  issues).
+Playing a strong rhythmic beat (e.g., a marching band song at a pace slightly faster than their current
+gait) often immediately improves their stride length and speed – a phenomenon well-documented in
+therapy studies. The external rhythm essentially acts as a timing cue that the damaged internal
+timing circuits can lock onto, enabling smoother movement. Over time, training with rhythmic auditory
+cues  can  lead  to  more  permanent  gait  improvement,  as  the  brain  entrains  to  compensate  for  its
+impairment. Stroke patients who have weakness or coordination problems also benefit: for example,
+practicing arm movements in time with music can reorganize motor planning. One study found that
+stroke survivors who took piano and drum lessons (using their affected limbs) showed task-dependent
+cortical  reorganization,  meaning  their  motor  cortex  adapted  and  expanded  to  improve  those
+movements. The rhythmic structure and the auditory feedback likely helped the brain rewire more
+effectively than purely doing the movements in silence.
+Dementia and Alzheimer’s Disease: As mentioned earlier , music is often preserved in Alzheimer’s,
+even when other memory fails. Therapists use  music to reach and stimulate dementia patients,
+sometimes called “Music and Memory” programs. A patient who cannot recognize family might still
+brighten and sing along if a favorite song from youth is played. This can temporarily improve alertness
+and  mood,  and  reduce  agitation.  In  mid-stage  Alzheimer’s,  regular  music  sessions  (singalongs  or
+listening) have been shown to decrease behavioral issues like wandering or aggression, presumably by
+providing structure, familiarity, and positive emotional stimulation. One reason music works is
+that it taps into  implicit memory systems and emotions which are often spared until late in the
+disease. Also, the auditory cortex and subcortical music circuits remain relatively intact. The Alzheimer’s
+Association notes that even in late-stage disease, a person may be able to tap a beat or sing lyrics to a
+childhood song even when speech is very limited. This capacity can be harnessed to improve
+quality of life and communication – for example, caregivers might use a sung routine to guide a person
+through daily tasks (e.g., a “brushing teeth song”). For caregivers, sharing music with the patient can
+also  facilitate  emotional  connection  at  times  when  verbal  communication  is  nearly  gone:  a  lucid
+moment  while  hearing  a  beloved  song  can  spark  eye  contact,  movement,  or  vocalization  that  is
+otherwise rare. There is ongoing research into whether engaging with music can actually slow cognitive
+decline by exercising the brain; some studies indicate regular musical activities can boost cognitive
+93
+93
+94 95
+94 96
+19
+
+--- Page 20 ---
+scores  modestly  or  at  least  delay  certain  aspects  of  decline,  perhaps  by  enhancing  mood  and
+engagement.
+Developmental and Educational Therapy: Music therapy isn’t just for illness – it’s also used to help
+children with developmental disorders like autism spectrum disorder (ASD) or speech/language delays.
+Many  nonverbal  or  minimally  verbal  autistic  children  respond  strongly  to  music.  Through  musical
+games, they may improve on social skills (like turn-taking in a song circle), joint attention (looking when
+a sound occurs), and even language. Because singing often feels less pressure than speaking, some
+children will attempt words through song when they won’t in speech. The structure and predictability of
+music can also be comforting for those with ASD, providing a scaffold to practice communication.
+Studies have documented improvements in  communication and attention in children with severe
+neurological impairments after music intervention. For instance, a 2015 study found better eye
+contact and communicative behaviors in children with ASD who received music therapy compared to
+play therapy.
+In mainstream education, music training has been associated with benefits in other domains (often
+debated, but evidence exists for certain links). For example, musical training in childhood has been
+linked  with  improved  language  processing  and  reading  skills –  possibly  because  learning  music
+refines auditory discrimination and attention, which are also crucial in hearing subtle speech sounds
+. One experimental study found that after one year of musical training, 8-year-old children
+showed enhanced auditory brain responses and improved reading relative to controls. There’s also
+evidence that music training can enhance  executive functions (like inhibitory control and working
+memory) in children . For example, learning to play piano requires sustained attention, memory
+for notes, coordination – a multi-faceted mental workout. A 2011 randomized study by Moreno et al.
+found that 6 months of musical training led to improved verbal intelligence and executive function in 4-
+to  6-year-olds .  While  such  findings  sometimes  get  overstated  in  media  (“music  makes  you
+smarter”), the consensus is that music is an enriching cognitive activity which can have transfer effects
+to some other skills, though it’s not a magical IQ booster across the board. It certainly promotes
+discipline and creativity, which benefit general learning.
+Neurological Mechanisms of Music Therapy: On a neurological level, why is music so therapeutic?
+Several mechanisms are proposed:
+Neuroplasticity: Music  engages  neuroplastic  processes  –  repeating  musical  exercises  can
+strengthen synaptic connections in motor and auditory areas, recruit alternative networks (as in
+MIT for speech), and even lead to structural changes like increased white matter connections.
+Because music can tap into emotion and reward, it likely enhances motivation and dopamine,
+which in turn facilitate plasticity and learning in the brain. In rehabilitation, patients often stick
+with music-based exercises longer and more consistently than rote drills, simply because it’s
+more enjoyable . Enjoyment and repetition drive plasticity.
+Whole-Brain Stimulation: As we’ve discussed, music activates widespread regions. This can be
+particularly useful in degenerative conditions where certain networks go offline – music can
+activate  ancillary  pathways.  For  example,  in  Parkinson’s,  music  may  activate  auditory-motor
+circuits  that  bypass  the  damaged  basal  ganglia  circuit.  In  stroke,  rhythm  can  engage  the
+unaffected hemisphere to assist the affected side. Essentially, music provides a global stimulus
+that can help the brain “reorganize” functions across different areas.
+Emotional Arousal and Mood Regulation: In mental health, music’s power to quickly shift
+arousal and mood is a key tool. Relaxation music can induce measurable reductions in blood
+pressure and muscle tension – making it a simple adjunct in treating anxiety. Conversely, in
+93 97
+93
+98 99
+98 99
+98 99
+• 
+100 101
+• 
+102 103
+• 
+20
+
+--- Page 21 ---
+someone with depression and low arousal,  upbeat music can psychophysiologically energize
+(through increased heart rate, stimulating lyrics, etc.). Additionally, writing or identifying songs
+that express one’s emotions can validate and externalize feelings, an important step in therapies.
+Memory Organization: For dementia or brain injury patients, music can serve as a mnemonic or
+scaffolding. People who struggle to remember verbal information might recall it better if it’s set
+to a melody (think of how we learn the alphabet through a song). Therapists sometimes teach
+daily routines or important names through little custom songs. The structure and chunking of
+music aids memory by providing cues (rhythm, rhyme, melody). In fact, ancient cultures utilized
+sung poetry to memorize vast amounts of information long before written text – tapping into
+this natural aid.
+Sensory  Integration  and  “Flow”: For  neurodivergent  individuals  (like  those  with  autism  or
+ADHD), music can help integrate sensory input and improve focus. A steady rhythm or melodic
+pattern  can  provide  a  predictable  framework  that  reduces  sensory  chaos.  Many  report  that
+listening to music helps them concentrate by drowning out other distracting stimuli – the brain
+finds a rhythm and locks into a  flow state more easily. Therapists exploit this by, for instance,
+using  background  music  during  attention  training  tasks  or  rhythmic  cues  during  physical
+therapy to keep attention on task.
+Clinical Evidence and Current Status: Clinical music therapy is considered evidence-based for certain
+applications, with a growing body of research. For example, the American Stroke Association endorses
+rhythmic auditory therapy as beneficial for gait recovery. The UK’s NICE guidelines acknowledge music
+therapy as helpful in autism and dementia care. However , measuring outcomes can be tricky due to the
+subjective  and  multifaceted  impact  of  music.  Randomized  trials  are  challenging  because  blinding
+patients to “having music” is nearly impossible, and many effects are psychological. Nonetheless, meta-
+analyses have generally found  significant positive effects of music interventions on  anxiety, pain,
+mood, and quality of life across various patient groups. For neurological outcomes like speech
+and motor recovery, case studies and controlled trials are promising, but more large-scale research is
+underway to quantify long-term benefits.
+One exciting frontier is combining music with technology: brain-computer interfaces and music – e.g.,
+using patients’ brain signals to allow them to create music even if physically impaired, which can both
+give  joy  and  possibly  stimulate  neuroplasticity  through  feedback.  Another  is  personalized  music
+prescriptions: since musical preference is individual, some therapists curate playlists that are optimally
+calming or stimulating for a specific person (like an Alzheimer’s patient’s favorite songs to reduce
+sundowning agitation).
+In conclusion of this section, music’s therapeutic power is increasingly recognized in medicine. As one
+Harvard  doctor  put  it,  “We  seem  to  be  very  much  tuned  for  music…it  resonates  with  us  in  some
+important way”. By leveraging that resonance, we can help retrain injured brains, soothe troubled
+minds, and improve the well-being of people at all stages of life. Speaking of stages of life, we’ll now
+look at how musical engagement and effects differ across the lifespan – from babies in the womb to the
+golden years.
+Developmental Considerations: Music Across the Lifespan
+Music is present and impactful at every age, from the lullabies that welcome newborns into the world to
+the nostalgic songs that accompany the elderly in reflecting on their lives. In this section we examine
+how music perception and engagement develop and change over the lifespan – in infants and children,
+• 
+• 
+104 104
+105
+21
+
+--- Page 22 ---
+adolescents, adults, and the elderly – and what unique benefits or characteristics music has at each
+stage.
+Prenatal and Newborn Period: Amazingly, human musical responsiveness may begin before birth. The
+fetal auditory system develops enough by the third trimester to detect sounds from outside the womb
+(albeit muffled by fluid). Research shows that fetuses can hear music and may even remember it after
+birth. In one study, mothers played a certain melody daily during pregnancy; after birth, newborns
+showed  recognition  of  that  melody  (via  changes  in  sucking  behavior  or  heart  rate)  compared  to
+unfamiliar  melodies .  The  womb  attenuates  high  frequencies,  but  rhythm  and  contour  can
+penetrate – meaning a fetus likely hears the rhythm of music and the prosodic melody of the mother’s
+voice singing. While the popular idea of “Mozart for babies” making them smarter in utero is not
+supported by strong evidence, playing gentle music during pregnancy  can reduce maternal stress
+(benefiting the fetus indirectly) and may induce movement or calming in the fetus (some mothers
+report the baby “kicks” when lively music plays). After birth, newborns have notable auditory abilities:
+they prefer their mother’s voice and the specific songs she sang to them during pregnancy, indicating
+early memory for music. Newborns also show soothed heart rate and behavior when lullabies
+are sung – even minutes-old infants relax with a soft lullaby, suggesting an innate calming response to
+slow,  steady  musical  sounds  (perhaps  resembling  the  maternal  heartbeat  rhythm  and  gentle
+whooshing they heard in utero).
+Infancy (0–2 years): Infants are natural music responders. They can detect differences in pitch and
+rhythm patterns at a few months old. By 4–6 months, babies prefer consonant intervals to dissonant
+ones, as mentioned earlier , pointing to either innate bias or very rapid learning. Infants are also
+highly rhythmic: studies by Zentner and Eerola (2010) showed that infants as young as 5 months will
+spontaneously move their bodies in response to music (bouncing, arm waving), and the better their
+movements aligned with the beat, the more they smiled. This suggests an intrinsic connection
+between auditory rhythm and motor system even before walking. Caregivers naturally harness music in
+infancy  –  through  play  songs (e.g.,  “Itsy  Bitsy  Spider”),  soothing  songs,  and  routine  songs (like
+cleanup  songs).  These  not  only  entertain  and  comfort  babies  but  also  teach  them  patterns  and
+expectations (e.g., a bathtime song signals the routine, aiding the baby’s understanding and transition).
+Cognitive benefits of music in infancy include improved attention (a singing or music-making session
+can lengthen an infant’s attention span compared to plain speech) and perhaps earlier sensitivity to
+language rhythm. Additionally, early music exposure has been linked to slight advantages in numeracy
+and spatial reasoning later in childhood – this was part of the famed but overstated “Mozart effect”
+notion. The reality is that any rich, interactive environment (music, play, reading) is beneficial for infant
+brain development; music is one engaging piece of that puzzle. By the end of infancy (~2 years), many
+toddlers can sing fragments of songs and show clear preferences (that one song you have to play again
+and again in the car). They also begin to dance intentionally, showing that the coupling of music and
+movement is deeply enjoyable to them.
+Early Childhood (3–6 years): This is a golden age for musical exploration. Children naturally sing –
+often making up little songs about whatever they’re doing. They are unselfconscious about singing and
+dancing,  which  makes  music  an  excellent  medium  for  learning  and  expression.  Many  preschool
+programs incorporate  music education (nursery rhymes, rhythm games) because it helps develop
+language (rhyming teaches phonological awareness) and motor skills (clapping to a beat improves
+coordination). Young children typically can learn to play simple percussion instruments and enjoy the
+sense of mastery. From a neuroscience perspective, musical training begun in early childhood can
+have pronounced effects on brain development. Research by Trainor and colleagues found that 4- to
+6-year-old children who took music lessons for a year showed enhanced brain responses to musical
+tones and improved memory compared to those without lessons. Another study (Fujioka et al.
+2006) using MEG brain imaging found that after a year of Suzuki music training, 4–6-year-olds had
+106 107
+108 109
+23
+110 111
+98 99
+22
+
+--- Page 23 ---
+stronger  and  faster  auditory  cortical  responses,  suggesting  accelerated  maturation  of  auditory
+processing . Early childhood is also when some special musical abilities can emerge: for example,
+absolute pitch (the ability to name a note by hearing it) almost always develops by age 6–7 in those
+who have it, usually requiring early musical training and perhaps genetic predisposition. The
+brain seems to have a window during early childhood where it’s extra malleable for certain musical
+skills, analogous to language. Indeed, some researchers argue music and language share a critical
+period – which is why, for instance, a 5-year-old can pick up violin intonation relatively quickly, whereas
+a beginner at 35 might struggle more.
+Middle  Childhood  (7–12  years): In  this  stage,  children’s  cognitive  and  motor  skills  become
+sophisticated enough for more structured musical education (learning an instrument formally, joining
+choirs). It’s often in this period that enduring  interest or  disinterest in music solidifies. Kids who get
+positive experiences (like fun lessons, supportive music teachers, or rewarding social music groups)
+may become lifelong music lovers or amateur musicians. On the other hand, negative experiences
+(pressure, rote teaching) could turn some away. From a developmental view, music can bolster  self-
+esteem and social skills in preteens. Playing in a school band or singing in a chorus teaches teamwork
+and responsibility. It also provides a constructive identity (“I’m a clarinet player”) which can be crucial for
+preteens navigating personal growth. Cognitively, numerous studies in this age group find correlations
+between music training and academic skills. For example, playing an instrument has been linked to
+improved  working memory and attention – one needs to read music, coordinate hands, and listen
+simultaneously (a heavy multitasking workout). A longitudinal study by Hyde et al. (2009) found that
+after 15 months of musical training (starting around age 6), children showed structural brain changes in
+areas related to fine motor skills and auditory discrimination, along with performance improvements on
+finger coordination and melody/rhythm tasks. Another study found musically trained 8–11-
+year-olds outperformed controls in verbal memory tests, indicating transfer of memory skills.
+However , it’s important to note these are small-to-moderate effects; music is not a substitute for general
+education but rather an enhancer . Middle childhood is also when children become capable of deeper
+emotional understanding of music – they can appreciate that a piece in minor key might represent
+sadness,  or  that  lyrics  have  metaphorical  meaning.  They  begin  using  music  to  regulate  their  own
+emotions (listening to calm down, or to cheer up), a skill that will be very pronounced in adolescence.
+Adolescence  (13–18  years): If  middle  childhood  is  the  golden  age  of  learning  an  instrument,
+adolescence is the golden age of music listening. Teenagers are typically the most avid consumers of
+music, often listening for hours a day. As noted earlier , music becomes entwined with identity and
+emotion in profound ways during these years. Brain-wise, adolescence is marked by a highly responsive
+limbic system and a still-developing prefrontal cortex. This means emotional reactions to music can be
+especially intense – it’s not your imagination that teens feel music like it’s life-or-death. Dopamine
+responses to favorite songs may be heightened, and there’s a feedback loop: intense emotions create
+strong memories, which make the songs even more significant. The personal control of musical choice
+(through headphones, personal devices) gives teens a “private sanctuary” for mood management. Many
+use music to cope with stress or mood swings – whether it’s angry music to vent or sad music to feel
+understood.  Interestingly,  research  finds  that  most  adolescents  intuitively  use  music  for  affect
+regulation – for instance, when upset, about 2/3 of teens in surveys report they listen to music to make
+themselves feel better , and often it works. Socially, peer influence peaks in adolescence, and so does
+musical tribalism. The type of music one likes can influence friend groups (e.g., punk kids vs. pop kids)
+and even outward appearance. Anthropologically, this could be seen as using music to signal group
+membership – an echo of our ancestors using music for group cohesion. 
+Neuroscientifically,  adolescence  might  be  a  second  sensitive  period  for  musical  creativity.  Many
+musicians report writing their most earnest songs in their teens. The brain’s developmental openness
+plus the swirl of new experiences yields fertile ground for creativity. Schools that maintain robust music
+112
+113 10
+114 115
+98 99
+23
+
+--- Page 24 ---
+programs often see benefits in student engagement; conversely, removing music/art can demotivate
+some students for whom those are the outlets. There is also a mental health angle: structured music
+programs or informal band activities can provide adolescents with a much-needed  emotional outlet
+and a sense of belonging. Some therapies for teens with depression or anxiety incorporate music (like
+writing songs about their feelings, or drumming circles to channel aggression in a healthy way).
+Early Adulthood (19–40 years): This period often sees a divergence: those who pursue music as a
+career or serious hobby continue intensive practice, while many who played in school might stop due to
+college/work responsibilities. However , listening remains important. People in their 20s often expand
+their musical tastes as they meet diverse people (e.g., a college student might discover world music,
+underground genres, etc.). The brain is fully capable of learning new musical skills in adulthood, though
+it may take more conscious effort than a child’s sponge-like absorption. Adult music training still leads
+to  neural  changes  –  for  example,  adult  beginners  can  show  increased  gray  matter  in  motor  and
+auditory  areas  after  months  of  practice,  just  somewhat  less  dramatically  than  young  learners.  For
+working adults, music can be a refuge from stress (think of the popularity of listening to music during
+commutes, or the boom in streaming services providing a soundtrack to daily life). Many adults also use
+music to facilitate work or exercise – upbeat music can enhance endurance in workouts by syncing
+with heart rate and reducing perceived exertion, and certain music (often without lyrics, like classical or
+lo-fi beats) is commonly used to improve focus at work. The cognitive effects of music on productivity
+vary individually; some find it distracting, others find it indispensable for concentration.
+In early adulthood, significant life events (weddings, graduations, etc.) are often marked with music,
+creating lasting links between songs and personal milestones. Adults also commonly use music in
+raising their own children – passing on lullabies and childhood songs, which strengthens parent-child
+bonds similarly to how it did for them as infants. Neurologically, by adulthood, one’s auditory cortex is
+tuned to familiar musical scales, but the plasticity to appreciate new musical systems remains – for
+instance, an adult can immigrate to a new country and, over years, come to enjoy the local music.
+However , data suggests people on average become slightly less open to new music after their 30s, often
+citing that they “don’t connect” with emerging genres as much. This might reflect reduced novelty-
+seeking or simply being busy and sticking to known favorites; it’s as much cultural as neurological.
+Middle and Late Adulthood (40+ years): As people age, music often takes on a strong nostalgic
+function. The “reminiscence bump” phenomenon means that older adults vividly recall music from their
+youth (teens and 20s) and often consider it the best era of music. This can provide joy, identity, and
+social connection (e.g., 50- or 60-year-olds going to reunion tours of bands from their college days,
+bonding with peers over shared memories). From a brain health perspective, continued engagement
+with music might be protective. Some studies indicate that older adults who play instruments or sing
+regularly have better cognitive retention and hearing abilities. One study found that lifelong musicians
+aged 65+ performed better on tests of memory and executive function than non-musicians, and their
+brain scans showed more youth-like patterns of connectivity in executive networks. Music likely
+contributes to a  cognitive reserve – by keeping neural circuits active and rich, it might delay clinical
+symptoms of decline. Additionally, playing an instrument is a complex sensorimotor task that can help
+maintain fine motor skills and coordination in older age.
+For older adults, music can also alleviate loneliness and depression. Group activities like a seniors’ choir
+or drumming circle can create community and purpose. There’s a documented phenomenon of “music
+evoked autobiographical memory” (MEAM) being especially robust in dementia patients – even those
+who cannot recognize family may respond to music from their youth, sometimes even regaining lucidity
+briefly (as portrayed in the popular documentary “Alive Inside”). Therapists use this by tailoring playlists
+for dementia patients that include meaningful songs, leading to improvements in mood and interaction
+when  those  playlists  are  played.  Even  beyond  dementia,  many  nursing  homes  incorporate
+112 116
+94 95
+24
+
+--- Page 25 ---
+music because it reduces agitation and improves social engagement in residents. On the sensory side,
+age-related hearing loss can diminish enjoyment of music (high frequencies go first, affecting timbre
+perception), but today’s technology (hearing aids tuned for music, etc.) is helping address this.
+End of Life: In palliative and hospice care, music therapy has a role in relieving pain and anxiety, and
+helping patients cope with existential issues. Soft live music at the bedside can lower respiration rate
+and pain in dying patients . It can also facilitate emotional expression – some patients write
+“legacy songs” or playlists to leave for family, which helps in life review and closure. Music at the end of
+life  often  provides  spiritual  comfort;  familiar  hymns  or  meaningful  songs  can  evoke  peace  and
+acceptance.
+Unique  Developmental  Questions: One  interesting  developmental  question  is  why  children
+universally engage in play that has musical elements (humming, clapping, etc.) – it might be that
+our brains are wired such that musical play is a natural mode of learning in early life (learning patterns,
+motor skills, and social cues all at once). Another is how puberty changes music perception – hormonal
+shifts  might  sensitize  teens  to  music’s  social-sexual  connotations  (hence  the  massive  emotional
+investment in love songs, etc., during teen years, which might not hit as hard before puberty).
+Overall, across the lifespan, music remains a flexible, enriching force. From neural plasticity in babies to
+neuroprotection in elders, from communicating emotions toddlers can’t articulate to giving solace to
+those taking final breaths, music is deeply woven into human development and aging. Each age draws
+something different from music, yet music consistently provides what is needed – stimulation for the
+young, identity for the young adult, companionship for the old, and connection for all. 
+Having  examined  this  rich  tapestry  of  music  in  human  life,  we  will  now  address  some  additional
+intriguing questions that often arise when considering music’s psychological and neural impacts, to
+further deepen our understanding.
+Additional Questions and Insights
+Why do certain songs give us “chills” or goosebumps?
+Many people have experienced a shiver down the spine or goosebumps when a piece of music hits an
+emotional peak – a phenomenon often called  “musical frisson.” This intense pleasure response is
+linked  to  the  brain’s  reward  and  arousal  systems.  Neuroscience  studies  have  shown  that  musical
+passages that induce chills trigger a surge of activity in the dopamine pathways of the brain’s reward
+circuit, particularly the nucleus accumbens and ventral tegmental area. In fact, one landmark study
+by  Blood  &  Zatorre  (2001)  found  that  during  moments  when  listeners  reported  chills,  there  was
+increased blood flow in brain regions associated with reward (same areas that respond to euphoria
+from food, sex, drugs). This dopamine rush is often released in anticipation of the climax as well as
+at the moment of the musical resolution. The mechanism involves expectation and surprise:
+typically,  chills  happen  when  a  song  builds  up  tension  and  then  suddenly  shifts  –  for  instance,  a
+dramatic key change, the entrance of a full chorus after a quiet verse, or a soul-stirring high note from a
+singer . Our brain’s prediction system might not fully predict the timing or power of that change, so
+when it arrives slightly unexpectedly, it yields a strong prediction error that is positively valenced (since
+the  outcome  is  harmonically  or  melodically  resolving  and  emotionally  significant).  The
+amygdala and insula also get involved – during chills, they coordinate an autonomic nervous system
+response (hence heart racing, breath catching, hair standing on end) as part of an emotional climax
+. Some research even suggests individuals who get chills from music have stronger connectivity
+between  their  auditory  cortex  and  emotional/reward  centers  than  those  who  don’t.  Not
+117 118
+42
+42
+119 120
+32 121
+86
+53
+60 122
+25
+
+--- Page 26 ---
+everyone experiences chills, but for those who do, it’s often with music that has personal meaning or
+certain emotional qualities (like a sweeping orchestration or a gospel chorus). In essence, chills are a
+sign  of  peak  emotional  arousal –  the  brain  experiencing  intense  pleasure  from  the  combination  of
+anticipation, surprise, and emotional resonance, accompanied by a sympathetic nervous system surge
+(goosebumps are part of that fight/flight/or in this case “aesthetic wow” response). Evolutionarily, why
+would music cause chills? One theory is that it hijacks a system meant for other rewards, but another
+view is that coordinated music (e.g., in a choir) causing collective chills could bond a group (if everyone’s
+hair  is  standing  on  end  together  in  response  to  an  anthem,  it’s  a  powerful  shared  experience).
+Regardless, if you feel chills, you are effectively getting a hit of neurochemical reward – your brain is
+saying “this is profoundly important/enjoyable.” Notably, chill-inducing music strongly activates the
+brain’s emotion centers (amygdala, ventral striatum, orbitofrontal cortex) even more than other
+pleasurable music . So chills are like an exclamation point on the sentence “I love this part!” in
+the brain’s language.
+What is musical anhedonia, and do some people truly not enjoy music?
+Yes  –  a  small  subset  of  the  population  (research  estimates  around  3–5%)  has  a  condition  termed
+specific musical anhedonia, meaning they  do not derive pleasure from music despite otherwise
+normal hearing and normal ability to feel pleasure from other things. These individuals can
+perceive music’s components (recognize happy vs. sad tones, identify off-key notes, etc.), but they
+report that music doesn’t move them emotionally – it might feel neutral or even tedious. Importantly,
+this is specific to music; they still enjoy other rewards like tasty food, money, or social affection, so it’s
+not general anhedonia (which occurs in depression). Neuroscientific studies have shed light on what’s
+happening: people with musical anhedonia show  reduced activity and connectivity in the reward
+circuit when listening to music . For example, in fMRI their nucleus accumbens doesn’t light up
+for  favorite  songs  the  way  it  does  in  typical  individuals.  However ,  their  auditory  cortex  responds
+normally, and if you ask them to judge music’s characteristics, they can – so it’s not deafness or amusia,
+it’s a disconnect between auditory and reward systems. One study in 2016 (Martinez-Molina et al., PNAS)
+found that musical anhedonics had  weaker functional connectivity between the auditory cortex
+and the nucleus accumbens. In other words, the pathway that in most people links “hear
+something  enjoyable”  to  “feel  pleasure”  is  under-active  in  them.  This  might  be  due  to  subtle
+neurodevelopmental differences. Additionally, physiological measures (heart rate, skin conductance) in
+anhedonic individuals don’t change with music, whereas they would in a music-responsive person,
+indicating a genuine lack of emotional arousal. Interestingly, musical anhedonia is not associated with
+any obvious deficits; many such people say they instead get pleasure from other activities (say, sports or
+video games) and find it puzzling that others love music so much. It highlights that even something
+seemingly universal like music has variations in how brains respond. Understanding musical anhedonia
+provides  insights  into  the  brain’s  reward  system:  it  suggests  that  while  most  have  an  innate  link
+between sound patterns and reward, it’s not absolutely necessary for functioning – it can be “switched
+off” in a few without other harm, implying music’s reward wiring is somewhat modular . From a clinical
+view,  identifying  musical  anhedonia  is  important  to  not  force  such  individuals  into  music-based
+treatments (they’d benefit less). It also raises the question of whether there are people on the opposite
+end – and indeed there are: musical hypersensitives or music lovers who get extreme emotion from
+music (some people basically get chills every other song and consider music a central passion; they
+likely have a hyper-connected auditory-reward network, the flip side of anhedonia). Musical anhedonia
+as a concept underscores that the enjoyment of music, while prevalent, depends on specific neural
+circuitry that can vary across individuals.
+52 86
+123 124
+60 122
+60 125
+26
+
+--- Page 27 ---
+What is congenital amusia (“tone deafness”), and how does it affect the brain?
+Congenital amusia is a neurodevelopmental condition in which a person has great difficulty with
+musical pitch perception and production – in everyday terms, they are “tone deaf.” This affects roughly
+4% of the population. Such individuals cannot reliably detect when notes are off-key or out of tune
+in a melody and often cannot sing in tune themselves. It’s not due to hearing loss or lack of exposure; it
+appears to be an anomaly in how their brain processes fine differences in pitch. Congenital amusia is
+distinct from simply being untrained – even with training, true amusics struggle because their brains
+don’t encode or recall pitch relations normally. Research led by Isabelle Peretz and others has found
+that amusics often have trouble recognizing very familiar tunes without lyrics and can’t tell if one
+melody  is  the  same  or  different  as  another  if  the  difference  lies  in  subtle  pitch  changes.
+Interestingly, their  brain does perceive the basic sound differences at an unconscious level – EEG
+studies showed that amusics’ auditory cortex reacts to wrong notes similarly to non-amusics at about
+200ms  after  the  note .  However ,  a  later  brain  response  around  600ms  (which  in  typical
+individuals reflects conscious detection of a musical violation) is absent in amusics. This implies
+that the information about the wrong note isn’t being communicated to higher cognitive centers for
+awareness . Indeed, structural and functional imaging indicates a connectivity issue:  amusics
+have  weaker  connections  between  the  auditory  cortex  (temporal  lobe)  and  the  frontal  lobe
+(particularly right inferior frontal). Essentially, their brain hears the errors but the conscious
+music-processing  network  doesn’t  get  the  message  –  a  sort  of  disconnection  or  “information
+bottleneck.” This has led researchers to call amusia a problem of  conscious access to musical pitch
+knowledge . Additionally, some amusics have subtle differences in the structure of the right
+fronto-temporal pathways (e.g., reduced white matter volume in the right arcuate fasciculus which links
+those regions) . Genetically, there is evidence of heritability – it often runs in families.
+Congenital amusia can also affect musical rhythm to a lesser degree (some amusics also struggle with
+timing)  and  even  have  overlap  with  being  “tone  deaf”  in  language  (some  have  trouble  with  tonal
+languages or with intonation in speech). Notably, amusia doesn’t imply lack of emotional response to
+music; many tone-deaf individuals still enjoy music, they just might prefer rhythmic or lyrical aspects
+and often aren’t bothered by out-of-tune singing. However , some do report that music sounds like a
+cacophony or they can’t remember melodies well, which can lessen enjoyment. There are also acquired
+amusias (from brain injury like stroke in the right hemisphere), which can selectively impair melody or
+rhythm  perception .  Studying  congenital  amusia  informs  us  about  how  the  brain  normally
+becomes musically proficient: it underscores the importance of early developmental wiring between
+perceptual and higher-order areas. It also shows that musical ability lies on a spectrum – on one end
+some people have extraordinary pitch abilities (like absolute pitch or being great singers), and on the
+other , amusics struggle with basic tune recognition. For educators, knowing about amusia is important
+because forcing a truly tone-deaf child to sing on pitch may be as futile as asking a color-blind person to
+distinguish red vs green – it’s neurological. But amusics can still participate in music in other ways
+(rhythmic instruments, enjoying lyrics, etc.). 
+Can music (training or listening) make us smarter or improve other cognitive
+abilities?
+This question often arises from the popular “Mozart effect” idea – the claim that listening to Mozart
+temporarily boosted spatial IQ in college students (from a 1993 study). That specific claim has been
+exaggerated and misunderstood in media; the effect was small, short-lived, and not specific to Mozart
+(any pleasant stimulation might have done the same). Listening to music you like can briefly improve
+arousal and mood, which in turn might very slightly enhance performance on certain cognitive
+tasks  (due  to  being  more  alert  or  motivated).  But  it’s  not  a  direct  or  lasting  boost  to
+intelligence. That said,  active engagement with music (learning an instrument, etc.) does have
+126
+127 128
+129 130
+129 131
+14 132
+14 132
+14 133
+14 132 126 134
+135 135
+117 136
+27
+
+--- Page 28 ---
+cognitive  benefits.  Numerous  studies  have  linked  music  training  to  improvements  in  memory,
+attention, processing speed, language skills, and executive function. To break it down:
+Executive  Functions: Music  practice  demands  sustained  attention,  goal  management,  error
+monitoring, and cognitive flexibility (switching between reading notes and listening to output,
+etc.).  Research  supports  that  children  with  music  training  often  score  higher  on  executive
+function tasks (like task-switching or inhibition tests) than matched peers without training
+. One controlled study found that 8-year-olds who received 9 months of structured music
+lessons improved significantly on measures of  attention and working memory compared to
+those in drama or no lessons. In older adults, those who took up piano in retirement
+showed better executive function after 6 months than a control group, indicating it’s never too
+late to sharpen the mind via music.
+Memory: Playing music probably enhances certain memory systems. For example,  auditory
+working memory (holding sounds in mind) is crucial for music and likely transfers to language
+(helping,  say,  with  remembering  verbal  instructions  or  new  vocabulary  sounds).  Some
+experiments  have  found  that  musically  trained  individuals  have  better  verbal  memory  –
+presumably because of better encoding from sound to memory. Also, the process of
+memorizing pieces exercises long-term memory. On the flip side, there’s an interesting finding
+that music can sometimes interfere with memory for other things if played in the background
+(like studying with music may impede reading comprehension for some, due to split attention),
+so context matters.
+Spatial Reasoning: There was some evidence in the 1990s that music training, especially piano,
+correlated with improved spatial-temporal reasoning (like mentally rotating objects) in children.
+One  theory  was  that  reading  musical  notation  and  coordinating  hand  movements  might
+enhance the parts of the brain used in spatial tasks. A meta-analysis found a small positive effect
+of keyboard training on spatial skills in kids, but not huge. It’s still debated, but any such effect
+might be due to general cognitive stimulation rather than a music-specific boon.
+Language  and  Reading: There  is  a  substantial  overlap  in  neural  processing  of  music  and
+language (pitch, rhythm, timbre vs. prosody, timing, phonemes). Accordingly, music training has
+been shown to benefit language development. For instance, one study found that 1 year of
+music training in 8-year-olds improved their ability to distinguish syllables in noise (a crucial skill
+for  understanding  speech  in  a  noisy  classroom)  relative  to  controls.  Another  found
+improvements  in  reading  fluency  for  early  readers  who  got  rhythm-based  music  training  –
+possibly  because  sensitivity  to  rhythm  aids  the  understanding  of  syllable  stress  patterns  in
+sentences  (important  for  reading  with  expression).  Also,  learning  to  sing  songs  can  expand
+vocabulary and phrase knowledge in a fun way.
+IQ and Academic Achievement: Some correlational studies show that students who participate
+in school music programs tend to have slightly higher grades or IQ scores. However , causation is
+tricky (it could be that kids from supportive families or with higher socioeconomic status have
+more access to music lessons  and tend to do better academically for other reasons). When
+controlling for such factors, the advantage shrinks but doesn’t disappear entirely. A well-known
+longitudinal study by Glenn Schellenberg (2004) found that 6-year-olds given a year of music
+lessons had a small but significant increase in full-scale IQ compared to kids given drama lessons
+or no lessons . The IQ boost was around 3 points on average. He hypothesized that
+music  lessons  involve  multiple  cognitive  domains,  therefore  nudging  general  intellectual
+development slightly. Not enormous, but notable.
+98 137
+• 
+98
+137
+98 99
+• 
+98 99
+• 
+• 
+138 112
+• 
+139 140
+28
+
+--- Page 29 ---
+Brain Efficiency: Music training might make certain brain networks more efficient. For example,
+lifelong musicians show less brain activation than non-musicians for the same auditory tasks,
+implying their brains process sound more efficiently with practice. Also, they often have
+more  corpus  callosum connections  if  training  started  young,  which  can  improve  inter-
+hemispheric communication – a possible advantage in some cognitive tasks.
+It’s important to keep expectations realistic: enrolling a child in violin lessons won’t guarantee them
+Harvard.  But  it  can  complement cognitive  development.  The  real  benefits  of  music  training  are
+multifaceted: discipline, creativity, perseverance, listening skills – which all feed into academic and life
+skills. And even for those who don’t formally train, just being engaged with music (listening actively,
+learning lyrics) might help the brain’s language and auditory processing.
+So in short: music doesn’t magically raise general intelligence, but it can hone specific cognitive skills
+and  brain  circuits  that  have  wider  applications,  especially  in  domains  of  language,  attention,  and
+memory . Plus, importantly, music can make people happier and reduce stress, which indirectly
+benefits cognition because a less anxious mind learns and functions better . As one researcher put it,
+music might be a “mega-vitamin” for the brain – not a targeted medicine for one thing, but an enhancer
+for overall mental health and cognitive fitness.
+How does musical training change the structure of the brain?
+Learning and practicing music is a potent driver of brain plasticity. Brain imaging studies of musicians
+have  revealed  a  number  of  structural  and  functional  differences  compared  to  non-musicians  –
+essentially, the brain adapts to meet the demands of musical skills. A few well-documented changes
+include:
+Enlarged Motor and Auditory Areas: Musicians (especially those who start young) often have
+greater  volume  or  thickness  in  motor  cortex  regions  that  control  the  hand  and  finger
+movements, and in auditory cortex areas that process tones. For example, string players
+have an enlarged cortical representation of the left hand (which does the fingerwork on the
+strings)  in  the  right  hemisphere  motor  cortex.  This  correlates  with  how  much  they
+practice – it’s a use-dependent growth. The auditory cortex of trained musicians can have more
+neurons responsive to musical tones (one study found that the auditory evoked responses to
+piano tones were stronger in musicians, indicating an expansion of frequency representation
+relevant to their instrument).
+Corpus Callosum: There is evidence that the corpus callosum (the bundle of fibers connecting
+left and right hemispheres) is larger in musicians, particularly those who began training before
+age ~7 . One study by Schlaug et al. in the 1990s found up to 15% greater midsagittal
+area  of  the  anterior  corpus  callosum  in  instrumentalists  vs.  non-musicians.  A  larger  corpus
+callosum suggests enhanced interhemispheric communication, which is plausible since music
+playing (like piano) requires extensive bimanual coordination and integration of left-hemisphere
+(analytic, rhythmic) and right-hemisphere (melodic, tonal) processing.
+Cerebellum: Musicians have been found to have increased cerebellar volume or density. The
+cerebellum,  which  fine-tunes  movement  and  timing,  gets  a  heavy  workout  during  practice.
+Percussionists,  for  instance,  who  specialize  in  precise  timing,  show  differences  in  cerebellar
+structure. The cerebellum also contributes to some cognitive prediction tasks, so changes here
+might support timing skills in both music and other domains.
+• 
+141 115
+142 137
+143 144
+• 
+145 146
+147 147
+• 
+148 149
+• 
+29
+
+--- Page 30 ---
+Gray Matter Density: Using MRI voxel-based morphometry, studies show that musicians have
+greater gray matter density in multiple regions: the primary sensorimotor cortex, premotor
+cortex, superior parietal areas (likely related to hand-eye coordination in reading music), and
+inferior  temporal  areas  (possibly  related  to  music  memory).  These  differences  are  more
+pronounced with earlier and more intense training, implying causation from training.
+For example, Gaser and Schlaug (2003) showed a gradation: professional musicians > amateur
+musicians > non-musicians in gray matter volume of these regions.
+White Matter (Connectivity): Diffusion tensor imaging reveals that musicians have enhanced
+white  matter  tracts  in  key  networks.  Specifically,  the  arcuate  fasciculus,  which  connects
+auditory regions with frontal regions (crucial for music and language processing), has been
+reported to have higher fractional anisotropy (a measure of white matter integrity) in musicians.
+This suggests more myelination or organized fiber structure, presumably from years of using
+that pathway for integrating sound with motor planning (when you imagine a tune and then
+play it, that arcuate pathway is working hard). Similarly, increased connectivity between motor
+and  sensory  regions  might  account  for  the  fine  sensorimotor  integration  in  instrumental
+performance.
+Functional Reorganization: Not just structure, but how the brain activates can change. EEG and
+fMRI studies find that certain tasks (like listening to complex harmonies or detecting timing
+deviations) recruit  less cortical area in trained musicians – indicating more efficient processing
+. Musicians also often show bilaterality (using both hemispheres) for tasks that in non-
+musicians  are  more  one-sided.  For  example,  melody  processing  typically  leans  on  the  right
+hemisphere, but musicians engage left hemisphere analytic circuits too (likely reflecting that
+they  analyze  music  somewhat  like  a  language,  and  also  possibly  due  to  verbal  labelling  of
+musical concepts). Conversely, some language tasks in musicians might co-activate music areas,
+reflecting overlapping resource use.
+One striking example of training impact is in string instrument players: if you measure their brain’s
+response to touch on each fingertip, violinists show an expanded area of activation for the fingers of
+the left hand (which do the fingering on strings) compared to non-players. The earlier they
+started playing, the larger the expansion – classic evidence of use-dependent cortical plasticity.
+Another example is absolute pitch possessors: structural imaging suggests they may have differences
+in the planum temporale (a part of auditory cortex) asymmetry – often a larger left planum temporale
+compared to non-AP musicians. Whether this is a cause or effect of AP is debated (probably a
+bit of both, influenced by early experience and genes).
+In sum, musical training can re-wire the brain: it refines auditory processing, boosts coupling between
+perception and action networks, and can even enlarge certain brain regions. These changes can last a
+lifetime  –  retired  musicians  still  show  them.  However ,  if  training  stops  early,  some  changes  might
+regress partly (brain is efficient and will repurpose unused circuits). That said, people who did music as
+kids often pick it up faster later because their brain retains a “trace” of those skills.
+From a rehabilitation perspective, these changes are hopeful evidence: if playing music can change the
+brain, perhaps listening or simpler musical activities can too – and indeed we see therapeutic effects as
+covered. The brain remains plastic, and music is a strong tool to engage that plasticity in both young
+and old.
+• 
+114 115
+150 151
+• 
+• 
+146 115
+147 147
+152 153
+30
+
+--- Page 31 ---
+Are humans the only species that understand or enjoy music?
+This is a fascinating question crossing biology and musicology. While humans are uniquely musical,
+certain elements of music do appear in other species, but not all aspects together as in humans. No
+other animal that we know of listens to or produces music for pleasure in the rich, multifaceted way
+humans do (no animal concerts in the wild!), but let’s break it down:
+Rhythm and Beat: Some animals can synchronize to a beat, which was once thought uniquely
+human. The most famous example is the cockatoo  Snowball, who was observed dancing to
+music and even adjusting to different tempos in sync (as studied by Patel et al., 2009). This and
+subsequent  research  suggest  that  vocal-learning  animals (like  parrots,  some  songbirds,
+possibly  dolphins)  have  the  neural  circuitry  that  allows  audio-motor  entrainment.  Parrots  in
+particular have shown credible evidence of bobbing to a beat. However , monkeys and non-vocal-
+learning animals generally do not sync to rhythm – experiments with rhesus monkeys found
+they couldn’t entrain to a beat even after training. So beat synchronization might require a brain
+that links sound and movement tightly (which vocal mimics have). Sea lions, interestingly, have
+shown  some  beat  following  in  experiments  (one  California  sea  lion  was  trained  to  bob  to
+rhythmic patterns). Still, spontaneous enjoyable dancing seems rare outside humans and parrots.
+Pitch and Melody: Many animals respond to pitch changes (e.g., dogs may howl to certain
+tunes;  cows  reportedly  produce  more  milk  to  slow  music!).  But  do  they  process  melody?
+Songbirds produce complex songs with pitch variation – in a sense, their songs are melodic
+patterns, though typically serving territorial/mating functions. There’s evidence some birds can
+recognize short sequences of notes (e.g., trained pigeons could tell Bach from Stravinsky in one
+old study, implying pattern recognition). But generally, animals don’t show the human ability to
+remember  and  recognize  distinct  melodies  over  long  periods  in  the  same  rich  way.  One
+exception: some experiments indicated that rats can learn to press a lever in response to a
+certain octave or distinguish between consonant vs dissonant chords (they actually seem to
+prefer consonance too, possibly because dissonance is more aversive noise). 
+Emotional Response: It’s unclear if animals “feel” the emotion in music. Some pet owners claim
+their dogs relax to classical music and get agitated with heavy metal. Controlled studies have
+found mixed results: one study showed dogs in a kennel relaxed more with classical music
+playing  (less  barking,  more  sleeping)  than  with  no  music  or  heavy  metal  (which  increased
+agitation) . Similarly, cows have been reported to yield more milk with calming music –
+suggesting a physiological calming effect is possible. Whether this is “enjoyment” or just an
+influence of sound frequency and tempo on physiology is hard to say. Another fun note: some
+apes have been given keyboards or tools to play – a bonobo named Kanzi spontaneously hit a
+keyboard in rhythmic ways but whether he was “making music” or just enjoying cause-effect of
+sound is debatable.
+Animal Calls vs. Music: Many animals produce vocalizations that have musical qualities: whale
+songs have structured phrases and rhymes, gibbon calls use scales, wolf howls form harmonies
+sometimes by chance, and birds of course have beautiful songs. The structure in some bird
+songs even follows patterns like repetition and motif development similar to music. Researchers
+like Hollis Taylor studying the Australian pied butcherbird have argued that its songs adhere to
+musical principles of timing and tonality close to human music (the bird often sings duets with
+varying tempos and synchronized rhythms). However , these are all in service of communication
+(mating/territorial), not aesthetic creation (as far as we know). 
+• 
+• 
+• 
+37 36
+• 
+31
+
+--- Page 32 ---
+Do  animals  enjoy  music  we  create? Experiments  have  given  mixed  results.  Some  studies
+showed that monkeys do not prefer human music (one study famously found that cotton-top
+tamarins preferred silence over playing Mozart or heavy metal). But when those researchers
+created  “monkey  music”  by  using  tamarin  call  pitch  patterns  and  rhythm,  the  monkeys
+responded emotionally (more calm to “affiliative” call-based music, and more agitated to “threat”
+call-based music) – effectively, they only resonated with music that used their species-specific
+communication sounds. Similarly, cat-centric music has been composed (using purring tempos
+and meowing pitch ranges), and cats reportedly show more interest in that than human music.
+This suggests music appreciation might be species-specific – our brains are tuned to sounds
+in our communication range, so other species might need music tailored to their auditory biases.
+Neural responses: Neuroimaging on animals and music is limited. But one study put songbirds
+in an fMRI – when they heard male bird song, females showed brain reward system activation (if
+they  were  in  breeding  state).  Male  birds  hearing  another  male’s  song  showed  amygdala
+activation (threat response). The authors likened this to how humans react to music (pleasure for
+some,  annoyance  for  others).  But  that  was  species-specific  stimuli,  basically  their
+“music.”
+In summary,  some building blocks of music exist in nature – rhythm in locomotion, pitch in calls,
+emotional signaling in sound. Humans, with our big brains, cultural transmission, and language, likely
+combined these blocks uniquely. Our closest genetic relatives (chimps) do not exhibit anything like
+music, which suggests it’s a fairly late development in hominids.  No animal is known to produce
+structured musical sequences for no reason other than enjoyment (birds and whales do it for
+biological reasons, albeit one could argue a singing bird might also find it intrinsically rewarding due to
+evolved mechanisms). Only humans make instruments and have music for music’s sake.
+So, while humans are special in music, studying animals helps us see which parts of music are rooted in
+biology. The consensus is that true music appreciation is uniquely human, but some animals can be
+trained to appreciate aspects of it (like beat or pitch) and some naturally have proto-musical behaviors.
+It underscores how music ties into language ability, social learning, and emotional sophistication –
+where we are exceptional.
+How are music and language related in the brain?
+Music and language share many commonalities: both are complex auditory sequences that unfold over
+time, both have syntax (structure rules), and both convey emotion and meaning (semantics in language,
+expressive meaning in music). Unsurprisingly, the brain regions involved overlap significantly. Research
+has shown that listening to music and processing language activate a shared network including
+the superior temporal gyrus (auditory processing), inferior frontal gyrus (syntax and sequencing), and
+even areas like the motor cortex (for the rhythmic aspects of speech and music). A classic
+finding by Aniruddh Patel and colleagues is that a violation of musical syntax (an out-of-key chord in a
+progression) can elicit an ERP (event-related potential) brain response that is similar in timing and
+distribution to the response for a grammatical violation in a sentence. This suggests the brain might
+reuse a “syntactic integration resource” for both music and language. For instance, Broca’s
+area, long associated with language grammar , also shows activation for processing musical harmony
+and structure . One study by Koelsch et al. (2002) found that Broca’s area lit up when musicians
+listened  to  chord  progressions,  especially  at  unexpected  chords  –  hinting  at  a  domain-general
+processing of structured sequences.
+However , there are also differences. The brain’s right hemisphere is generally more engaged by music
+(especially melody, timbre, pitch nuances), while the left is more engaged by language (propositional
+• 
+• 
+154 155
+57 156
+157 158
+159 159
+157 158
+32
+
+--- Page 33 ---
+content, rapid changes in phonemes). But both hemispheres contribute to both domains: for example,
+the prosody (intonation) of speech is processed in the right hemisphere similarly to how melody is, and
+the  rhythm  of  speech  (syllable  timing)  involves  auditory-motor  circuits  similar  to  musical  rhythm
+processing. In cases of brain damage, we sometimes see dissociations: someone with aphasia (left
+hemisphere  damage)  may  not  speak  but  can  sing  lyrics  fluently  (the  basis  of  melodic  intonation
+therapy) – showing music can bypass damaged language circuits via right hemisphere melody networks
+. Conversely, someone with amusia can have normal language but can’t sing in tune or detect
+out-of-tune notes, showing some specificity (their language circuits are fine but music integration is not,
+despite shared resources).
+Developmentally, music and language learning share patterns – infants use statistical learning to pick
+up  musical  scales  and  linguistic  phonemes  similarly.  Some  have  even  argued  that  the  earliest
+“language” in evolution might have been musico-linguistic, an emotive sing-song that diverged later .
+Neurochemical aspects overlap too: both music and language perception can release dopamine when
+we “get it” (like understanding a punchline or a satisfying lyrical/melodic resolution).
+A fascinating intersection is lyric songs: when we listen to a song with words, brain imaging shows an
+interplay – language areas (like Wernicke’s area, which processes words) are active along with music
+areas (like secondary auditory regions tracking melody). The brain can handle both streams, but there is
+some trade-off: if the music is very attention-grabbing, it’s harder to parse lyrics and vice versa. This is
+why sometimes we mis-hear lyrics (the “mondegreen” effect) because the brain prioritized the musical
+gestalt over the linguistic detail.
+Bilingual  studies  suggest  musical  training  might  enhance  language  abilities,  especially  in  tonally
+complex languages or second-language pronunciation. The neural reason is that musicians have finer
+pitch discrimination and auditory memory, beneficial for language nuances.
+In summary,  music and language are distinct but intertwined in the brain. They likely co-evolved,
+share circuits (especially for rhythm and structure), and influence each other . Many researchers consider
+music as “language of emotions” because it can convey meaning without semantic content, using the
+brain’s  emotional  and  auditory  circuitry  rather  than  lexical  semantics.  There’s  even  evidence  that
+listening to music can enhance linguistic syntax processing and vice versa – e.g., one study found
+that after practicing musical rhythm, children with reading disorders improved in reading (since reading
+has a rhythmic component in parsing syllables). The brain’s plasticity means improving one skill
+can bleed into the other .
+As  a  poetic  encapsulation:  in  the  brain,  music  and  language  are  like  two  dialects  of  the  same
+communication system – one more abstract and emotional, the other more concrete and referential,
+but both deeply human and using overlapping neural “grammar .”
+These additional questions illustrate the breadth of inquiry at the intersection of music, mind, and
+brain. From the chills of peak pleasure to the absence of pleasure in anhedonia; from congenital tone-
+deafness to the potential intellectual dividends of musical training; from comparisons with animal song
+to the shared pathways of music and language – each answer adds a piece to the puzzle of why music
+has such profound effects on us.
+50 160
+161 137
+161 162
+33
+
+--- Page 34 ---
+Conclusion
+From neurons to nation anthems, from infancy to old age, the journey we have taken through the
+psychology and neuroscience of music reveals a fundamental truth: music is deeply woven into the
+fabric  of  the  human  brain  and  psyche.  We  began  by  seeing  how  the  ear  and  auditory  cortex
+deconstruct sound into notes and rhythms, and how the brain builds music back up into patterns that
+we perceive as melodies and beats. We learned that this involves an intricate interplay between sensory
+analyzers  and  higher-order  predictors  –  our  brains  are  not  passive  receivers  of  music  but  active
+predictors, constantly dancing ahead of the notes. This predictive dance, when met with just the right
+balance of fulfillment and surprise, kindles the fires of pleasure in our reward system, explaining why a
+favorite song can make us euphoric and even give us goosebumps through dopamine-fueled chills
+.
+We  then  explored  how  our  musical  tastes  and  references  are  sculpted  over  time  by  culture  and
+experience.  A  newborn  enters  the  world  with  some  predispositions  (a  sweet  tooth  for  consonant
+harmonies, for example), but it is experience and enculturation that tune the brain’s ear . The fact that
+a remote Amazonian tribe finds dissonance as acceptable as consonance, whereas Westerners
+do not, elegantly demonstrated that much of musical preference is learned. Yet, beneath that, universal
+processes like the need for patterns and the emotional tagging of familiar sounds guide  why we like
+what we do. Our brains tend to enjoy music that challenges us just a bit but not too much, and that
+mirrors emotional contours we innately understand (a soft lullaby soothes across cultures, a sudden
+loud bang alarms us all). Individual variation enters too – some brains are wired to revel in music (for
+those  people,  an  absence  of  music  is  an  absence  of  joy),  whereas  a  few  brains  are  wired  to  be
+indifferent  (musical  anhedonia,  though  rare,  reminds  us  that  even  music’s  magic  is  not  absolutely
+universal ).
+A  highlight  of  our  overview  was  seeing  how  music  engages  the  whole  brain in  a  coordinated
+symphony: the auditory cortex extracts the sounds, the frontal cortex organizes the sequence, the
+motor cortex and basal ganglia lock onto the beat, the limbic system and amygdala imbue it with
+emotion, and the nucleus accumbens gives the nod of pleasure when it all comes together. This
+simultaneous recruitment is arguably what gives music its power – it touches multiple aspects of our
+mental  life  at  once.  We  don’t  just  hear music;  we  think it,  feel it,  and  often  move to  it.  And  these
+processes feed back into each other (our emotions influence how we hear a melody; moving to a beat
+can intensify the pleasure, etc.). This integration can lead to therapeutic outcomes that are hard to
+achieve with isolated approaches: for example, a stroke patient might not speak a word with regular
+therapy, but through melodic intonation (tapping into musical right-hemisphere pathways) can sing
+their needs and gradually regain language. Music’s ability to bridge unconscious and conscious
+processing (like how amusics’ brains sense wrong notes without awareness, or how a song can trigger
+memories we didn’t know we still had) makes it a unique key to unlock neurological doors.
+Our exploration of evolution and culture showed that while the uses of music differ – one society may
+use music to ward off evil spirits, another to entertain at feasts – the presence of music in every culture
+hints that it served vital functions. Whether by bonding communities through shared rhythms,
+wooing mates with song (à la Darwin’s hypothesis), or simply capitalizing on existing brain circuits
+for pleasure, music secured a central place in human life. It likely co-evolved with language and social
+cognition,  turning  the  noises  of  nature  into  the  art  of  organized  sound.  As  modern  neuroscience
+confirms,  live  communal  music  still  has  effects  that  canned  music  can’t  fully  replicate  –  stronger
+emotional synchronization and a sense of unity that speaks to an ancestral need. In an age of
+digital earbuds and individualized playlists, that finding reminds us why people still flock to concerts
+and sing in groups: it taps into something primordially social and deeply rewarding.
+48
+49
+23
+24 22
+32
+123 124
+1 86
+50 160
+71
+78
+87 163
+34
+
+--- Page 35 ---
+Throughout the lifespan, we saw that music is a moving target – literally and figuratively. A lullaby calms
+a newborn via simple melody and gentle rhythm; a teenager finds identity and intense emotion in the
+lyrics and beats of their favorite songs; an adult might use music for concentration or motivation; an
+elder reconnects with fading memories through the familiar tunes of youth. The brain changes with
+age,  but  music  adapts  to  stay  relevant  at  each  stage,  engaging  strengths  and  compensating
+weaknesses (e.g., helping memory when memory falters, giving structure when cognitive processing
+slows). The adaptability of music is perhaps why it is often called a universal language – not because it
+means the same to everyone (it doesn’t), but because everyone can find meaning in it at their own
+level.
+Finally, addressing specific curiosities (the “why” of chills, the “why not” of tone-deafness, etc.) allowed
+us  to  appreciate  the  nuance  in  music’s  effects.  We  learned  that  the  most  transcendent  musical
+experiences  are  not  mystical in  the  sense  of  beyond  science  –  they  are  explainable  by  a  beautiful
+confluence of brain mechanisms (prediction, surprise, reward) – yet that doesn’t diminish their
+value; if anything, it’s wondrous that a bunch of cells and chemicals can produce a feeling of sublime
+goosebumps from a Chopin climax or a gospel choir’s harmony. We also saw that deficits like amusia
+teach us by contrast – illustrating how much precise wiring is required for us to effortlessly hum a tune
+or detect a wrong note . And the relationship between music and language surfaced repeatedly,
+reinforcing that music is not a strange add-on to our faculties but rather a core expression of our
+communicative and analytical capacities, just tuned to a different frequency.
+In conclusion, the study of music perception and its effects reveals an interplay of the most primitive
+and the most advanced aspects of being human. Rhythm connects to our heartbeat and bipedal gait
+– ancient, physiological rhythms – while melody and harmony engage cortical circuits that represent the
+height of abstraction and pattern processing. Enjoying music involves archaic reward centers deep in
+the brain, yet also engages the newest layers of our cortex that reason and remember . Music can make
+us cry, laugh, sing, dance, bond, heal, and maybe even learn better; it activates colour in memories and
+can paint new ones. It is a testament to brain plasticity – how the brain takes a cultural invention and
+literally transforms under its influence (as seen in musicians’ brains). It is also a testament to
+human creativity and need for expression – we turned the very wiring of our auditory system into a
+source of art and joy.
+The comprehensive picture emerging from psychology and neuroscience is that music is not a luxury,
+but a core facet of human existence, entwined with cognition, emotion, development, and social
+life . Our brains are “tuned for music,” as Dr . Silbersweig said, and this tuning fork strikes
+upon many domains at once. Future research will undoubtedly continue to discover new connections –
+perhaps how music might stave off dementia via network resilience, or the full genetic story behind
+musical aptitude. But even without those future insights, we can cherish what is already clear: music
+has  a  profound  psychological  reality  and  neurobiological  basis  that  together  enrich  our  lives.  In
+understanding music, we end up understanding ourselves – our brains’ hunger for pattern, our hearts’
+craving for meaning, and our innate drive to connect with others. In the words of a wise philosopher
+(plato) quoted in our introduction, music truly can “touch the soul.” Our modern science now validates
+that metaphor with data: showing how music’s touch extends to neural circuits and hormones and
+development and beyond – a touch that starts in the ear , resonates in the brain, and ultimately, moves
+the human spirit.
+References: (Numbers refer to source citations in text)
+【11】 Eck, A. (2024). How Music Resonates in the Brain. Harvard Medicine Magazine. – Describes broad
+brain activation by music and evolutionary perspective on hearing.
+【17】 Domingues, R.B. et al. (2025). The neuroscience of music perception: a narrative review. Arquivos de
+Neuro-Psiquiatria. – Reviews brain circuits in music, auditory pathways, and passive vs active music
+94
+32 48
+14 133
+145
+164 143 105
+1 36
+35
+
+--- Page 36 ---
+processing .
+【20】 Trafton, A. (2016). Why we like the music we do. MIT News. – Reports study on Amazonian tribe
+and consonance preference, highlighting cultural origin of musical taste.
+【22】 Lehmann, A. (2022). Why Certain Types of Music Make Our Brains Sing. Neuroscience News (from
+The Conversation). – Discusses prediction in music, brain’s expectations, and pleasure from moderate
+surprise .
+【24】 Dolan, E.W. (2024).  Live music strikes a deeper chord in the brain than recorded tunes. PsyPost. –
+Summarizes  PNAS  study  on  live  vs  recorded  music,  showing  stronger  amygdala  and  whole-brain
+responses for live performance.
+【28】 Suttie, J. (2015).  Four Ways Music Strengthens Social Bonds. Greater Good Magazine. – Outlines
+evolutionary social functions: coordination, oxytocin release, empathy, cultural cohesion.
+【30】 Alzheimer’s  Association.  Music  and  Art  Therapy  in  Alzheimer’s.  –  Notes  that  music  reduces
+agitation in dementia and how patients respond to childhood songs.
+【31】 Trainor , L.J. & Heinmiller , B. (1998). Infants prefer consonance over dissonance. Infant Behav Dev. –
+Experiment showing 6-month-olds’ preference for consonant intervals.
+【36】 Ferris, R. (2013). What Our Brain Looks Like When It Hears Music. Business Insider (via Salimpoor’s
+research). – Explains brain map of music: STG templates, IFG predictions, nucleus accumbens for reward
+.
+【42】 Sihvonen, A.J. et al. (2019).  Musical anhedonia. Frontiers/PNAS references. – Describes specific
+musical anhedonia, lack of pleasure from music, linked to reduced auditory-reward connectivity.
+【45】 Mitchell, K. (2011). The Neuroscience of Tone Deafness. Scientific American. – Explains congenital
+amusia, EEG studies showing intact early response but no late awareness, and weak fronto-temporal
+coupling .
+【46】 Zhang, Y. et al. (2020). Music training and brain development. (findings summarized in review) –
+Evidence of cognitive enhancements from music training, structural changes (references to various
+studies in snippet) .
+【47】 Mansens, D. et al. (2018).  The transformative power of music. (in PMC10765015) – Open-access
+review highlighting effects across pregnancy, childhood, older adults, therapy, etc.. 
+These sources provide a foundation for the statements made, illustrating the scientific findings behind
+the fascinating ways music interacts with the human brain and behavior . 
+How Music Resonates in the Brain |
+Harvard Medicine Magazine
+https://magazine.hms.harvard.edu/articles/how-music-resonates-brain
+The transformative power of
+music: Insights into neuroplasticity, health, and disease - PMC 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10765015/
+Music perception, pitch, and the auditory system - PMC
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2629434/
+The Neuroscience of Tone Deafness | Scientific
+American
+https://www.scientificamerican.com/article/the-neuroscience-of-tone/
+Thieme E-Journals - Arquivos de Neuro-Psiquiatria / Abstract
+https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0045-1811233
+3 2 17
+24 25
+32 26
+52 87
+73 76
+94
+23
+28 48
+60 123
+14 126
+161 114
+140 93
+1 16 36 37 50 54 55 100 101 102 103 105 117 118 136 160
+2 3 4 5 9 11 12 15 17 56 63 64 67 68 88 89 90 93 97 98 99 104 108 109 112 114 115 116
+137 138 139 140 141 142 143 144 145 146 147 150 151 157 158 161 162 164
+6 7 8 10 19 20 113 152 153
+13 14 84 126 127 128 129 130 131 132 133 134 135
+18 42 85 159
+36
+
+--- Page 37 ---
+Why we like the music we do | MIT News | Massachusetts Institute of Technology
+https://news.mit.edu/2016/music-tastes-cultural-not-hardwired-brain-0713
+The development of evaluative responses to music: Infants prefer to listen to consonance over
+dissonance — Auditory Development Lab
+https://trainorlab.mcmaster .ca/publications/TrainorHeinmiller2008
+Why Certain Types of Music Make Our Brains Sing, and
+Others Don’t - Neuroscience News
+https://neurosciencenews.com/music-preference-prediction-21946/
+Image of Our Brain Listening to Music - Business Insider
+https://www.businessinsider .com/image-of-our-brain-listening-to-music-2013-6
+Genes may influence our enjoyment of music | Max Planck Institute
+https://www.mpi.nl/news/genes-may-influence-our-enjoyment-music
+Using a polygenic score in a family design to understand genetic ...
+https://www.nature.com/articles/s41598-022-18703-w
+Live music strikes a deeper chord in the brain than recorded tunes, study finds
+https://www.psypost.org/live-music-strikes-a-deeper-chord-in-the-brain-than-recorded-tunes-study-finds/
+Four Ways Music Strengthens Social Bonds
+https://greatergood.berkeley.edu/article/item/four_ways_music_strengthens_social_bonds
+Emotions in the Brain Are Dynamic and Contextually Dependent
+https://www.eneuro.org/content/12/7/ENEURO.0184-24.2025
+Musical anhedonia, timbre, and the rewards of music listening
+https://www.sciencedirect.com/science/article/abs/pii/S0010027723003062
+[PDF] Music Therapy and Dementia Care: Older Adults Living with Memory ...
+https://www.musictherapy.org/assets/1/7/FactSheet_Music_Therapy_and_Dementia_Care_2021.pdf
+Darwin’s sexual selection hypothesis revisited: Musicality increases sexual
+attraction in both sexes - PMC 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9453251/
+How and why music therapy reduces distress and improves well ...
+https://www.nature.com/articles/s44220-024-00342-x
+Music-based therapy may improve depressive symptoms in people ...
+https://www.cochrane.org/about-us/news/music-based-therapy-may-improve-depressive-symptoms-people-dementia
+Music / Art Therapy, Alzheimer's & Dementia | Alzheimer's Association
+https://www.alz.org/help-support/caregiving/daily-care/art-music
+Listening to Music During Pregnancy Benefits Baby Brain's Ability to ...
+https://neurosciencenews.com/pregnancy-music-speech-22997/
+Trainor , L.J. & Heinmiller , B.M. Infants prefer to listen to consonance ...
+https://www.researchgate.net/publication/
+222477767_Trainor_LJ_Heinmiller_BM_Infants_prefer_to_listen_to_consonance_over_dissonance_Inf_Behav_Dev_21_77-88
+From perception to pleasure: music and its neural substrates - PubMed
+https://pubmed.ncbi.nlm.nih.gov/23754373/
+From perception to pleasure: Music and its neural substrates - PNAS
+https://www.pnas.org/doi/10.1073/pnas.1301228110
+21 22 24 25
+23
+26 27 30 31 32 33 34 35 43 46 47 121
+28 29 38 39 44 45 48 49 51 65
+40
+41
+52 53 86 87 163
+57 58 61 62 69 70 71 72 73 74 75 76 77 156
+59
+60 122 125
+66
+78 79 80 81 82 83 148 149
+91
+92
+94 95 96
+106 107
+110 111
+119
+120
+37
+
+--- Page 38 ---
+The pleasurable urge to move to music is unchanged in people with ...
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11706506/
+Musicality in human vocal communication: an evolutionary perspective
+https://royalsocietypublishing.org/rstb/article/377/1841/20200391/108702/Musicality-in-human-vocal-communication-an
+123 124
+154 155
+38
+

@@ -1,0 +1,558 @@
+TITLE: The Psychology of Why Humans Play Games.pdf
+PAGES: 11
+
+--- Page 1 ---
+The Psychology of Why Humans Play Games
+Games are a universal part of human life – from children playing make-believe to adults engaging in
+video or board games. Modern psychology shows that playing games fulfills deep-seated psychological
+needs and desires. Games are not mere pastimes; they tap into what motivates us, how we feel, and
+even how we socialize. Below we explore why humans play games, what they enjoy (and dislike) about
+them, the emotions games evoke, and what makes a great game from a psychological perspective –
+with an eye towards insights useful in game design. While we focus on video and board games, these
+principles apply to all forms of play.
+Core Reasons Humans Play Games (Motivation)
+Intrinsic enjoyment and psychological needs: One major reason we play is simply because games are
+fun  and  satisfying.  Psychologists  Ryan  and  Deci’s  Self-Determination  Theory  (SDT) explains  that
+humans are driven by innate needs for competence, autonomy, and relatedness, and games excel at
+satisfying all three. When a game makes us feel skilled and effective (competence), grants us freedom
+and control (autonomy), and connects us with others (relatedness), it becomes deeply compelling. In
+games, competence comes from mastering challenges and experiencing the focused state of  flow
+(being “in the zone” at the right difficulty). Autonomy is present because we voluntarily choose to play
+and  often  direct  our  own  in-game  decisions.  Relatedness  arises  when  games  let  us  interact  or
+compete with others, forming social bonds in a fantasy context distinct from real life.
+Achievement, social, and immersion motives: Another framework, by researcher Nick Yee, identifies
+three  main  motivational  components  for  gamers:  achievement,  social,  and  immersion.  The
+achievement motive drives people to advance, conquer goals, and compete – enjoying points, levels,
+and victory over others. The social motive is the desire to form connections: many play games to chat,
+cooperate, or be part of a team/community. Finally, immersion motivates players to enter a make-
+believe world – crafting avatars, experiencing a story, and escaping real-life stresses for a while. For
+example, a player might relish achievement by mastering difficult levels and topping leaderboards, seek
+social fun by teaming up with friends in an online game, or enjoy immersion by role-playing in an epic
+RPG storyline.
+The fundamental need for play: Underlying all these is a basic human inclination toward play. From
+an early age, play is how we learn, explore, and express creativity. Adults are no exception – games
+provide a safe outlet for competition and imagination, a “permission” to be playful that can relieve
+stress and boost happiness. In short, we play games to satisfy inner needs (feeling competent, in
+control, connected) and because play itself is rewarding.
+1
+
+--- Page 2 ---
+Different Types of Player Motivations
+While humans share common needs,  not everyone enjoys games for the same reasons. In game
+design, it’s helpful to consider different player types. A classic example is Richard Bartle’s taxonomy
+for multiplayer games, which identifies: Achievers, Explorers, Socializers, and Killers. 
+Achievers are driven by goals, points, and status. They want to win, collect rewards, and show off
+accomplishments. (In Bartle’s analogy, they’re “diamonds” seeking treasure.) An Achiever in a
+board game might be the one intensely playing to maximize score or win as quickly as possible. 
+Explorers are curious and love discovery. They enjoy exploring the game world or mechanics,
+finding secrets, and experimenting. (Bartle likens them to “spades” digging for information.) An
+Explorer in a video game will wander off the beaten path to find hidden areas or easter eggs
+rather than rush toward the end. 
+Socializers play for the human element. They value interaction, teamwork, and friendship
+through games. (Bartle tags them as “hearts,” empathetic and focused on others.) A Socializer
+might prefer cooperative board games or online games where they can chat, role-play, or form
+alliances, sometimes enjoying the socializing even more than the gameplay itself. 
+Killers (a small subset of players) thrive on competition and impacting others directly. They enjoy
+wielding power in the game, defeating or dominating other players – essentially the PvP-focused
+folks (“clubs” that hit others, in Bartle’s terms). A Killer-type enjoys fighting games or competitive
+shooters, and their fun comes from besting (and maybe trash-talking) opponents. Notably, 
+Killers are rare compared to the other types – most players favor achieving, exploring, or
+socializing over pure domination.
+Most people are a mix of these motivations, but understanding them helps designers make games that
+appeal to their target audience. For instance, a great multiplayer game often provides something for
+each type: ranks and achievements for Achievers, rich worlds or mechanics for Explorers, chat and co-op
+modes for Socializers, and fair competitive modes for the Killer-types. The key takeaway is that humans
+play for varied reasons – a great game can either  specialize in one (e.g. a pure strategy game for
+Achievers) or blend several to broaden its appeal.
+What People Enjoy About Games
+People love games because they deliver experiences and feelings that are hard to get in everyday life.
+Here are some of the most cherished aspects of games and why they’re psychologically appealing,
+with examples:
+Fun  and  positive  emotions: At  a  basic  level,  games  are  enjoyable.  They  produce  hedonic
+engagement – the pleasure of being actively involved in something purely for enjoyment. This
+fun often comes with a sense of liberation – a temporary release from real-world obligations or
+stress while playing. For example, a lighthearted party game might make players laugh and
+forget their worries for an hour . Psychologically, this blends immersion (losing oneself in fun) and
+freedom (feeling unburdened), which is very rewarding. Many players turn to games to relax or
+lift  their  mood,  and  indeed  a  recent  scientific  study  found  that  satisfying  gameplay  can
+modestly improve players’ affective well-being (happiness). In short, games make us feel good.
+Challenge,  mastery,  and  flow: Most  great  games  involve  challenge,  and  humans  generally
+enjoy a challenge – as long as it’s at the right level. A game that is too easy becomes boring,
+while one that is too hard becomes frustrating; the sweet spot in between creates a state of
+flow.  Flow is the highly focused, absorbed state where we lose track of time because the task
+• 
+• 
+• 
+• 
+• 
+• 
+2
+
+--- Page 3 ---
+difficulty perfectly matches our skill (not too easy, not too hard). In games, reaching flow is
+common – think of a chess player deep in concentration or a gamer so absorbed that hours fly
+by unnoticed. Designers strive to achieve this balance of challenge vs. skill, keeping players “in
+the zone” as shown in the diagram below :
+In the flow channel (bright yellow region), the game’s challenge matches the player’s skill – avoiding anxiety
+from overly hard tasks and  boredom from overly easy ones. This balance produces deep enjoyment and
+engagement.
+When a player overcomes a tough challenge, the pleasure is immense. In fact, triumph over adversity
+gives rise to a specific emotion that game researchers call  “fiero.” Fiero (Italian for “pride”) is that
+intense exhilaration we feel at moments of victory – “we throw our arms over our head and yell” in
+triumph. It’s the feeling you get after finally beating a brutal boss in a video game or completing a long,
+difficult puzzle. Psychologist Jane McGonigal notes that fiero is one of the biggest reasons people play
+games – it’s “an intense emotion that many of us crave”. Neurologically, fiero comes with one of the
+strongest  dopamine  rushes we  can  experience  as  reward  for  a  hard-won  success.  Great  games
+provide clear goals and escalating challenges to fuel this sense of accomplishment. They also make
+sure to calibrate difficulty so that victory feels earned but still attainable – if a game is so punishing that
+players give up, they’ll never get to feel fiero, so tuning the game to let players  regularly experience
+moments of triumph is a key design challenge. In summary, people love games that challenge them
+and allow them to  build mastery, because beating a challenge yields pride, satisfaction, and often a
+compelling urge to seek the next challenge.
+Progress and feedback (competence): Related to mastery, games are built around progression
+systems (points, levels, scores, badges, new items) that constantly signal improvement. Humans
+enjoy seeing progress; it feeds our need for competence. Unlike real life, games give  clear,
+immediate feedback for our actions – points pop up, a quest is marked complete, a sound chimes
+for a correct move – which reinforces a sense of achievement and effectiveness. This constant
+feedback is deeply satisfying psychologically, as it provides tangible proof of success or learning.
+Many games use  level-up systems or skill trees to show players how far they’ve come, which
+boosts confidence and motivates further play. For example, in an RPG when your character gains
+a  level  and  new  abilities,  you  feel  more  powerful –  a  direct  hit  of  competence  fulfillment.
+Dopamine, the brain’s reward chemical, is released when we accomplish tasks or get pleasant
+surprises, so these feedback loops literally create  little bursts of pleasure that encourage us to
+keep playing. Designers also leverage the anticipation of rewards – e.g. a progress bar almost
+full  or  a  mystery  loot  box  waiting  to  be  opened  can  be  as  motivating  as  the  reward  itself,
+because  the  suspense  keeps  us  engaged.  All  these  elements  (points,  rewards,  immediate
+feedback) contribute to why players like games: they make us feel competent and rewarded at
+each step, in a way that is clear and structured compared to many real-world activities.
+Social connection and competition:Humans are social creatures, and games – especially
+board and multiplayer video games – are a social playground. Many people love games because
+they bring people together in ways other activities do not. Board games, for instance, involve
+sitting  around  a  table  talking,  laughing,  and  strategizing  face-to-face,  which  fosters  social
+bonds and friendly interaction. Cooperative games let us experience teamwork and unity toward
+a  common  goal,  building  camaraderie.  Competitive  games,  on  the  other  hand,  add  the
+excitement of rivalry – pushing us to outsmart friends within a safe,  “friendly conflict” context.
+Both cooperation and competition can be enjoyable, and the best games often include a bit of
+both,  allowing  players  to  team  up  or  face  off  as  they  prefer  (which  also  gives  a  sense  of
+autonomy in how to play). Notably, “fun is more fun when shared” – research indicates people
+often find experiences more enjoyable when they do them with others. It’s no surprise that a
+• 
+• 
+3
+
+--- Page 4 ---
+majority of gamers prefer playing with others: for example,  66% of American gamers play
+video games socially (with others) most of the time. Online video games tap into this by
+enabling global social play (guilds, chat, streaming), while board games provide an in-person
+social outlet. In either case, games satisfy our desire to belong to a group, to communicate,
+and to feel the special bond that comes from shared play. Even when playing alone, knowing
+others are playing the same game (competing on leaderboards, or discussing it in communities)
+can create a  sense of connection. In short, people enjoy the  social dimension of games –
+whether it’s the cooperation in a game like Pandemic (a board game where players team up to
+beat the game) or the competition of Mario Kart with friends trash-talking on the couch, games
+create memorable social experiences.
+Immersion and escapism: Games transport us to different worlds or roles, appealing to our
+imagination. A captivating game can make hours feel like minutes because we’re so immersed in
+its story or environment. This is enjoyable in two ways: first, it satisfies curiosity and the desire to
+experience new things (e.g. exploring a beautiful fantasy land in a video game, or imagining
+oneself a detective in a mystery board game); second, it provides escapism, a mental break from
+reality. As one psychologist put it, games create  “active involvement and immersion intended for
+pure  enjoyment”,  giving  us  pleasant  sensations  of  being  in  a  different  reality.  For  example,
+narrative-heavy games like  The Witcher or  Arkham Horror (board game) pull players into rich
+stories, temporarily freeing them from everyday concerns. This sense of being elsewhere and
+“letting  loose” is  liberating  and  restorative.  Many  gamers  cherish  this  opportunity  to
+temporarily step away from the real world – to fly a starfighter , build a medieval city, or be a
+hero saving the world –  with no real consequences. Psychologically, such  imaginative play can
+reduce stress and satisfy our creative, exploratory impulses. Immersive games also often involve
+art and aesthetics (visuals, music, theme), which players appreciate for their own sake. In sum,
+players like games that offer a compelling alternate experience or story in which they can lose
+themselves and feel free.
+Strategy, problem-solving and creativity: A lot of games are essentially puzzles or strategic
+challenges, and humans generally enjoy solving problems.  Board games, for example, often
+engage our brains with strategy and planning – whether it’s chess or a complex Eurogame,
+there’s pleasure in devising a plan and seeing it succeed. This cognitive stimulation scratches
+the itch for mental exercise, giving a satisfying sense of achievement when our strategy pays off.
+Games allow safe risk-taking too: players can try bold moves or experiments within the game
+(bluffing  in  poker ,  choosing  a  risky  strategy)  without  real-life  repercussions,  which  is  both
+educational and thrilling. Video games similarly often challenge players with tactical or logistical
+problems (resource management, spatial puzzles, etc.). People who enjoy  learning and using
+new skills find games rewarding because a well-designed game gradually teaches you skills and
+then tests you in interesting ways. In fact, the act of learning and mastering new mechanics in a
+game itself triggers dopamine release, contributing to the fun. Meanwhile, games that offer
+creative outlets (like sandbox or building games – e.g. Minecraft or a level editor in Super Mario
+Maker) appeal to our inventive side. They provide a playground for imagination and creativity,
+which many find deeply satisfying. Being creative or clever within a game’s rules gives a sense of
+ownership and pride in one’s personal approach to the game.
+Tangible and nostalgic appeal (in board games): While video games deliver many of the above
+pleasures digitally, board games add a tactile, physical dimension that people love. Handling
+cards, tokens, or dice engages our senses – there’s something pleasing about shuffling cards or
+moving a piece on a board. The  physicality makes the experience feel more concrete or “real”
+than virtual games. Many also carry nostalgic value: classic board games remind us of childhood
+or family time, invoking warm feelings. This nostalgia and the tradition of gathering around a
+• 
+• 
+• 
+4
+
+--- Page 5 ---
+table  contribute  to  why  people  continue  to  enjoy  board  games  even  in  a  digital  age.  It
+reconnects us with simpler times and face-to-face social play, which can be very emotionally
+rewarding.
+All these aspects – challenge, mastery, social interaction, immersion, feedback, creativity, etc. – are the
+“fun factors” that make games attractive. Different games emphasize different factors (for instance, a
+party  game  emphasizes  social  laughter  and  low-skill  fun,  whereas  a  flight  simulator  emphasizes
+mastery and immersion). A key point for designers is that  fun isn’t one-dimensional: as researcher
+Nicole  Lazzaro  found,  games  can  offer  “Hard  Fun” (challenge  and  fiero),  “Easy  Fun” (curiosity  and
+amusement), “People Fun” (social enjoyment), and even “Serious Fun” (meaning or learning). The more of
+these angles a game can fulfill  without diluting the experience, the more engaging it can be to a
+wider audience.
+Emotions Games Evoke (and When)
+Playing games can fire the whole gamut of human emotions – from joyous highs to anger and fear –
+often more intensely than other media because interactive involvement makes the feelings personal.
+Here are some common emotions in gaming, and when/why they arise:
+Joy and Happiness: Games frequently make players happy, both in moment-to-moment fun and
+as  an  overall  mood  boost.  As  discussed,  beating  challenges  or  receiving  rewards  triggers
+dopamine-fueled pleasure, leading to smiles and a sense of  well-being during play. Many
+gamers play to unwind or cheer up; accordingly, research notes that many players use games to
+relieve stress or regulate emotions. Lighthearted games (like a silly party game or a whimsical
+adventure) especially create joy through humor and playful surprise. Co-op victories or shared
+funny moments with friends also amplify joy – there’s a special giddy happiness in celebrating a
+win together or laughing over a game’s events.
+Fiero  (Pride/Triumph): As  described  earlier ,  fiero  is  the  explosive  excitement and  pride  in
+accomplishment that comes at peak moments – the “Yes! I did it!” feeling. Players typically feel
+fiero  right after overcoming a significant obstacle: defeating a tough boss, winning a close
+multiplayer match, solving a puzzle that had them stumped, etc. The harder the challenge, the
+bigger the fiero payoff on victory. This emotion is often visible – e.g., a player might literally jump
+off the couch with fists in the air after a clutch win. Fiero is highly addictive in a positive way;
+it’s  what  makes  people  persevere  through  hard  games  like  Dark  Souls or  lengthy  strategic
+campaigns,  chasing  that  eventual  triumphant  high.  Good  game  design  spaces  out
+challenges to provide periodic fiero moments, which keep players hooked on the emotional ride.
+Curiosity and Surprise: Games often spark curiosity (what’s behind that door? how can I craft
+this item?) and deliver surprise (a plot twist, a hidden level, a random funny event). Anticipation
+is a powerful emotional driver – for example, the suspense of a mystery box or the final move in a
+chess game can create intense focus and excitement. Players feel a rush when a game surprises
+them in a delightful way or when they discover something unexpected. This ties into the “Easy
+Fun” – the pure enjoyment of exploring and uncovering new experiences. Puzzle games evoke
+the  “Eureka!” feeling  –  a  burst  of  joy  and  relief  when  figuring  out  the  solution  after  being
+perplexed.
+Flow (Focused Contentment): When in a flow state, players experience a calm yet energized
+focus, sometimes described as contentment or serenity in the moment. It’s not an emotion
+with a name like joy or anger , but rather a state where emotions are balanced – the player feels
+• 
+1
+• 
+2
+• 
+• 
+5
+
+--- Page 6 ---
+in control and fully absorbed. During flow, a player might feel confident and engaged, with a
+mild exhilaration at sustained success. After a flow session, players often feel  satisfied or even
+surprised at how time flew. Achieving flow frequently produces a positive mood and is linked to
+overall  happiness  if  experienced  regularly.  This  is  why  a  great  game  that  induces  flow  can
+become a beloved hobby – it consistently puts the player in an enjoyable focused mindset.
+Frustration and Anger: On the flip side of challenge lies frustration – when a game’s difficulty
+or  design  crosses  the  line  from  motivating  to  disheartening.  Players  feel  frustration  when
+progress is blocked or they fail repeatedly without understanding why. For example, dying 20
+times in a row at the same level, or losing to an opponent because of factors outside your
+control, breeds frustration. If not addressed, this can escalate to anger or “rage-quitting” – the
+impulse to quit (or even physically throw a controller) in fury. Crucially, research shows that this
+aggression stems not from violent content, but from  feelings of failure and lack of control
+during  the  game.  In  psychological  terms,  the  game  is  threatening  the  player’s  sense  of
+competence or fairness, and they respond with anger . Nearly every gamer has experienced this:
+for  instance,  a  laggy  online  match  or  a  “cheap”  enemy  attack  that  kills  you  can  provoke
+immediate anger because it feels unfair or preventable. While a bit of frustration can motivate a
+player to try again,  too much causes them to stop having fun.  Boredom can similarly cause
+negative  feelings  –  if  the  game  is  too  easy  or  repetitive,  a  player  might  feel  irritation  or
+disappointment at the lack of engagement. In game design,  frustration and boredom are
+considered the archenemies of fun and flow. A well-designed game tries to minimize these by
+smoothing  out  unfair  spikes  in  difficulty,  giving  players  tools  to  overcome  challenges,  and
+keeping the experience varied.
+Fear and Anxiety: Some games deliberately evoke fear – notably horror games (like Resident Evil
+or Amnesia) – by putting players in tense, threatening scenarios. The emotion of fear in a game
+can manifest as heart-pounding anxiety, jump-scare shock, or creeping dread. Interestingly, many
+people enjoy this in a game because it’s akin to a rollercoaster: a controlled dose of fear that
+ultimately is safe. The adrenaline rush from narrowly escaping a monster or surviving a scary
+encounter can actually be exhilarating. Even non-horror games can create short-term anxiety in
+high-pressure moments (say, a last-second penalty kick in FIFA or a do-or-die round in Counter-
+Strike). The key is that these feelings resolve – the fearful tension releases into relief (if you
+survive) or a burst of emotion (if you fail but then can try again). When designed well, these
+tension-and-release cycles produce excitement. However , if a game makes a player too anxious
+without payoff, it may stop being fun; as mentioned, sustained anxiety moves one out of the flow
+zone (see the diagram) into an unenjoyable state.
+Sadness and Empathy: Games can also make players feel sad or moved, particularly through
+storytelling and characters. Many modern games have deep narratives that can be as emotional
+as films or novels. Players might feel sadness if a beloved character dies, or regret at a morally
+difficult choice they had to make in a story-driven game. Because games are interactive, these
+emotions can hit even harder – you took the action that led to a tragic outcome, or you failed to
+save someone, which can create a strong empathetic response. For example, players of The Last
+of Us often report emotional moments of grief, and indie games like That Dragon, Cancer were
+explicitly designed to share an experience of loss and love, making many players cry. While not
+“fun”  in  the  silly  sense,  these  powerful  emotions  are  part  of  why  people  value  games  as
+meaningful  experiences.  They  provide  a  safe  space  to  experience  and  process  emotions.
+Moreover , the lows can make the highs more impactful – a bittersweet story can make victory
+more profound or messages more thought-provoking.
+• 
+• 
+• 
+6
+
+--- Page 7 ---
+Social Emotions: In multiplayer settings, games can trigger social emotions like trust, loyalty,
+betrayal, or guilt. A cooperative board game can lead to feelings of trust and solidarity (“we
+worked so well together!”). A hidden-traitor game (e.g.  Among Us or  Battlestar Galactica board
+game) might cause playful suspicion or betrayal feelings when one friend deceives the others –
+often  followed  by  laughter  and  mock  outrage  when  revealed.  Competition can  also  evoke
+respect for an opponent, or envy, or triumph of outdoing a rival. Importantly, because games
+happen within a “magic circle” of agreed rules, people often feel free to express emotions like
+aggression or mischief in-game without repercussions – e.g. trash-talking a friend during a game
+doesn’t (or shouldn’t) carry over outside the game. This  protected frame of play allows us to
+experience  these  emotions  intensely  but  safely.  After  the  match,  good  sportsmanship  and
+shared  post-game  analysis  can  even  strengthen  friendships  due  to  the  emotional  journey
+shared.
+In  sum,  games  are  a  rich  emotional  playground.  The  key  for  enjoyment is  that  positive  emotions
+(excitement, joy, pride, camaraderie) generally outweigh the negatives (frustration, anxiety) across the
+experience. When they do, players describe the game as engaging or fun. When negative emotions
+dominate – like a game that’s mostly stressful or anger-inducing – players will likely quit. This balance is
+why game designers talk about making a game challenging but fair, scary but not hopeless, sad but
+meaningful,  etc.  The  right  emotional  mix,  tuned  to  the  intended  audience,  is  central  to  a  game’s
+success.
+What People Don’t Like About Games
+Just as there are common pleasures in games, there are common pain points that turn players off. For
+game designers, these are pitfalls to avoid.  Players tend to dislike games (or moments in games)
+that produce:
+Excessive Frustration: A bit of challenge is fun, but if a game crosses the line into punishing the
+player too much, it breeds frustration. As noted, when players feel stuck in a futile situation or
+that the game is “cheating” them, fun turns into rage. For example, if a game has clumsy controls
+or unclear rules, failing because of the interface (not your skill) is very frustrating. Unavoidable
+deaths, extreme difficulty spikes, or heavy penalties for mistakes can likewise make players
+angry. No one enjoys feeling incompetent or out of control. In fact, studies show that  when
+people feel they have no control over the outcome, it leads to aggression and quitting –
+regardless of game genre. Thus, a poorly tuned game that often makes the player feel helpless
+or unfairly treated will quickly lose its audience. Players want challenge, but fair challenge. They
+dislike “cheap shots” or random failure that they couldn’t have prevented.
+Boredom and Repetition: On the opposite end, a game that’s too easy, slow, or repetitive will
+not hold attention.  Boredom is a game-killer – players will simply drop a game that doesn’t
+stimulate them enough. This could be due to overly simplistic gameplay, lack of new content, or
+too much grinding (repeating the same task) without payoff. For instance, if a mobile game
+requires hours of doing the exact same action to progress, many will get bored and leave. As one
+industry analysis put it: “The two most important reasons players quit are frustration and boredom –
+the archenemies of flow.” Either extreme breaks engagement. Good games avoid monotony by
+introducing new challenges, mechanics, or story developments to keep things fresh. If a game
+fails to do so, players will feel it’s “more of the same” and lose interest. Essentially, gamers do not
+like feeling that their time is wasted or that nothing they do in the game is interesting after a
+while.
+• 
+3
+• 
+• 
+7
+
+--- Page 8 ---
+Lack of Meaningful Progress: Tied to boredom is the sense of grinding with no payoff. If a
+game makes players slog without clear rewards or advancement, it starts to feel like busywork
+instead of fun. For example, imagine an RPG where you must defeat 100 trivial monsters to gain
+one level – players might tire of this grind if it’s not fun in itself. Games that feel like a chore or
+“second job” are often abandoned. Psychologically, if the intrinsic fun dries up and only extrinsic
+rewards (points, etc.) remain, motivation plunges. As game design blogs often note, if a game
+starts feeling like work, players ask “why am I even doing this?” and quit. Thus, designers must be
+careful with repeating tasks and ensure players feel a sense of progress and purpose. Without
+that, players will dislike the experience.
+Overemphasis on Extrinsic Rewards: While points and badges are motivating, too much focus
+on  rewards  (and  not  enough  on  fun  gameplay) can  backfire.  Psychology  warns  of  the
+“overjustification” effect – if you flood someone with rewards for something they’d otherwise
+enjoy, they might lose intrinsic interest. In games, this means if the design is only about grinding
+for rewards (like incessant loot boxes, or pay-to-win monetization), players may feel manipulated
+or find the core gameplay hollow.  Modern players are savvy; many dislike games that are
+obviously trying to nickel-and-dime them or hook them with slot-machine tactics. A well-known
+example  is  the  backlash  against  games  with  aggressive  microtransactions  or  gambling-like
+reward loops – players often complain these undermine the fun or make the game unfair . Good
+games strike a balance: they use rewards to enhance fun, not replace it, and avoid  too many
+dopamine “treats” to the point that it actually inhibits long-term enjoyment.
+Poor  Social  Experiences: If  playing  a  game  with  others,  certain  negatives  can  arise:  toxic
+behavior,  cheating,  or  imbalance.  Many  players  quit  competitive  games  because  of  toxic
+communities  –  constant  harassment  or  unsportsmanlike  conduct  makes  the  experience
+unpleasant. Similarly, if a game allows cheating or has rampant unfair play (say, hackers in an
+online shooter , or one player always dominating a board game by exploiting a loophole), other
+players will not enjoy it. People play for fun and fairness; if the social environment is poisonous
+or the game design favors one type of player to the detriment of others (without recourse), the
+motivation to play evaporates. In short,  players dislike toxic or unfair atmospheres. This is
+why game developers now invest in systems to curb toxicity and ensure  fair matchmaking – a
+recognition that a game’s social context must be managed for everyone to have fun.
+Confusion and Cognitive Overload: A more straightforward dislike is when a game is  too
+confusing or difficult to learn initially. If the tutorial or rules are poorly explained, players
+might feel lost and frustrated quickly. An overly complex board game without a good rulebook,
+or a video game with a clunky user interface, can turn players off before they get to the good
+part. People generally dislike feeling stupid; a game should make the player feel smart and
+capable, not confused. Thus, a bad first-time user experience (FTUE) – such as a complicated
+setup or lack of guidance – is a common reason players walk away. Smooth onboarding is
+crucial because players won’t like a game that doesn’t respect their time in teaching them
+how to play.
+To summarize, frustration and boredom are the big offenders that drive players away. These often
+stem from deeper issues: unfair design, lack of challenge balance, absence of meaningful progress, or
+social toxicity. A great game mitigates these negatives by keeping the player appropriately challenged,
+rewarded, and respected. When players do complain about a game, it’s usually because one of these
+psychological needs was violated – for example, their need for competence was thwarted by unfair failures,
+or their need for autonomy was stifled by tedious, forced grind, or their need for relatedness was hurt by a
+nasty community. Game designers must remember that a game should ultimately be an enjoyable,
+• 
+• 
+• 
+• 
+4
+8
+
+--- Page 9 ---
+voluntary  activity –  anything  that  consistently  makes  it  feel  like  suffering  or  obligation will  be
+something players “don’t like” and avoid.
+Psychological Keys to Great Game Design
+Designing a great game means crafting an experience that consistently satisfies human psychological
+needs while minimizing the pitfalls we discussed. From a psychology standpoint, great games tend to
+do the following:
+Balance challenge and skill (Flow): Great games keep players in that magical flow zone as much
+as possible. They offer adjustable or scaling difficulty so that both newcomers and veterans can
+find the experience neither too easy (boredom) nor too hard (anxiety). This might mean having
+difficulty settings, adaptive AI, or a smooth learning curve that introduces complexity gradually.
+By “asking you to do something just out of reach” and then letting you achieve it, great games give
+players the thrill of growth  level after level. A classic example is  Super Mario Bros. World 1-1
+design – it subtly teaches the player through easy obstacles and ramps up, a result of careful
+playtesting by Nintendo to hit that flow sweet spot.  Clear goals and immediate feedback
+(hallmarks of flow) are always present – players always know what they’re trying to do and get
+response on how they’re doing, keeping them focused and motivated.
+Frequently satisfy competence with fiero moments: The best games  make the player feel
+powerful and accomplished at regular intervals. This doesn’t mean they make everything easy,
+but they set up victories that feel significant. Whether it’s beating a boss, completing a quest, or
+simply improving a personal high score, great games ensure the player has  something to be
+proud of after each session. They often do this via short-term and long-term goals structure
+: there are big overarching goals (save the kingdom, finish the story, etc.) which give a sense
+of purpose, but also many short-term targets (beat the next level, find the next collectible) that
+keep yielding satisfaction and a sense of progress along the way. This layered goal design
+means  the  player  is  never  far  from  the  next  accomplishment,  maintaining  motivation.  Great
+games also tend to celebrate the player’s achievements – with fanfare, unlocks, story payoffs,
+etc. – reinforcing that feeling of competence and success.
+Provide autonomy and meaningful choices: Psychologically, people enjoy games more when
+they feel in control of their actions. Thus, a great game gives players agency – meaningful choices
+that affect strategy, story, or outcomes. For example, an open-world video game might let you
+choose your quests or playstyle (catering to autonomy need), and a board game might allow
+multiple paths to victory. Even linear games can offer choices in how you solve a problem or
+customize your character . Voluntary play itself is a form of autonomy – the player should always
+feel “I want to do this,” not “I have to do this.” That’s why the elimination of unnecessary grind or
+the inclusion of optional content for extra challenge can improve a game’s reception. In short,
+great games respect player freedom, never forcing prolonged activity that isn’t fun. They also allow
+creativity:  emergent  gameplay,  user  strategies,  or  modding  can  all  enhance  the  sense  of
+ownership. Empowering the player to play their way (to an extent) is a psychological boon that
+increases enjoyment.
+Foster  relatedness  and  community: From  a  design  perspective,  even  single-player  games
+benefit from acknowledging the social nature of play. Great games often include features that let
+players share experiences – high score tables, ghosts of other players, forums for fan content,
+etc., which create a community around the game. In multiplayer games, tools to find friends or
+team up (guild systems, matchmaking, chat) and systems to encourage positive interaction
+• 
+• 
+5
+5
+• 
+• 
+9
+
+--- Page 10 ---
+(cooperative incentives, balanced competition) are key. The best multiplayer games cultivate a
+culture of fair play and camaraderie, because that keeps players invested long-term. Many
+successful games also organize events, challenges, or content updates that unite the player
+base, reinforcing the social bond (think of seasonal events in online games that bring everyone
+together for a goal). Essentially, great games recognize that playing is often a social act, and
+they reinforce the player’s feeling of being connected to others who share the activity. Even
+around a physical table, a well-designed board game ensures everyone gets to participate and
+no one is left out – facilitating fun for all, which in turn makes the experience enjoyable for each
+individual.
+Engage emotions with a positive tilt: A hallmark of a great game is that it makes you feel a
+lot, and leaves you feeling good overall. This could mean a thrilling rollercoaster of tension and
+relief in a strategy game, a deeply moving narrative in a story game, or lighthearted goofy fun in
+a  party  game  –  what’s  appropriate  depends  on  the  genre.  But  the  emotional  design  is
+intentional.  Great  games  often  use  psychological  pacing:  periods  of  challenge  (tension)
+followed by reward or rest (relief), bits of humor to diffuse stress, rising stakes in the story that
+lead  to  a  cathartic  climax,  etc.  They  aim  to  create  emotional  highs (excitement,  laughter ,
+triumph) that outweigh the lows (frustration, defeat). Importantly, failures in a great game are
+framed as learning experiences, not dead-ends. For example, when you fail a level, the game might
+give a hint or simply encourage you to try a different strategy, rather than just punish you. This
+helps  turn  potential  frustration  into  a  motivation  to  improve  (maintaining  the  player’s  self-
+efficacy). Additionally, many top games pay attention to story and thematic resonance – even
+simple  games  benefit  from  a  bit  of  narrative  or  context  that  gives  meaning  to  the  player’s
+actions, which can create an emotional connection. In summary, a great game is one that knows
+which emotions it wants to evoke in the player and carefully crafts the experience to hit those
+notes, leaving the player emotionally satisfied.
+Continual novelty and learning: Psychologically, humans love  novelty – new stimuli grab our
+attention. Great games keep introducing new elements or challenges to maintain interest. This
+could be new enemy types, new power-ups, plot twists, or increasing complexity that keeps the
+player learning. A game that evolves over time prevents the stagnation of boredom. Importantly,
+great game design teaches the player  how to handle the new things in an intuitive way, so the
+learning curve feels rewarding rather than overwhelming. As Raph Koster famously said, “Fun is
+just another word for learning” – players enjoy mastering new patterns. So, the best games
+are essentially excellent teachers that present novel problems and give players the tools to master
+them, yielding satisfaction. This constant learning also feeds into the  progress/competence
+loop, as the player can look back and see how much more capable they are now compared to
+when they started.
+Polish and usability: Though not a pure psychology theory, it’s worth noting that a frictionless
+user experience is crucial. Great games minimize  confusion and extraneous frustration by
+having clear instructions, intuitive controls, and fairness in mechanics. This ensures players stay
+in a positive mental state. If a game’s controls or rules “disappear” (i.e. the player doesn’t have to
+fight  the  interface),  the  player  can  fully  immerse  and  enjoy  the  psychological  rewards  we
+discussed. High-quality audio-visual feedback (satisfying sound effects, attractive graphics) also
+enhance enjoyment by making feedback more visceral and understandable (e.g. a triumphant
+music cue when you win, or a clear visual indicator of a low health state). All these polish
+elements contribute to the player’s subconscious comfort and satisfaction with the game.
+Ethical engagement, not exploitation: Modern designers are increasingly aware that while
+certain psychological tricks (like variable reward schedules or fear of missing out) can increase
+• 
+• 
+• 
+• 
+10
+
+--- Page 11 ---
+engagement,  overusing  them  can  harm  players’  well-being  or  enjoyment.  A  great  game  uses
+psychology responsibly – it tries to keep players hooked through enjoyment and mastery rather
+than through dark patterns or excessive compulsion loops. This means respecting the player’s
+time (e.g. not locking fun behind 10 hours of grind), offering optional monetization that doesn’t
+skew fairness, and ensuring that the game can be enjoyed in healthy sessions. Games that do
+this earn goodwill from players, who then feel safe indulging in the game. From a psychological
+standpoint, a player who trusts the game is not trying to manipulate or exploit them is more
+likely to fully engage and enter flow, rather than have a defensive posture. In contrast, if players
+sense a game is basically a Skinner box to extract money or a platform for ads, they’ll not
+genuinely like it for long. Thus, fairness, transparency, and an emphasis on intrinsic fun over
+extrinsic bait are key to a game being great in the eyes of players.
+Finally, a great game often aligns with what makes play fun on a human level. As one board game
+industry  article  concluded,  the  enduring  appeal  of  games  is  that  they  “appeal  to  our  desires  for
+connection, mastery, and fun”, allowing us to challenge our minds, connect with others, and enjoy the
+journey. That is a beautiful summary of the psychology of play. If a game consistently delivers a sense
+of challenge and mastery, provides social or narrative connection, and most of all is fun, it will likely
+stand out as a great game. By understanding these psychological drivers – why humans play and what
+we crave from games – designers can create experiences that not only entertain, but also resonate
+deeply with players’ motivations and emotions.
+Sources:
+Research on player motivations and needs (Nick Yee’s motivation components; Self-
+Determination Theory in gaming) 
+Articles on game psychology and engagement (intrinsic vs extrinsic motivation, dopamine
+feedback loops, etc.) 
+Game design blogs and industry insights on player retention, flow, and fun (avoiding frustration/
+boredom, fostering flow) 
+Academic studies on gaming and well-being, aggression, and social aspects 
+Insights on board game psychology and social play motivations 
+Game Design Psychology: Unlock Player Motivation | Lindenwood
+https://online.lindenwood.edu/blog/the-fascinating-world-of-game-design-psychology-unlocking-the-secrets-to-player-
+motivation/
+Fun, Flow, and Fiero—How Games Motivate Players to Persevere – Mind Brain Education
+https://www.mindbrained.org/2023/04/fun-flow-and-fiero-how-games-motivate-players-to-persevere/
+16 Reasons Why Players Are Leaving Your Game — GameAnalytics
+https://www.gameanalytics.com/blog/16-reasons-players-leaving-game
+• 
+• 
+• 
+• 
+• 
+1 3 5
+2
+4
+11
+

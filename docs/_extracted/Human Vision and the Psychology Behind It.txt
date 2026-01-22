@@ -1,0 +1,415 @@
+TITLE: Human Vision and the Psychology Behind It.pdf
+PAGES: 10
+
+--- Page 1 ---
+Human Vision and the Psychology Behind It
+Introduction
+Human vision is not just a camera-like recording of the world – it is an active process involving our
+eyes, brain, and mind working together . We sense light through the eyes, but we perceive and interpret
+what we see using psychological processes shaped by evolution, development, and experience. From
+the colors and shapes we favor to the emotions visuals evoke, understanding human vision requires
+insights from biology, neuroscience, psychology, and even art and design. Below, we explore how we
+perceive colors and shapes, how our brain builds visual references, why we like (or dislike) certain
+visuals, and how seeing is intertwined with thinking and feeling.
+Anatomy of the Eye and Visual Processing
+Figure: Diagram of the human eye (horizontal section). Light enters through the  cornea and pupil,
+passes through the lens, and projects onto the  retina at the back of the eye. Key structures like the
+fovea (central  pit)  and  optic  nerve are  labeled.  The  retina’s  photoreceptor  cells  (cones  and  rods)
+transduce light into neural signals for the brain to process. 
+Human vision begins with the  eyes focusing light onto the retina, which is a layered sheet of light-
+sensitive cells. The cornea and lens at the front of the eye bend incoming light to focus images onto the
+fovea (the central part of the retina with highest acuity). Photoreceptors in the retina capture
+the light:  cones (concentrated in the fovea) work best in bright light and give us  sharp, detailed color
+vision, while  rods (more numerous in the periphery of the retina) are very light-sensitive and enable
+night and motion vision at the cost of detail and color . In bright conditions our vision is cone-dominated
+(high resolution and color), whereas in a dark room rods take over – which is why in dim light we mostly
+see shades of gray and less detail. The signals from rods and cones are passed through retinal
+neurons to the ganglion cells, whose axons bundle to form the optic nerve carrying visual information
+1 2
+3
+1
+
+--- Page 2 ---
+into  the  brain .  Notably,  where  the  optic  nerve  exits  the  eye  there  are  no  photoreceptors,
+creating a blind spot – yet we normally don’t notice it, because each eye covers for the other and the
+brain “fills in” the missing information automatically.
+In the brain, the optic nerves meet at the optic chiasm (an X-shaped junction) where the nerve fibers
+partially cross. This routing sends information from the left visual field to the right side of the brain and
+vice versa . Visual signals then travel to the  occipital lobe at the back of the brain, where the
+primary visual cortex and other areas process the raw input into meaningful perception. The brain
+handles these signals along two major pathways in parallel: the “what” pathway (ventral stream) and
+the “where/how” pathway (dorsal stream). The “what” pathway (into the temporal lobe) recognizes
+objects – determining what you are looking at – and the “where/how” pathway (into the parietal lobe)
+computes where things are in space and how to interact with them. For example, when you see a
+ball: the ventral stream identifies it as a ball (and its color , shape, etc.), while the dorsal stream figures
+out that it’s moving toward the left and that you could reach out to catch it. These two streams show
+how vision is deeply integrated with cognition and action – our brain is simultaneously recognizing
+the world and preparing responses.
+Another remarkable aspect of early vision processing is that the brain isn’t a passive receiver of visual
+data; it actively transforms signals for usefulness. A clear example is the automatic compensation for
+lighting conditions. The brain uses  context to maintain  color constancy and  brightness constancy: we
+perceive  an  object’s  color  or  shade  as  stable  under  varying  lighting.  A  famous  optical  illusion
+demonstrates this: two squares on a checkered board, one in bright light and one in a shadow, can be
+physically the same gray shade yet one looks much lighter than the other because the brain expects the
+shadowed one to be lighter in reality. In other words, our perceptual system factors in illumination
+and  “corrects” our vision so that we usually see a white piece of paper as white whether it’s under
+noon sun or in shade – a useful trick, but one that illusions exploit to fool us.
+Figure:The checker shadow illusion – A and B are exactly the same shade of gray, but our vision
+system insists that A looks darker than B. The brain, using context (the shadow cast by the cylinder and
+the checkerboard pattern), unconsciously lightens the appearance of square B, assuming it is in shadow
+and should be a “white” square. This illusion highlights how our perception is constructed by the brain
+rather than a direct read-out of light intensity. The brain’s built-in knowledge of the world (that
+surfaces in shadow are usually lighter than they look) leads to a compelling misperception here. Such
+4 1
+5
+6
+6
+7
+7
+8
+8
+2
+
+--- Page 3 ---
+examples show that from the earliest stages, seeing is an active inference process – our brain is guessing
+and adjusting what we see based on context and experience.
+Perception of Color
+How do we perceive the rich spectrum of colors? It starts with the cone photoreceptors in our eyes,
+which come in three types, each tuned to different ranges of wavelengths (roughly sensitive to blue,
+green, or red light) . According to the  trichromatic theory of color vision, any color can be
+produced by combining the activity of these three cone types. For example, both yellow light and a
+mix of red+green light stimulate the “red” and “green” cones similarly, so we perceive the same yellow
+color .  However ,  our  color  perception  is  refined  further  by  the  brain  through  opponent-process
+mechanisms: certain neurons and circuits treat pairs of colors as opposites –  red vs. green,  blue vs.
+yellow, white vs. black. Signals from the cones are recombined so that some cells fire, for instance, for
+“red” and are inhibited by “green.” This opponent coding explains why we don’t perceive a “reddish-
+green” and why staring at a blue image can make a yellow afterimage appear – the neural opponent
+channels  get  fatigued.  Together ,  trichromatic  input  and  opponent  processing  allow  the  brain  to
+discriminate millions of hues in a consistent way.
+Color perception is also profoundly psychological. The colors we see are interpreted in the brain to
+have  consistent  appearance  under  different  lights  (color  constancy,  as  noted),  and  they  also  carry
+emotional and associative meanings for us. Humans have noticeable  color preferences: studies have
+found that people tend to love certain hues and dislike others  across cultures. A prominent finding is
+that the color  blue is often the most favored color worldwide. One scientific explanation (called the
+ecological valence theory) proposes that we grow to prefer colors strongly associated with pleasant or
+survival-related things in our environment, and to shun colors tied to unpleasant things. For example,
+blue and cyan tones remind us of clear skies and clean water – things that historically signaled good
+weather and safe hydration – so we generally have positive feelings toward blue. In contrast, brownish
+or olive-green tones often evoke rotting food, dirty water , or decay, which could explain why these
+colors are less popular or even aversive. In one experiment, researchers found bright blues, reds, and
+greens among the most liked colors, whereas a muddy brown and an olive green ranked near the
+bottom. Notably, people’s experiences with colored objects influence their preferences: when a color is
+strongly associated with things they love (say, the rich brown of chocolate or coffee), they may come to
+appreciate that color more. In short, we like colors that remind us of good things and avoid colors
+linked to bad things – a blend of biological predisposition and learned association.
+Colors also have emotional impacts that designers and artists routinely leverage. Warm colors like red
+and orange are often described as  energizing or attention-grabbing, whereas cool colors like blue and
+green feel calming or refreshing. These effects are not merely cultural clichés; they stem in part from our
+evolutionary and personal associations (fire and blood are dangerous or exciting – red gets the heart
+pumping; the blue of twilight signals a time to relax, water and shade are cooling – blue soothes us). To
+give one example, many social networks use a blue color scheme, possibly because people find blue
+trustworthy and calming, while fast-food chains often use red or yellow accents to stimulate appetite
+and a sense of urgency. Of course, individual reactions vary and context matters (a “calming” blue in a
+fun toy might actually appear cold or sad in a different setting). But broadly, color psychology shows
+that color can influence our mood and decisions unconsciously. We even use color in language to describe
+emotions (feeling  blue, seeing  red,  green with envy), underscoring how deeply colors are intertwined
+with our feelings.
+9 10
+9
+3
+
+--- Page 4 ---
+Perception of Shapes and Forms
+When it comes to shapes and patterns, the human visual system is extremely adept at finding structure
+– we don’t just see patches of light and dark; we organize them into  meaningful forms. A group of
+early  psychologists  known  as  the  Gestalt  psychologists discovered  that  the  brain  follows  certain
+principles of organization automatically. They famously said  “the whole is different from the sum of its
+parts,” meaning our perception of a complete form is not just putting together bits like a puzzle –
+instead,  the  brain  tends  to  group  and  simplify visual  input  in  predictable  ways.  These  Gestalt
+principles include: 
+Figure-ground segregation: We intuitively separate a scene into a figure (the object of focus)
+and  ground (background).  Depending  on  what  we  consider  figure  vs.  background,  the
+perception can completely flip. A classic example is Rubin’s vase illusion – it can be seen as a
+white vase (with black background) or as two black faces in profile, alternately, but not both at
+once. The visual system can usually only hold one interpretation as the “figure” at a time. 
+Proximity: Elements that are close together are perceived as a group. If you see a cluster of dots
+near each other and a separate cluster a bit away, you’ll naturally see two groups of dots, not
+just a single collection.
+Similarity: Objects that look similar (in color , shape, etc.) get grouped in our perception. For
+instance, in a grid of alternating colored dots, we tend to perceive rows or columns of like colors
+as units. This principle is why, say, players wearing the same jersey are instantly seen as one
+team on a field.
+Continuity (Good continuation): We prefer to see continuous lines and patterns rather than
+disjointed fragments. If lines or edges appear to form a smooth path, we perceive them as part
+of the same object or trajectory, even if they intersect or are broken. We’d see an X as two
+crossing lines rather than >/< shapes meeting.
+Closure: The brain tends to fill in missing pieces to see a complete object. If part of a shape is
+missing, we still perceive the whole by mentally closing the gaps. For example, a circle drawn
+with a small break in the outline is still seen as a circle, not two separate arcs – our mind closes
+the circle.
+These grouping rules operate so automatically that we often have to  unlearn them to understand
+abstract or camouflaged images. They reflect how the visual system evolved to make quick sense of the
+environment – imposing structure and meaning efficiently.
+• 
+• 
+• 
+• 
+11
+11
+• 
+11
+4
+
+--- Page 5 ---
+Figure:Figure–ground optical illusion (Rubin’s Vase) – Are you looking at a vase or two faces? In this
+classic ambiguous image, the brain can interpret the shapes in two ways: either the light-colored vase
+shape in the center is the “figure” against a dark background, or the dark profiles on either side are the
+figures facing each other with a light background. Our perception flips between these interpretations,
+illustrating how the brain actively organizes visual input into figure and ground. This demonstrates a
+basic  step  of  shape  perception  –  deciding  what in  the  scene  is  the  object  of  interest  and  what  is
+backdrop. Once the figure-ground decision is made, the other Gestalt principles help group the details
+into coherent objects.
+Beyond these general principles of how we perceive forms, an intriguing question is  why certain
+shapes please us while others put us on edge. Humans across cultures seem to have some universal
+aesthetic biases when it comes to basic shapes and contours. One well-documented phenomenon is a
+preference for curved lines and shapes over sharp, angular ones. Experimental studies using abstract
+shapes  have  consistently  found  that  people  judge  curvy,  rounded  forms  as  more  attractive  or
+pleasant, whereas spiky or jagged forms feel more “angry” or threatening. Neuroscientists have even
+observed that viewing sharp-angled patterns can trigger a slight fear or stress response – for example,
+one study showed increased amygdala activation (the brain’s fear center) when people viewed objects
+with  sharp  features,  suggesting  an  innate  caution.  Why  would  this  be  the  case?  Evolutionary
+psychologists propose that in our ancestral environment,  sharp angles were often signs of danger
+(think of teeth, thorns, or a snarling animal’s angular face), so being wary of jagged shapes had survival
+value. Conversely, rounded shapes (like smooth berries or friendly human faces) typically signaled safe
+or nourishing things. Research by Bar and Neta (2007) supports this: they found that people not only
+prefer curved objects but also implicitly associate angular shapes with a sense of threat, as indicated by
+both self-reports and amygdala activity. This “sharp = dangerous, round = safe” bias might be deeply
+embedded. Indeed, even infants as young as a few months old look longer at curved shapes than at
+angular  shapes,  hinting  that  the  preference  for  curves  emerges  very  early  (possibly  innate).  And
+intriguingly, this isn’t just a Western or modern quirk – studies in non-Western cultures and even tests
+with other primates have found similar preferences for curvature, pointing to a biological basis.
+Another visual feature humans tend to love is symmetry. Symmetrical shapes and patterns (where one
+side mirrors the other) are generally rated as more attractive and harmonious across many studies. This
+holds true in abstract designs, art, and especially for faces and bodies – a symmetrical face is usually
+deemed more beautiful or healthy-looking than an asymmetrical one. Evolutionary reasoning suggests
+5
+
+--- Page 6 ---
+symmetry could be a proxy for genetic fitness or good development (since asymmetry might result
+from  disease  or  injury),  thus  we’re  drawn  to  it  in  mates  and  even  in  the  things  we  create  (art,
+architecture). Neuroscientifically, our brains also process symmetrical images more fluently; adults and
+even infants detect symmetry quickly and remember symmetrical patterns better than random ones
+. Symmetry provides a sense of order and balance that our visual system finds satisfying, perhaps
+because it reduces perceptual complexity – the brain has to process only half and can predict the rest.
+Interestingly, children don’t show a strong preference for symmetry until a certain age (around 5–9
+years for faces), indicating that some appreciation might develop with cognitive maturation or learned
+cultural values, even if the detection of symmetry is innate. Overall, we seem wired to enjoy symmetry
+– it consistently appears in human aesthetics, from folk patterns to high art, and across eras people
+have associated symmetry with beauty and even “truth” in nature.
+Now, not all our shape preferences are inborn; many are shaped by personal and cultural experiences
+too. For instance, some shapes might carry learned symbolism (a heart shape means love to us because
+we’ve learned that association, though it’s not inherently “lovely” in nature). Our perception of forms is
+also influenced by context and expectations. Recall the Gestalt idea of  closure – we fill in gaps.
+Similarly,  our  brain  uses  “perceptual  hypotheses” to  interpret  ambiguous  shapes,  essentially  best
+guesses based on what we’ve seen before. If you glimpse something coiled on a hiking trail, your brain
+might instantly guess “snake!” if you’ve evolved with snakes or heard of them – and you might jump,
+until closer inspection shows it’s a harmless rope. Our  visual system cross-references memory to
+recognize objects: we have mental templates so strong that we often see things that aren’t there if they
+resemble  familiar  patterns  (like  seeing  faces  in  clouds,  a  phenomenon  called  pareidolia).  These
+tendencies highlight that what we perceive is a mix of incoming data and prior knowledge. We build
+an internal library of references – basically, every new shape or object we encounter is compared
+against what we already know. This is why a biologist sees much more in a pattern of leaves than a
+layperson (their brain has more reference data for plants), or why one person might find an abstract
+shape meaningless while an art expert sees intentional form. Our  expectations and mindset also
+prime us to see shapes in certain ways: if you’re told to expect a hidden word in a jumble of shapes,
+you’ll be more likely to “find” it by organizing the shapes accordingly. Psychologists call this perceptual
+set, and it is influenced by factors like our personality, past experiences, and even current mood. In
+short, we perceive shapes not just with our eyes but with our brain’s interpretations – balancing
+raw sensory input with assumptions and knowledge. That is why illusions and Rorschach inkblots are so
+intriguing: they play with that boundary between what’s on the page and what our mind brings to it.
+Finally, tying back to preferences: “Why do we like what we like?” Some of it, as discussed, is rooted in
+survival  (e.g.  avoid  pointy  things,  approach  symmetrical  healthy  things).  Some  is  about  ease  of
+processing –  we  tend  to  prefer  visuals  that  our  brains  can  process  fluently  (a  concept  known  as
+perceptual fluency). A symmetrical, high-contrast shape on a plain background is simply easier for the
+visual system to digest than a chaotic, asymmetrical tangle, and this ease can translate into a positive
+aesthetic feeling (“easy on the eyes”). Similarly, moderate complexity (like the repeating patterns of
+leaves or the spirals of a seashell) is pleasing because it hits a sweet spot between simplicity and
+boredom on one hand, and randomness and confusion on the other . Our brains like a bit of a puzzle –
+enough  pattern  to  recognize,  but  also  a  bit  of  novelty.  That  may  explain  why  fractals (repeating
+patterns at different scales, common in nature) are often found beautiful – think of snowflakes, or the
+branching of trees.
+Vision, Emotions, and the Brain’s Coordination
+Seeing is an emotional and cognitive experience, not just a mechanical one. The  brain coordinates
+vision with thinking and feeling at every moment. As visual information courses from the eyes to
+12
+12
+6
+
+--- Page 7 ---
+various  brain  regions,  it  doesn’t  just  stop  in  the  visual  cortex.  It  spreads  to  memory  centers  and
+emotional centers that together color our perceptions with meaning and significance.
+One important player here is the amygdala, an almond-shaped part of the limbic system (the brain’s
+emotional hub). The amygdala is known for processing emotions – especially fear and threat – and it is
+tightly connected to our visual system. Imagine walking in the woods and suddenly seeing a snake-
+like curve on the path: even before you fully identify it as a stick or snake, your amygdala has already
+sprung into action, prompting a surge of caution or fear . This “quick and dirty” pathway (sometimes
+called the low road) from the eyes to the amygdala allows us to react to potential threats in a split
+second, possibly before we are even conscious of what we saw. In essence, the amygdala  adds an
+emotional tag to visual inputs, flagging those that might be important for survival. For threatening
+shapes (like the aforementioned sharp angles that could signify an angry face or a predator), the
+amygdala’s  response  can  be  measured  as  heightened  activity,  and  it  can  even  influence  how  we
+perceive those stimuli. Studies have shown that when emotional significance is involved, the amygdala
+can increase activity in parts of the visual cortex (like the fusiform gyrus, which helps with recognizing
+objects and faces) to  boost the chances that we consciously notice the emotionally relevant item. In
+other words, if you’re in a state of fear , you might literally see differently – the brain is tuning your vision
+to look for threats. This coordination ensures that vision isn’t just about mapping the world, but about
+evaluating it: Is this thing good or bad? Dangerous or helpful?
+Vision is also intertwined with  memory and thought. The moment we see something familiar – say,
+your friend’s face or your favorite mug – our brain’s recognition systems (in the temporal lobe) connect
+with memory networks to retrieve information about it (the friend’s name, the mug’s sentimental value,
+etc.).  This  happens  so  seamlessly  that  we  don’t  realize  an  act  of  memory  just  occurred.  Our  past
+experiences create a context for present vision. That is why a single image can make you suddenly
+nostalgic or upset: the sight of an old photograph, for instance, might activate your hippocampus
+(critical for memory) and bring back a flood of recollections. There’s also a concept called  embodied
+perception – the idea that our current state (bodily and emotional) can influence how we perceive. If
+you’re anxious, you might literally perceive a benign expression as a frown, or see the environment as
+more threatening, due to top-down influence of your emotional state on vision. Psychological studies
+confirm that things like biases, prejudices, and expectations can subtly skew perception. For example,
+one study found that people were quicker to “see” a weapon in someone’s hand if the person was of a
+stereotyped group, even when no weapon was present – a dangerous illusion created by expectation
+and fear . This shows that thinking and feeling can literally change what we see. Our brain is not a neutral
+observer; it’s an active participant that filters and interprets visual signals.
+From a coordination standpoint, we can imagine the brain as having multiple layers of processing for
+vision: a lower layer that does the basic parsing of lines, colors, movement (in occipital and parietal
+regions),  and  higher  layers  that  attach  labels,  significance,  and  reactions  (in  temporal  lobe  for
+identification, limbic system for emotion, frontal lobe for decision-making). These layers constantly
+interact. If you see something emotionally charged – imagine the flag of a country, or the face of
+someone you love – visual areas will feed into emotional circuits (making your heart race or giving you
+warmth), and those emotions in turn can focus your attention or sharpen certain details of the image
+for you. Neuroimaging studies have even found that emotional scenes (like seeing a frightening image)
+can  cause  increased  activity  in  early  visual  cortex:  essentially,  your  brain  opens  its  eyes  wider for
+emotionally important sights. At the same time, your frontal cortex (in charge of reasoning and self-
+control) can modulate your vision and emotion – e.g. when you realize that “snake” is actually a stick,
+your cortex dampens the amygdala’s alarm and your visual interpretation shifts to match reality.
+In summary, vision, cognition, and emotion form a seamless loop. We do not simply see and then
+separately feel – we feel as we see, and we think as we see. This integration is what allows, for instance, art
+13
+7
+
+--- Page 8 ---
+to move us so deeply: a painting or a film strikes our eyes, but its effect comes from how it resonates in
+our mind and heart. Our brain coordinates these domains to produce the rich experience of sight:
+recognizing  a  stimulus  (a  rose),  recalling  what  it  means  (roses  symbolize  love,  and  that  one  time
+someone gave you a rose), and feeling something about it (joy or sadness, depending on the memory).
+Vision is truly a whole-brain process, engaging neural circuits for perception, knowledge, and emotion
+all at once.
+Applications in Design and Aesthetics
+Understanding human vision and its psychological underpinnings isn’t just academic – it has practical
+applications in every field related to visuals, from graphic design and architecture to film production
+and user-interface (UI) design. Creatives and engineers who design visual experiences often implicitly
+use these principles to make their work more effective and appealing.
+Take  production  design  in  film (the  crafting  of  a  movie’s  visual  environment)  –  color  and  shape
+psychology guide many choices. Filmmakers use color palettes to set the mood of a scene (think of the
+stark desaturated colors of a horror movie versus the warm, saturated tones of a romantic sunset
+scene). They know that  color can subtly control audience emotion. For example, a surge of red
+lighting can heighten tension or signal danger (playing on red’s association with alarm), whereas a wash
+of blue can calm or evoke melancholy. Set designers also leverage  shape language in props and
+scenery: a villain’s lair might feature jagged, angular architecture and spiky shapes, which intuitively feel
+menacing, whereas a hero’s home might have more rounded, soft forms that feel safe. These choices
+align with our earlier discussion that angular = threatening and curved = inviting. Indeed, in animation
+and  character  design,  artists  rigorously  use  shape  psychology:  protagonists are  often  drawn  with
+rounded,  soft  silhouettes to  appear  friendly  and  approachable,  while  antagonists get  angular  or
+pointed features to signal danger and harshness. Disney animators, for instance, frequently give
+heroes big doe eyes (round) and flowing curves in their outline, but villains get sharp cheekbones,
+pointed chin, or triangular costumes – none of this is accidental. It’s a visual shorthand to tap into our
+subconscious responses so that the audience feels a character’s personality at first sight.
+Graphic designers and UI/UX designers apply Gestalt principles directly to make information clear and
+pleasing.  When  designing  a  website  or  app  interface,  knowing  that  users  will  group  elements  by
+proximity  and  similarity  is  crucial.  Spacing  out  unrelated  buttons  (to  obey  proximity)  and  using
+consistent styles for related controls (to leverage similarity) helps users intuitively navigate. If you want a
+user to see two things as distinct, you put space between them; if you want them seen as a unit, you
+group them closely or give them a common color or shape. Figure-ground considerations are vital in
+logo design – the FedEx logo, for example, famously uses figure-ground ambiguity to hide an arrow in
+the negative space, a clever visual pun that also grabs attention once noticed. Artists often play with
+closure, giving viewers just enough fragments of a shape so that our mind connects the dots (which
+can be more engaging, as the audience “completes” the image mentally). Symmetry and patterns are
+used in everything from corporate logos to building facades to create a sense of harmony (unless the
+goal is to create tension or movement, in which case deliberate asymmetry might be used). 
+In  architecture and environmental design, human vision research guides how spaces are lit and
+colored. A well-lit, high-contrast environment can make a space feel open and safe (because our vision
+works  well  and  nothing  hides  in  the  shadows),  whereas  dim,  monochromatic  lighting  can  create
+intimacy or sometimes anxiety (exploiting our visual sensitivity to contrast). Casinos, for example, use
+specific lighting and color choices to keep people alert and engaged, while hospitals choose soothing
+colors  like  pale  blues  and  greens  to  calm  patients.  Marketing  and  advertising,  too,  lean  on  these
+principles: brand colors are chosen to convey traits (blue for trustworthiness and competence – think
+14
+14 15
+8
+
+--- Page 9 ---
+banks and tech companies; green for eco-friendliness or health; red for excitement and urgency – think
+clearance sale signs) and package design uses shapes that appeal (e.g. a shampoo bottle with smooth
+curves feels gentle, versus a cleaning solvent with a sharp angular bottle that looks potent and precise).
+Even  safety  and  readability benefit  from  vision  science:  high-contrast  text  (black  on  yellow,  for
+instance) is most quickly perceived, so warning signs adopt those combinations. Peripheral vision is
+poor at detail but great at detecting motion, a fact used in automobile dashboard designs (important
+signals are often accompanied by blinking lights or placed centrally). And knowing about the blind spot
+(each eye’s visual field has a hole where the optic nerve is) is crucial in designing things like rear-view
+mirrors or VR headsets, to ensure critical visuals aren’t lost where we literally cannot see.
+All these examples boil down to this:  by aligning design with how human vision and psychology
+naturally work, we create images and spaces that feel “right” to people. Good design either plays
+to our expectations – creating visual comfort – or deliberately violates them in calculated ways to
+surprise  or  provoke  thought.  The  best  artists  and  designers,  knowingly  or  not,  are  human-vision
+experts: they use contrast to draw the eye, patterns to please it, and anomalies to spark curiosity. They
+take into account that we have limited attention, so they use bold shapes or color pops to guide focus.
+They consider that we interpret visuals emotionally, so they choose forms and palettes that resonate with
+the intended tone.
+In conclusion, human vision is a rich interplay of biology and psychology. We’ve seen how eyes and
+brain cooperate to let us perceive colors, shapes, depth, and motion; how the brain uses rules and past
+experiences to organize and sometimes mislead our perceptions; why we lean towards certain visual
+aesthetics thanks to evolution and association; and how seeing something is never a purely visual act
+but one entangled with thought and emotion. The fields of vision science, cognitive psychology, and
+neuroaesthetics continue to uncover more about this remarkable sense. Every answer we find (“why do
+we prefer curves?”) often leads to new questions (“are there situations where we might prefer angular
+shapes, and why?”). But one thing is clear: to see is to interpret. Our reality is actively constructed in
+our minds from photons and neurons, shaped by millions of years of survival and enriched by individual
+life experiences. That is what makes human vision so endlessly fascinating – it is at once a precise
+scientific process and a deeply personal, psychological experience. And by understanding it, we not only
+answer theoretical questions but also gain insight into creating a world (or artwork, or product) that
+connects with people’s eyes and minds in the most meaningful way.
+Sources: The information above is drawn from a range of scientific research and expert sources on
+vision  and  perception.  Key  references  include  psychology  and  neuroscience  textbooks  ,  peer-
+reviewed studies on color and shape preferences , and knowledge from vision science about the eye
+and brain pathways , as well as design psychology insights . These illustrate the interdisciplinary
+understanding of how we see and why we respond as we do to the visual world. 
+How We See | Introduction to Psychology
+https://courses.lumenlearning.com/waymaker-psychology/chapter/vision/
+5.3: Vision - Social Sci LibreTexts
+https://socialsci.libretexts.org/Bookshelves/Psychology/Introductory_Psychology/Introductory_Psychology_2e_(OpenStax)/
+05%3A_Sensation_and_Perception/5.04%3A_Vision
+File:Checker shadow illusion.svg - Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Checker_shadow_illusion.svg
+6
+9 14
+1 2 3 4
+5 6 7 9 10
+8
+9
+
+--- Page 10 ---
+Gestalt Principles of Perception – Psychology
+https://opentext.wsu.edu/psych105nusbaum/chapter/gestalt-principles-of-perception/
+The aesthetic preference for symmetry dissociates from early-emerging attention to symmetry |
+Scientific Reports
+https://www.nature.com/articles/s41598-018-24558-x?error=cookies_not_supported&code=75e7fb0c-dcb8-46fc-8f5b-
+e2d6102bfa4a
+Amygdala: What It Is and What It Controls
+https://my.clevelandclinic.org/health/body/24894-amygdala
+shape language character design [Complete Guide 2021] + Examples
+https://dreamfarmstudios.com/blog/shape-language-in-character-design/
+11
+12
+13
+14 15
+10
+
